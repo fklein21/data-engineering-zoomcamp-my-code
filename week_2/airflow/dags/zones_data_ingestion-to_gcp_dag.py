@@ -25,8 +25,8 @@ default_args = {
 }
 
 AIRFLOW_HOME = os.environ.get("AIRFLOW_HOME", "/opt/airflow/")
-URL_PREFIX =  "https://nyc-tlc.s3.amazonaws.com/trip+data/"
-FILENAME_BASE = "fhv_tripdata_{{ execution_date.strftime(\'%Y-%m\') }}"
+URL_PREFIX =  "https://s3.amazonaws.com/nyc-tlc/misc/"
+FILENAME_BASE = "taxi+_zone_lookup"
 FILENAME_CSV = FILENAME_BASE + ".csv"
 FILENAME_PARQUET = FILENAME_BASE + ".parquet"
 URL_TEMPLATE = URL_PREFIX + FILENAME_CSV
@@ -37,10 +37,9 @@ URL_TEMPLATE = URL_PREFIX + FILENAME_CSV
 ### DAG for downloading the fhv data
 # NOTE: DAG declaration - using a Context Manager (an implicit way)
 with DAG(
-    dag_id="fhv_data_ingestion_gcs_dag",
-    schedule_interval="0 6 1 * *",
+    dag_id="zones_data_ingestion_gcs_dag",
     start_date=datetime(2019, 1, 1),
-    end_date=datetime(2020, 1, 1),
+    schedule_interval="@once",
     default_args=default_args,
     max_active_runs=4,
     catchup=True,

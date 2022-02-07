@@ -68,7 +68,7 @@ with DAG(
         task_id="local_to_gcs_task",
         python_callable=upload_to_gcs,
         op_kwargs={
-            "bucket": "raw/" + BUCKET,
+            "bucket": BUCKET,
         },
     )
 
