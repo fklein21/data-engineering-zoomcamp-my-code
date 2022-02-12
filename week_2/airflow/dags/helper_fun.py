@@ -13,18 +13,18 @@ import pyarrow.parquet as pq
 
 ### Python functions
 
-def format_to_parquet(src_file, ti=None):
+def format_to_parquet(src_file, ti=None, color=''):
     if not src_file.endswith('.csv'):
         logging.error("Can only accept source files in CSV format, for the moment")
         return
     table = pv.read_csv(src_file)
     filename_parquet = src_file.replace('.csv', '.parquet')
     pq.write_table(table, filename_parquet)
-    ti.xcom_push(key='filename_parquet', value=filename_parquet)
+    ti.xcom_push(key=color+'filename_parquet', value=filename_parquet)
 
 
 # NOTE: takes 20 mins, at an upload speed of 800kbps. Faster if your internet has a better upload speed
-def upload_to_gcs(bucket, ti=None):
+def upload_to_gcs(bucket, ti=None, color='', task_ids="format_to_parquet_task"):
     """
     Ref: https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-python
     :param bucket: GCS bucket name
@@ -32,7 +32,7 @@ def upload_to_gcs(bucket, ti=None):
     :param local_file: source path & file-name
     :return:
     """
-    local_file = ti.xcom_pull(task_ids="format_to_parquet_task", key="filename_parquet")
+    local_file = ti.xcom_pull(task_ids=task_ids, key=color+"filename_parquet")
     logging.info("local_filename: ",local_file)
     object_name = f"raw/{local_file.split('/')[-1]}"
 
