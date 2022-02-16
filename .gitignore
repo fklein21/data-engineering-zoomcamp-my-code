@@ -156,3 +156,10 @@ cython_debug/
 logs/
 plugins/
 
+## For dbt
+target/
+dbt_packages/
+logs/
+
+
+
