@@ -20,7 +20,7 @@ select
     {{ dbt_utils.surrogate_key(['dispatching_base_num', 'pickup_datetime']) }} as tripid,
     cast(SUBSTRING (dispatching_base_num, 2) as integer) as vendorid,
     0 as ratecodeid,
-    cast(PULocationID as integer) as  pickup_locationid,
+    PULocationID as pickup_locationid,
     cast(DOLocationID as integer) as dropoff_locationid,
     
     -- timestamps
@@ -43,11 +43,13 @@ select
     cast(0. as numeric) as improvement_surcharge,
     cast(0. as numeric) as total_amount,
     0 as payment_type,
-    '' as payment_type_description, 
+    'Unknown' as payment_type_description, 
     cast(0. as numeric) as congestion_surcharge
 
 from tripdata
 where rn = 1
+and DOLocationID is not null
+and PULocationID is not null
 
 -- dbt build --m <model.sql> --var 'is_test_run: false'
 {% if var('is_test_run', default=true) %}
