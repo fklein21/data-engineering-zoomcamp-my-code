@@ -12,6 +12,12 @@ yellow_data as (
     from {{ ref('stg_yellow_tripdata') }}
 ), 
 
+fhv_data as (
+    select *, 
+        'FHV' as service_type
+    from {{ ref('stg_fhv_tripdata') }}
+), 
+
 trips_unioned as (
     select * from green_data
     union all
