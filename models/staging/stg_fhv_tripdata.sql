@@ -20,7 +20,7 @@ select
     {{ dbt_utils.surrogate_key(['dispatching_base_num', 'pickup_datetime']) }} as tripid,
     cast(SUBSTRING (dispatching_base_num, 2) as integer) as vendorid,
     0 as ratecodeid,
-    cast(PULocationID as integer) as  pickup_locationid,
+    PULocationID as pickup_locationid,
     cast(DOLocationID as integer) as dropoff_locationid,
     
     -- timestamps
@@ -28,26 +28,28 @@ select
     cast(dropoff_datetime as timestamp) as dropoff_datetime,
     
     -- trip info
-    0 as store_and_fwd_flag,
+    'N' as store_and_fwd_flag,
     0 as passenger_count,
-    0 as trip_distance,
+    cast(0. as numeric) as trip_distance,
     COALESCE(SR_Flag, 0 ) as trip_type,
     
     -- payment info
-    0 as fare_amount,
-    0 as extra,
-    0 as mta_tax,
-    0 as tip_amount,
-    0 as tolls_amount,
-    0 as ehail_fee,
-    0 as improvement_surcharge,
-    0 as total_amount,
+    cast(0. as numeric) as fare_amount,
+    cast(0. as numeric) as extra,
+    cast(0. as numeric) as mta_tax,
+    cast(0. as numeric) as tip_amount,
+    cast(0. as numeric) as tolls_amount,
+    cast(0. as numeric) as ehail_fee,
+    cast(0. as numeric) as improvement_surcharge,
+    cast(0. as numeric) as total_amount,
     0 as payment_type,
-    0 as payment_type_description, 
-    0 as congestion_surcharge
+    'Unknown' as payment_type_description, 
+    cast(0. as numeric) as congestion_surcharge
 
 from tripdata
 where rn = 1
+and DOLocationID is not null
+and PULocationID is not null
 
 -- dbt build --m <model.sql> --var 'is_test_run: false'
 {% if var('is_test_run', default=true) %}
