@@ -161,5 +161,6 @@ target/
 dbt_packages/
 logs/
 
-
+## For avoiding uploading data
+data/
 
