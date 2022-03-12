@@ -22,10 +22,23 @@ def send_record():
 
     producer = AvroProducer(producer_config, default_key_schema=key_schema, default_value_schema=value_schema)
 
-    file = open("data/rides.csv")
+    file = open('data/rides.csv')
 
     csvreader = csv.reader(file)
     header = next(csvreader)
     for row in csvreader:
         key = {"vendorId": int(row[0])}
-        value = {"vendorId": int(row[0])}
+        value = {"vendorId": int(row[0]), "passenger_count": int(row[3]), "trip_distance": float(row[4]), "payment_type": int(row[9]), "total_amount": float(row[16])}
+
+        try:
+            producer.produce(topic='datatalkclub.yellow_taxi_rides', key=key, value=value)
+        except Exception as e:
+            print(f"Exception while producing record value - {value}: {e}")
+        else:
+            print(f"Successfully producing record value - {value}")
+
+        producer.flush()
+        sleep(1)
+
+if __name__ == "__main__":
+    send_record()
