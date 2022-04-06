@@ -1,0 +1,16 @@
+version: '2'
+services:
+  terraform_setup:
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/code
+
+
+# services:
+#   pgdatabase:
+#     image: ubuntu:20.04
+
+
+
