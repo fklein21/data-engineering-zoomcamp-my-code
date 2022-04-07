@@ -1,0 +1,258 @@
+Script started on 2022-01-26 01:06:14+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="150" LINES="20"]
+[0m[49m[39m[27m[24m[K
+[1A7[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/1_terraform_gcp/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m                                                                                [0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m 01:06:14[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[0m[49m[39m[27m[24m[56C[?2004h[?25l8[0m[49m[39m[27m[24m[J]2;fklein@fklein-ThinkPad-X260:~/data-engineering-zoomcamp/1_terraform_gcp/terraform]1;..gcp/terraform[0m[38;5;254m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/1_terraform_gcp/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[K[50C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[34m[0m[34m[40m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:14[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[93D[?1h=[?12l[?25h[?2004h[1m[31mt[0m[39m[1m[31mt[0m[39m[90merraform apply[39m[14D[1m[31mt[1m[31me[0m[39m[1m[31mt[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[1m[31ma[1m[31mf[0m[39m[1m[31mf[1m[31mo[0m[39m[1m[31mo[1m[31mr[0m[39m[8D[0m[32mt[0m[32me[0m[32mr[0m[32mr[0m[32ma[0m[32mf[0m[32mo[0m[32mr[32mm[39m[?25l[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/1_terraform_gcp/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[32mterraform[39m[90m apply[39m[K[35C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[34m[0m[34m[40m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:14[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[84D[?12l[?25h[39m [39mi[39m [39m [39m [39m [90mnit[39m[39mn[39mi[39mt[?1l>[?2004l
+]2;terraform init]1;terraform
+[0m[1mInitializing the backend...[0m
+
+[0m[1mInitializing provider plugins...[0m
+- Reusing previous version of hashicorp/google from the dependency lock file
+- Using previously-installed hashicorp/google v4.8.0
+
+[0m[1m[32mTerraform has been successfully initialized![0m[32m[0m
+[0m[32m
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                      ]2;fklein@fklein-ThinkPad-X260:~/data-engineering-zoomcamp/1_terraform_gcp/terraform]1;..gcp/terraform[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[K[64C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[34m[0m[34m[40m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:19[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[107D[?1h=[?2004h[1m[31mt[0m[39m[1m[31mt[0m[39m[90merraform init[39m[13D[1m[31mt[1m[31me[0m[39m[1m[31mt[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[1m[31mr[0m[39m[0m[39m [90mraform init[39m[11D[1m[31mr[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[1m[31ma[1m[31mf[0m[39m[1m[31mf[1m[31mo[0m[39m[1m[31mo[1m[31mr[0m[39m[8D[0m[32mt[0m[32me[0m[32mr[0m[32mr[0m[32ma[0m[32mf[0m[32mo[0m[32mr[32mm[39m[?25l[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[32mterraform[39m[90m init[39m[K[50C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[34m[0m[34m[40m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:19[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[98D[?12l[?25h[39m [39mp[39m [39m [39m [90mlan [39m[39ml[39ma[39mn[39m [?1l>[?2004l
+]2;terraform plan]1;terraform
+Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
+  [32m+[0m create
+[0m
+Terraform will perform the following actions:
+
+[1m  # google_bigquery_dataset.dataset[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_bigquery_dataset" "dataset" {
+      [32m+[0m [0m[1m[0mcreation_time[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mdataset_id[0m[0m                 = "trips_data_all"
+      [32m+[0m [0m[1m[0mdelete_contents_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0metag[0m[0m                       = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m                         = (known after apply)
+      [32m+[0m [0m[1m[0mlast_modified_time[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mlocation[0m[0m                   = "europe-west6"
+      [32m+[0m [0m[1m[0mproject[0m[0m                    = "dtc-de-339301"
+      [32m+[0m [0m[1m[0mself_link[0m[0m                  = (known after apply)
+
+      [32m+[0m [0maccess {
+          [32m+[0m [0m[1m[0mdomain[0m[0m         = (known after apply)
+          [32m+[0m [0m[1m[0mgroup_by_email[0m[0m = (known after apply)
+          [32m+[0m [0m[1m[0mrole[0m[0m           = (known after apply)
+          [32m+[0m [0m[1m[0mspecial_group[0m[0m  = (known after apply)
+          [32m+[0m [0m[1m[0muser_by_email[0m[0m  = (known after apply)
+
+          [32m+[0m [0mview {
+              [32m+[0m [0m[1m[0mdataset_id[0m[0m = (known after apply)
+              [32m+[0m [0m[1m[0mproject_id[0m[0m = (known after apply)
+              [32m+[0m [0m[1m[0mtable_id[0m[0m   = (known after apply)
+            }
+        }
+    }
+
+[1m  # google_storage_bucket.data-lake-bucket[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_storage_bucket" "data-lake-bucket" {
+      [32m+[0m [0m[1m[0mforce_destroy[0m[0m               = true
+      [32m+[0m [0m[1m[0mid[0m[0m                          = (known after apply)
+      [32m+[0m [0m[1m[0mlocation[0m[0m                    = "EUROPE-WEST6"
+      [32m+[0m [0m[1m[0mname[0m[0m                        = "dtc_data_lake_dtc-de-339301"
+      [32m+[0m [0m[1m[0mproject[0m[0m                     = (known after apply)
+      [32m+[0m [0m[1m[0mself_link[0m[0m                   = (known after apply)
+      [32m+[0m [0m[1m[0mstorage_class[0m[0m               = "STANDARD"
+      [32m+[0m [0m[1m[0muniform_bucket_level_access[0m[0m = true
+      [32m+[0m [0m[1m[0murl[0m[0m                         = (known after apply)
+
+      [32m+[0m [0mlifecycle_rule {
+          [32m+[0m [0maction {
+              [32m+[0m [0m[1m[0mtype[0m[0m = "Delete"
+            }
+
+          [32m+[0m [0mcondition {
+              [32m+[0m [0m[1m[0mage[0m[0m                   = 30
+              [32m+[0m [0m[1m[0mmatches_storage_class[0m[0m = []
+              [32m+[0m [0m[1m[0mwith_state[0m[0m            = (known after apply)
+            }
+        }
+
+      [32m+[0m [0mversioning {
+          [32m+[0m [0m[1m[0menabled[0m[0m = true
+        }
+    }
+
+[0m[1mPlan:[0m 2 to add, 0 to change, 0 to destroy.
+[0m[90m
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+
+Note: You didn't use the -out option to save this plan, so Terraform can't guarantee to take exactly these actions if you run "terraform apply" now.
+[1m[7m%[27m[1m[0m                                                                                                                                                      ]2;fklein@fklein-ThinkPad-X260:~/data-engineering-zoomcamp/1_terraform_gcp/terraform]1;..gcp/terraform[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[K[64C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[34m[0m[34m[40m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:27[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[107D[?1h=[?2004h[1m[31mt[0m[39m[1m[31mt[0m[39m[90merraform plan[39m[13D[1m[31mt[1m[31me[0m[39m[1m[31mt[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[1m[31ma[1m[31mf[0m[39m[1m[31mf[1m[31mo[0m[39m[1m[31mo[1m[31mr[0m[39m[8D[0m[32mt[0m[32me[0m[32mr[0m[32mr[0m[32ma[0m[32mf[0m[32mo[0m[32mr[32mm[39m[?25l[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[32mterraform[39m[90m plan[39m[K[50C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[34m[0m[34m[40m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:27[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[98D[?12l[?25h[39m [39ma[39m [39m [39m [90mpply[39m[39mp[39mp[39ml[39my[?1l>[?2004l
+]2;terraform apply]1;terraform
+Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
+  [32m+[0m create
+[0m
+Terraform will perform the following actions:
+
+[1m  # google_bigquery_dataset.dataset[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_bigquery_dataset" "dataset" {
+      [32m+[0m [0m[1m[0mcreation_time[0m[0m              = (known after apply)
+      [32m+[0m [0m[1m[0mdataset_id[0m[0m                 = "trips_data_all"
+      [32m+[0m [0m[1m[0mdelete_contents_on_destroy[0m[0m = false
+      [32m+[0m [0m[1m[0metag[0m[0m                       = (known after apply)
+      [32m+[0m [0m[1m[0mid[0m[0m                         = (known after apply)
+      [32m+[0m [0m[1m[0mlast_modified_time[0m[0m         = (known after apply)
+      [32m+[0m [0m[1m[0mlocation[0m[0m                   = "europe-west6"
+      [32m+[0m [0m[1m[0mproject[0m[0m                    = "dtc-de-339301"
+      [32m+[0m [0m[1m[0mself_link[0m[0m                  = (known after apply)
+
+      [32m+[0m [0maccess {
+          [32m+[0m [0m[1m[0mdomain[0m[0m         = (known after apply)
+          [32m+[0m [0m[1m[0mgroup_by_email[0m[0m = (known after apply)
+          [32m+[0m [0m[1m[0mrole[0m[0m           = (known after apply)
+          [32m+[0m [0m[1m[0mspecial_group[0m[0m  = (known after apply)
+          [32m+[0m [0m[1m[0muser_by_email[0m[0m  = (known after apply)
+
+          [32m+[0m [0mview {
+              [32m+[0m [0m[1m[0mdataset_id[0m[0m = (known after apply)
+              [32m+[0m [0m[1m[0mproject_id[0m[0m = (known after apply)
+              [32m+[0m [0m[1m[0mtable_id[0m[0m   = (known after apply)
+            }
+        }
+    }
+
+[1m  # google_storage_bucket.data-lake-bucket[0m will be created[0m[0m
+[0m  [32m+[0m[0m resource "google_storage_bucket" "data-lake-bucket" {
+      [32m+[0m [0m[1m[0mforce_destroy[0m[0m               = true
+      [32m+[0m [0m[1m[0mid[0m[0m                          = (known after apply)
+      [32m+[0m [0m[1m[0mlocation[0m[0m                    = "EUROPE-WEST6"
+      [32m+[0m [0m[1m[0mname[0m[0m                        = "dtc_data_lake_dtc-de-339301"
+      [32m+[0m [0m[1m[0mproject[0m[0m                     = (known after apply)
+      [32m+[0m [0m[1m[0mself_link[0m[0m                   = (known after apply)
+      [32m+[0m [0m[1m[0mstorage_class[0m[0m               = "STANDARD"
+      [32m+[0m [0m[1m[0muniform_bucket_level_access[0m[0m = true
+      [32m+[0m [0m[1m[0murl[0m[0m                         = (known after apply)
+
+      [32m+[0m [0mlifecycle_rule {
+          [32m+[0m [0maction {
+              [32m+[0m [0m[1m[0mtype[0m[0m = "Delete"
+            }
+
+          [32m+[0m [0mcondition {
+              [32m+[0m [0m[1m[0mage[0m[0m                   = 30
+              [32m+[0m [0m[1m[0mmatches_storage_class[0m[0m = []
+              [32m+[0m [0m[1m[0mwith_state[0m[0m            = (known after apply)
+            }
+        }
+
+      [32m+[0m [0mversioning {
+          [32m+[0m [0m[1m[0menabled[0m[0m = true
+        }
+    }
+
+[0m[1mPlan:[0m 2 to add, 0 to change, 0 to destroy.
+[0m[0m[1m
+Do you want to perform these actions?[0m
+  Terraform will perform the actions described above.
+  Only 'yes' will be accepted to approve.
+
+  [1mEnter a value:[0m [0myes
+
+[0m[1mgoogle_bigquery_dataset.dataset: Creating...[0m[0m
+[0m[1mgoogle_storage_bucket.data-lake-bucket: Creating...[0m[0m
+[0m[1mgoogle_bigquery_dataset.dataset: Creation complete after 2s [id=projects/dtc-de-339301/datasets/trips_data_all][0m
+[0m[1mgoogle_storage_bucket.data-lake-bucket: Creation complete after 3s [id=dtc_data_lake_dtc-de-339301][0m
+[0m[1m[32m
+Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
+[0m[1m[7m%[27m[1m[0m                                                                                                                                                      ]2;fklein@fklein-ThinkPad-X260:~/data-engineering-zoomcamp/1_terraform_gcp/terraform]1;..gcp/terraform[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[K[60C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m 6s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[34m[0m[34m[43m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:36[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[107D[?1h=[?2004h[1m[31mt[0m[39m[1m[31mt[0m[39m[90merraform apply[39m[14D[1m[31mt[1m[31me[0m[39m[1m[31mt[1m[31me[1m[31mr[0m[39m[1m[31mr[1m[31mr[0m[39m[1m[31mr[1m[31ma[0m[39m[1m[31ma[1m[31mf[0m[39m[1m[31mf[1m[31mo[0m[39m[1m[31mo[1m[31mr[0m[39m[8D[0m[32mt[0m[32me[0m[32mr[0m[32mr[0m[32ma[0m[32mf[0m[32mo[0m[32mr[32mm[39m[?25l[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[32mterraform[39m[90m apply[39m[K[45C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m 6s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[34m[0m[34m[43m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:06:36[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[98D[?12l[?25h[39m [39md[39m [39m [39m [39m [90mestroy[39m[39me[39ms[39mt[39mr[39mo[39my[?1l>[?2004l
+]2;terraform destroy]1;terraform[0m[1mgoogle_storage_bucket.data-lake-bucket: Refreshing state... [id=dtc_data_lake_dtc-de-339301][0m
+[0m[1mgoogle_bigquery_dataset.dataset: Refreshing state... [id=projects/dtc-de-339301/datasets/trips_data_all][0m
+
+Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
+  [31m-[0m destroy
+[0m
+Terraform will perform the following actions:
+
+[1m  # google_bigquery_dataset.dataset[0m will be [1m[31mdestroyed[0m[0m
+[0m  [31m-[0m[0m resource "google_bigquery_dataset" "dataset" {
+      [31m-[0m [0m[1m[0mcreation_time[0m[0m                   = 1643155594513 [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mdataset_id[0m[0m                      = "trips_data_all" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mdefault_partition_expiration_ms[0m[0m = 0 [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mdefault_table_expiration_ms[0m[0m     = 0 [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mdelete_contents_on_destroy[0m[0m      = false [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0metag[0m[0m                            = "Mbq0ldgJDUY/Vdshvi6wYg==" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mid[0m[0m                              = "projects/dtc-de-339301/datasets/trips_data_all" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mlabels[0m[0m                          = {} [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mlast_modified_time[0m[0m              = 1643155594513 [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mlocation[0m[0m                        = "europe-west6" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mproject[0m[0m                         = "dtc-de-339301" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mself_link[0m[0m                       = "https://bigquery.googleapis.com/bigquery/v2/projects/dtc-de-339301/datasets/trips_data_all" [90m->[0m [0m[90mnull[0m[0m
+
+      [31m-[0m [0maccess {
+          [31m-[0m [0m[1m[0mrole[0m[0m          = "OWNER" [90m->[0m [0m[90mnull[0m[0m
+          [31m-[0m [0m[1m[0muser_by_email[0m[0m = "ferdinand.kleinschroth@gmail.com" [90m->[0m [0m[90mnull[0m[0m
+        }
+      [31m-[0m [0maccess {
+          [31m-[0m [0m[1m[0mrole[0m[0m          = "OWNER" [90m->[0m [0m[90mnull[0m[0m
+          [31m-[0m [0m[1m[0mspecial_group[0m[0m = "projectOwners" [90m->[0m [0m[90mnull[0m[0m
+        }
+      [31m-[0m [0maccess {
+          [31m-[0m [0m[1m[0mrole[0m[0m          = "READER" [90m->[0m [0m[90mnull[0m[0m
+          [31m-[0m [0m[1m[0mspecial_group[0m[0m = "projectReaders" [90m->[0m [0m[90mnull[0m[0m
+        }
+      [31m-[0m [0maccess {
+          [31m-[0m [0m[1m[0mrole[0m[0m          = "WRITER" [90m->[0m [0m[90mnull[0m[0m
+          [31m-[0m [0m[1m[0mspecial_group[0m[0m = "projectWriters" [90m->[0m [0m[90mnull[0m[0m
+        }
+    }
+
+[1m  # google_storage_bucket.data-lake-bucket[0m will be [1m[31mdestroyed[0m[0m
+[0m  [31m-[0m[0m resource "google_storage_bucket" "data-lake-bucket" {
+      [31m-[0m [0m[1m[0mdefault_event_based_hold[0m[0m    = false [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mforce_destroy[0m[0m               = true [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mid[0m[0m                          = "dtc_data_lake_dtc-de-339301" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mlabels[0m[0m                      = {} [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mlocation[0m[0m                    = "EUROPE-WEST6" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mname[0m[0m                        = "dtc_data_lake_dtc-de-339301" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mproject[0m[0m                     = "dtc-de-339301" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mrequester_pays[0m[0m              = false [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mself_link[0m[0m                   = "https://www.googleapis.com/storage/v1/b/dtc_data_lake_dtc-de-339301" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0mstorage_class[0m[0m               = "STANDARD" [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0muniform_bucket_level_access[0m[0m = true [90m->[0m [0m[90mnull[0m[0m
+      [31m-[0m [0m[1m[0murl[0m[0m                         = "gs://dtc_data_lake_dtc-de-339301" [90m->[0m [0m[90mnull[0m[0m
+
+      [31m-[0m [0mlifecycle_rule {
+          [31m-[0m [0maction {
+              [31m-[0m [0m[1m[0mtype[0m[0m = "Delete" [90m->[0m [0m[90mnull[0m[0m
+            }
+
+          [31m-[0m [0mcondition {
+              [31m-[0m [0m[1m[0mage[0m[0m                        = 30 [90m->[0m [0m[90mnull[0m[0m
+              [31m-[0m [0m[1m[0mdays_since_custom_time[0m[0m     = 0 [90m->[0m [0m[90mnull[0m[0m
+              [31m-[0m [0m[1m[0mdays_since_noncurrent_time[0m[0m = 0 [90m->[0m [0m[90mnull[0m[0m
+              [31m-[0m [0m[1m[0mmatches_storage_class[0m[0m      = [] [90m->[0m [0m[90mnull[0m[0m
+              [31m-[0m [0m[1m[0mnum_newer_versions[0m[0m         = 0 [90m->[0m [0m[90mnull[0m[0m
+              [31m-[0m [0m[1m[0mwith_state[0m[0m                 = "ANY" [90m->[0m [0m[90mnull[0m[0m
+            }
+        }
+
+      [31m-[0m [0mversioning {
+          [31m-[0m [0m[1m[0menabled[0m[0m = true [90m->[0m [0m[90mnull[0m[0m
+        }
+    }
+
+[0m[1mPlan:[0m 0 to add, 0 to change, 2 to destroy.
+[0m[0m[1m
+Do you really want to destroy all resources?[0m
+  Terraform will destroy all your managed infrastructure, as shown above.
+  There is no undo. Only 'yes' will be accepted to confirm.
+
+  [1mEnter a value:[0m [0myes
+
+[0m[1mgoogle_storage_bucket.data-lake-bucket: Destroying... [id=dtc_data_lake_dtc-de-339301][0m[0m
+[0m[1mgoogle_bigquery_dataset.dataset: Destroying... [id=projects/dtc-de-339301/datasets/trips_data_all][0m[0m
+[0m[1mgoogle_storage_bucket.data-lake-bucket: Destruction complete after 1s[0m
+[0m[1mgoogle_bigquery_dataset.dataset: Destruction complete after 3s[0m
+[0m[1m[32m
+Destroy complete! Resources: 2 destroyed.
+[0m[1m[7m%[27m[1m[0m                                                                                                                                                      ]2;fklein@fklein-ThinkPad-X260:~/data-engineering-zoomcamp/1_terraform_gcp/terraform]1;..gcp/terraform[0m[27m[24m[J[0m[49m[39m[0m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mdata-engineering-zoomcamp[0m[38;5;255m[44m[44m[38;5;254m/[38;5;250m1[0m[38;5;250m[44m[44m[38;5;254m/[1m[38;5;254m[44m[38;5;255mterraform[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m [0m[49m[39m[K[59C[0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m 10s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[34m[0m[34m[43m[44m[30m data-engineering-zoomcamp[0m[30m[44m[44m[30m 🐍[0m[30m[44m[44m[30m [0m[30m[44m[44m[30m[37m[0m[37m[44m[47m[30m 01:07:06[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m[107D[?1h=[?2004h[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2022-01-26 01:07:09+01:00 [COMMAND_EXIT_CODE="0"]
