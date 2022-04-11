@@ -3,3 +3,4 @@ FROM ubuntu:20.04
 # RUN sh -c /code/terraform_script.sh
 # CMD echo "finished the installation"
 CMD sh -c /code/terraform_script.sh
+ENTRYPOINT [ "sh" ]

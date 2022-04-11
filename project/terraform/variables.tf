@@ -1,10 +1,13 @@
 locals {
-  data_lake_bucket = "proj_data_lake"
+  data_lake_bucket = "weather_data_lake"
 }
 
 variable "project" {
   description = "Your GCP Project ID"
+  default = "weater-project-5238"
+  type = string
 }
+
 
 variable "region" {
   description = "Region for GCP resources. Choose as per your location: https://cloud.google.com/about/locations"
@@ -20,5 +23,5 @@ variable "storage_class" {
 variable "BQ_DATASET" {
   description = "BigQuery Dataset that raw data (from GCS) will be written to"
   type = string
-  default = "trips_data_all"
+  default = "weather_data_all"
 }
