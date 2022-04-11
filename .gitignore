@@ -164,3 +164,6 @@ logs/
 ## For avoiding uploading data
 data/
 
+.terraform.lock.hcl
+terraform.tfstate*
+.terraform/
