@@ -4,14 +4,15 @@ locals {
 
 variable "project" {
   description = "Your GCP Project ID"
-  default = "weater-project-5238"
+  default = "weather-project-92881"
   type = string
 }
 
 
 variable "region" {
   description = "Region for GCP resources. Choose as per your location: https://cloud.google.com/about/locations"
-  default = "europe-west6"
+  # default = "europe-west6"
+  default = "EU"
   type = string
 }
 
