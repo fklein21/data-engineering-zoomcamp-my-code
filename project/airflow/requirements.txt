@@ -1,6 +1,2 @@
-re
-os
 apache-airflow-providers-google
 pyarrow
-datetime
-urllib.request
