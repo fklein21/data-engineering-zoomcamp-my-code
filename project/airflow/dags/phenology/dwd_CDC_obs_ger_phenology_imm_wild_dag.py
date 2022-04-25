@@ -41,14 +41,14 @@ INPUT_FILETYPE = 'parquet'
 TABLE_SCHEMA = [
             ('STATIONS_ID',  pa.string()),
             ('REFERENZJAHR',  pa.string()), 
-            ('QUALITAETSNIVEAU',  pa.string()),  # quality level
-            ('OBJEKT_ID',  pa.string()),         # height of snow pack sample
-            ('PHASE_ID',  pa.string()),          # total snow depth
-            ('EINTRITTSDATUM',  pa.string()),    # total snow water equivalent
-            ('EINTRITTSDATUM_QB',  pa.string()), # sampled snow pack water equivalent
-            ('JULTAG',  pa.string()),            # sampled snow pack water equivalent
-            ('eor',  pa.string()),              # end of data record
-            ('empty',  pa.string()),            # empty column
+            ('QUALITAETSNIVEAU',  pa.string()), 
+            ('OBJEKT_ID',  pa.string()),        
+            ('PHASE_ID',  pa.string()),         
+            ('EINTRITTSDATUM',  pa.string()),   
+            ('EINTRITTSDATUM_QB',  pa.string()),
+            ('JULTAG',  pa.string()),           
+            ('eor',  pa.string()),              
+            ('empty',  pa.string()),            
         ]
 
 

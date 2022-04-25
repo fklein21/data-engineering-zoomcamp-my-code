@@ -41,3 +41,9 @@ export PATH=$DOCKER_CONFIG/cli-plugins/:$PATH
 # Make airflow directories
 # mkdir logs plugins scripts
 
+
+# Install open-zsh
+sudo apt install -y zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+

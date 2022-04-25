@@ -75,7 +75,7 @@ def create_dag(dag_id,
               )
     with dag:
 
-        datadir = 'data_'+product_category+'_'+time_range
+        datadir = 'data_'+product_category.strip('/')+'_'+time_range.strip('/')+'/'
 
         # Create data directory
         create_data_dir_task = BashOperator(
@@ -383,11 +383,23 @@ def create_dag_phenology(
         )
 
         # Create partitioned table for observation data in Big Query
-        CREATE_BQ_TBL_QUERY = (f'CREATE OR REPLACE TABLE \
-            {BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/").lower()}_partitioned_table \
-                CLUSTER BY STATIONS_ID AS (\
-                    SELECT * FROM \
-                        {BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/")}_external_table)'
+        CREATE_BQ_TBL_QUERY = (f"CREATE OR REPLACE TABLE \
+            {BIGQUERY_DATASET}.{product_category.strip('/')}_{time_range.strip('/').lower()}_partitioned_table \
+            AS (\
+            SELECT \
+                cast(STATIONS_ID as int) as STATIONS_ID, \
+                cast(REFERENZJAHR as int) as REFERENZJAHR, \
+                cast(QUALITAETSNIVEAU as int) as QUALITAETSNIVEAU, \
+                cast(OBJEKT_ID as int) as OBJEKT_ID, \
+                cast(PHASE_ID as int) as PHASE_ID, \
+                cast(EINTRITTSDATUM as int) as EINTRITTSDATUM, \
+                cast(EINTRITTSDATUM_QB as int) as EINTRITTSDATUM_QB, \
+                cast(JULTAG as int) as JULTAG \
+            FROM \
+                {BIGQUERY_DATASET}.{product_category.strip('/')}_{time_range.strip('/')}_external_table \
+            WHERE \
+                NOT LTRIM(RTRIM(EINTRITTSDATUM)) = '' \
+            )"
         )
 
         # Logging task
@@ -428,5 +440,49 @@ def create_dag_phenology(
         )
 
     return dag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
