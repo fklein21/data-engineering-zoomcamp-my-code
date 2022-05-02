@@ -32,7 +32,6 @@ PRODUCT_CATEGORY = 'soil_temperature/'
 TIME_RANGE = ['historical/', 'recent/']
 SCHEDULE_INTERVAL = ['0 6 1 * *', '0 6 * * *']
 DATA_FOLDER = './data-'+PRODUCT_CATEGORY
-INDEX = 'index.html'
 AVAIL_FILES = 'avail_files.txt'
 FILENAME_STATION_DATA = 'EB_Tageswerte_Beschreibung_Stationen.txt'
 FILENAME_BASE = 'produkt_erdbo_tag'

@@ -64,11 +64,11 @@ def station_data_to_csv(baseurl, datadir='./', filename='', debug=False):
         next(ll)
         row = next(ll, None)
         while row is not None:
-            match = re.findall('([0-9]+)\s*([0-9]+)\s*([0-9]+)\s*([0-9]+)\s*([0-9.]+)\s*([0-9.]+)\s(.*?)\s{2,10000}([\w-]+)$', row.strip())
+            match = re.findall('([0-9]+)\s+([0-9]{8})\s+([0-9]{8})\s+(-?[0-9]+)\s+(-?[0-9.]+)\s+(-?[0-9.]+)\s(.*?)\s{2,10000}([\w-]+)$', row.strip())
             for ii in match:
                 station_data.append(';'.join(ii))
             if len(match)==0:
-                print(f'This line go tnot matched: {row.strip()}')
+                print(f'This line got not matched: {row.strip()}')
             row = next(ll, None)
     save_to_file('\n'.join(station_data), datadir+filename)
 

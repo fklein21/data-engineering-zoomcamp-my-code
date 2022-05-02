@@ -20,7 +20,7 @@ from airflow.utils.dates import days_ago
 from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
 from airflow.providers.google.cloud.operators.bigquery import \
-    BigQueryCreateExternalTableOperator, BigQueryInsertJobOperator
+    BigQueryCreateExternalTableOperator, BigQueryInsertJobOperator, BigQueryDeleteTableOperator
 from google.cloud import storage
 
 from helper_fun import (download_all_datafiles, format_all_csv_to_parquet, format_to_parquet,
@@ -163,9 +163,16 @@ def create_dag(dag_id,
             bash_command=f'rm -rf {AIRFLOW_HOME}/{datadir}'
         )
 
+        # delete external table if it exists
+        bigquery_delete_station_data_external_table_task = BigQueryDeleteTableOperator(
+            task_id=f'bigquery_delete_station_data_external_table_{time_range.strip("/")}_task',
+            deletion_dataset_table=f'{PROJECT_ID}.{BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/")}_station_data_external_table',
+            ignore_if_missing=True,
+        )
+
         # Create external table for station data in Big Query
-        bigquery_external_table_station_data_task = BigQueryCreateExternalTableOperator(
-            task_id=f'bigquery_external_table_station_data_{time_range.strip("/")}_task',
+        bigquery_create_station_data_external_table_task = BigQueryCreateExternalTableOperator(
+            task_id=f'bigquery_create_station_data_external_table_{time_range.strip("/")}_task',
             table_resource={
                 'tableReference': {
                     'projectId': PROJECT_ID,
@@ -180,6 +187,13 @@ def create_dag(dag_id,
             },
         )
 
+        # delete internal table if it exists
+        bigquery_delete_station_data_internal_table_task = BigQueryDeleteTableOperator(
+            task_id=f'bigquery_delete_station_data_internal_table_{time_range.strip("/")}_task',
+            deletion_dataset_table=f'{PROJECT_ID}.{BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/")}_station_data_internal_table',
+            ignore_if_missing=True,
+        )
+
         # Create partitioned table for station data in Big Query
         CREATE_BQ_TBL_QUERY_STATION_DATA = (f'CREATE OR REPLACE TABLE \
             {BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/").lower()}_station_data_internal_table \
@@ -188,9 +202,9 @@ def create_dag(dag_id,
                         {BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/")}_station_data_external_table)'
         )
 
-        # Create a partitioned table for weather data from external table
-        bigquery_create_internal_table_station_data_task = BigQueryInsertJobOperator(
-            task_id=f'bigquery_create_internal_table_station_data_{time_range.strip("/")}_task',
+        # Create a partitioned table for weather data from internal table
+        bigquery_create_station_data_internal_table_task = BigQueryInsertJobOperator(
+            task_id=f'bigquery_create_station_data_internal_table_{time_range.strip("/")}_task',
             configuration={
                 'query': {
                     'query': CREATE_BQ_TBL_QUERY_STATION_DATA,
@@ -199,9 +213,16 @@ def create_dag(dag_id,
             }
         )
 
+        # delete external table if it exists
+        bigquery_delete_external_table_task = BigQueryDeleteTableOperator(
+            task_id=f'bigquery_delete_external_table_{time_range.strip("/")}_task',
+            deletion_dataset_table=f'{PROJECT_ID}.{BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/")}_external_table',
+            ignore_if_missing=True,
+        )
+
         # Create external table for weather data in Big Query
-        bigquery_external_table_task = BigQueryCreateExternalTableOperator(
-            task_id=f'bigquery_external_table_{time_range.strip("/")}_task',
+        bigquery_create_external_table_task = BigQueryCreateExternalTableOperator(
+            task_id=f'bigquery_create_external_table_{time_range.strip("/")}_task',
             table_resource={
                 'tableReference': {
                     'projectId': PROJECT_ID,
@@ -216,22 +237,20 @@ def create_dag(dag_id,
             },
         )
 
+        # delete external table if it exists
+        bigquery_delete_partitioned_table_task = BigQueryDeleteTableOperator(
+            task_id=f'bigquery_delete_partitioned_table_{time_range.strip("/")}_task',
+            deletion_dataset_table=f'{PROJECT_ID}.{BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/").lower()}_partitioned_table',
+            ignore_if_missing=True,
+        )
+        
+
         # Create partitioned table for weather data in Big Query
         CREATE_BQ_TBL_QUERY = (f'CREATE OR REPLACE TABLE \
             {BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/").lower()}_partitioned_table \
                 CLUSTER BY STATIONS_ID AS (\
                     SELECT * FROM \
                         {BIGQUERY_DATASET}.{product_category.strip("/")}_{time_range.strip("/")}_external_table)'
-        )
-
-        # Logging task
-        logging_task = PythonOperator(
-            task_id='logging_task',
-            python_callable=log_values,
-            op_kwargs={
-                'params': [f'{product_category.strip("/")}_{time_range.strip("/")}_external_table',
-                f'gs://{BUCKET}/raw/{datadir}*', CREATE_BQ_TBL_QUERY]
-            }
         )
 
         # Create a partitioned table for weather data from external table
@@ -242,6 +261,16 @@ def create_dag(dag_id,
                     'query': CREATE_BQ_TBL_QUERY,
                     'useLegacySql': False,
                 }
+            }
+        )
+
+        # Logging task
+        logging_task = PythonOperator(
+            task_id='logging_task',
+            python_callable=log_values,
+            op_kwargs={
+                'params': [f'{product_category.strip("/")}_{time_range.strip("/")}_external_table',
+                f'gs://{BUCKET}/raw/{datadir}*', CREATE_BQ_TBL_QUERY]
             }
         )
 
@@ -256,8 +285,10 @@ def create_dag(dag_id,
             delete_csv_task, 
             local_to_gcs_task, 
             delete_datadir_task, 
-            bigquery_external_table_station_data_task, 
-            bigquery_create_internal_table_station_data_task,
+            bigquery_delete_station_data_external_table_task,
+            bigquery_create_station_data_external_table_task, 
+            bigquery_delete_station_data_internal_table_task,
+            bigquery_create_station_data_internal_table_task,
         )
 
         chain(
@@ -268,7 +299,9 @@ def create_dag(dag_id,
             delete_csv_task, 
             local_to_gcs_task, 
             delete_datadir_task, 
-            bigquery_external_table_task, 
+            bigquery_delete_external_table_task,
+            bigquery_create_external_table_task, 
+            bigquery_delete_partitioned_table_task,
             bigquery_create_partitioned_table_task,
         )
 
@@ -366,8 +399,8 @@ def create_dag_phenology(
         )
 
         # Create external table for observation data in Big Query
-        bigquery_external_table_task = BigQueryCreateExternalTableOperator(
-            task_id=f'bigquery_external_table_{time_range.strip("/")}_task',
+        bigquery_create_external_table_task = BigQueryCreateExternalTableOperator(
+            task_id=f'bigquery_create_external_table_{time_range.strip("/")}_task',
             table_resource={
                 'tableReference': {
                     'projectId': PROJECT_ID,
@@ -435,7 +468,7 @@ def create_dag_phenology(
             delete_csv_task, 
             local_to_gcs_task, 
             delete_datadir_task, 
-            bigquery_external_table_task, 
+            bigquery_create_external_table_task, 
             bigquery_create_partitioned_table_task,
         )
 
