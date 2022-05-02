@@ -1,0 +1,74 @@
+Objekt_id,Objekt,Phasen_id,Phase,Phasendefinition,BBCH_Code,Hinweis_BBCH
+201,Dauergrünland,35,1. Heu- oder (!) Silageschnitt,im Beobachtungsgebiet wird erstmals Grünland zur Trockenfuttergewinnung oder (!) für Silage geschnitten,,
+201,Dauergrünland,27,2. Heuschnitt,im Beobachtungsgebiet wird zum zweiten Mal in der Vegetationsperiode Grünland zur Trockenfuttergewinnung geschnitten,,
+201,Dauergrünland,1,Ergrünen Beginn,"etwa 25% der ausgewählten Dauergrünlandfläche zeit frisches Grün, d.h.  hat mit dem Blattwachstum begonnen",,kein BBCH-Code vorhanden
+201,Dauergrünland,25,1. Heuschnitt,im Beobachtungsgebiet wird erstmals Grünland zur Trockenfuttergewinnung geschnitten,,kein BBCH-Code vorhanden
+201,Dauergrünland,36,2. Heu- oder (!) Silageschnitt,im Beobachtungsgebiet wird zum zweiten Mal in der Vegetationsperiode Grünland zur Trockenfuttergewinnung oder (!) für Silage geschnitten,,
+201,Dauergrünland,28,2. Silageschnitt,im Beobachtungsgebiet wird zum zweiten Mal in der Vegetationsperiode Grünland für Silage geschnitten,,
+201,Dauergrünland,25,1. Heuschnitt,im Beobachtungsgebiet wird erstmals Grünland zur Trockenfuttergewinnung geschnitten,,kein BBCH-Code vorhanden
+201,Dauergrünland,26,1. Silageschnitt,im Beobachtungsgebiet wird erstmals Grünland für Silage geschnitten,,kein BBCH-Code vorhanden
+201,Dauergrünland,27,2. Heuschnitt,im Beobachtungsgebiet wird zum zweiten Mal in der Vegetationsperiode Grünland zur Trockenfuttergewinnung geschnitten,,
+202,Winterweizen,18,Ährenschieben Beginn,an etwa die Hälfte der Halme drängen sich die Spitzen der Ähren seitlich aus den Blattscheiden heraus,51,
+202,Winterweizen,15,Schossen Beginn,etwa 50% der Pflanzen wachsen deutlich in die Länge und der erste Halmknoten ist über dem Erdboden gut fühlbar,31,"Beschreibung ""Beginn des Schossens"" DWD-Beobachteranleitung entspricht BBCH-Code 31 (1-Knoten-Stadium)"
+202,Winterweizen,10,Bestellung Beginn,im Herbst wird das erste Feld mit Winterweizen bestellt,0,"""unechte"" phänologische Phase"
+202,Winterweizen,21,Gelbreife Beginn,die ersten Körner in ca. der Hälfte der Ähren haben ihre Verfärbung von grün auf gelb beendet und lassen sich leicht aus der Rispe lösen,87,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+202,Winterweizen,22,Vollreife Beginn,die gelb gewordenen Körner sind merklich geschrumpft und hart geworden,,
+202,Winterweizen,12,Auflaufen Beginn,die noch eingerollten Keimblätter haben die Erdoberfläche durchstoßen und eine Höhe von ca. 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+202,Winterweizen,24,Ernte,das beobachtete Feld wird abgeerntet,,kein BBCH-Code vorhanden
+203,Winterroggen,24,Ernte,das beobachtete Feld wird abgeerntet,,
+203,Winterroggen,21,Gelbreife Beginn,die ersten Körner in ca. der Hälfte Ähren haben ihre Verfärbung von grün auf gelb beendet und lassen sich leicht aus der Ähre lösen,87,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+203,Winterroggen,18,Ährenschieben Beginn,an etwa der Hälfte der Halme drängen sich die Spitzen der Ähren seitlich aus den Blattscheiden heraus,51,
+203,Winterroggen,15,Schossen Beginn,etwa 50% der Pflanzen wachsen deutlich in die Länge und der erste Halmknoten ist über dem Erdboden gut fühlbar,31,"Beschreibung ""Beginn des Schossens"" DWD-Beobachteranleitung entspricht BBCH-Code 31 (1-Knoten-Stadium)"
+203,Winterroggen,12,Auflaufen Beginn,die noch eingerollten Keimblätter haben die Erdoberfläche durchstoßen und eine Höhe von ca. 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+203,Winterroggen,10,Bestellung Beginn,im Herbst wird das erste Feld mit Winterroggen bestellt,0,"""unechte"" phänologische Phase"
+203,Winterroggen,6,Vollblüte,an etwa 50% der Ähren haben sich die Blüten geöffnet und geben Pollenstaub ab,65,
+203,Winterroggen,41,Blüte Ende im Beobachtungsgebiet,Ende des Stäubens des spätesten Winterroggenbestandes im Beobachtungsgebiet,,kein BBCH-Code vorhanden
+203,Winterroggen,5,Blüte Beginn,"an etwa 5% der Ähren haben sich die ersten Blüten in der Ährenmitte geöffnet, so dass die Staubbeutel sichtbar werden",61,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+204,Wintergerste,22,Vollreife Beginn,die gelb gewordenen Körner sind merklich geschrumpft und hart geworden,,
+204,Wintergerste,21,Gelbreife Beginn,die ersten Körner in ca. der Hälfte der Ähren haben ihre Verfärbung von grün auf gelb beendet und lassen sich leicht aus der Ähre lösen,87,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+204,Wintergerste,18,Ährenschieben Beginn,an etwa der Hälfte der Halme drängen sich die Spitzen der Ähren seitlich aus den Blattscheiden heraus,51,
+204,Wintergerste,15,Schossen Beginn,etwa 50% der Pflanzen wachsen deutlich in die Länge und der erste Halmknoten ist über dem Erdboden gut fühlbar,31,"Beschreibung ""Beginn des Schossens"" DWD-Beobachteranleitung entspricht BBCH-Code 31 (1-Knoten-Stadium)"
+204,Wintergerste,24,Ernte,das beobachtete Feld wird abgeerntet,,kein BBCH-Code vorhanden
+204,Wintergerste,12,Auflaufen Beginn,die noch eingerollten Keimblätter haben die Erdoberfläche durchstoßen und eine Höhe von ca. 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+204,Wintergerste,10,Bestellung Beginn,im Herbst wird das erste Feld mit Wintergerste bestellt,0,"""unechte"" phänologische Phase"
+204,Wintergerste,10,Bestellung Beginn,im Herbst wird das erste Feld mit Wintergerste bestellt,0,"""unechte"" phänologische Phase"
+204,Wintergerste,12,Auflaufen Beginn,die noch eingerollten Keimblätter haben die Erdoberfläche durchstoßen und eine Höhe von ca. 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+205,Winterraps,5,Blüte Beginn,etwa 5% der gelben Blüten sind geöffnet,61,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+205,Winterraps,7,Blüte Ende,etwa 95% des Bestandes sind abgeblüht,69,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+205,Winterraps,10,Bestellung Beginn,das erste Feld im Beobachtungsgebiet wird mit Winterraps bestellt,0,"""unechte"" phänologische Phase"
+205,Winterraps,12,Auflaufen Beginn,die Pflanzen haben mit ihren beiden herzförmigen Keimblättern die Erdoberfläche durchbrochen und eine Höhe von etwa 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+205,Winterraps,17,Knospenbildung Beginn,an etwa der Hälfte der Pflanzen werden die Endknospen am Haupttrieb sichtbar,50,
+205,Winterraps,22,Vollreife Beginn,die meisten Rapskörner sind halbseitig schwarz,87,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+205,Winterraps,24,Ernte,das beobachtete Winterrapsfeld wird mit dem Mähdrescher abgeerntet,,kein BBCH-Code vorhanden
+205,Winterraps,67,Längenwachstum Beginn,etwa 50% der Pflanzenstängel haben eine Länge von über 5 cm erreicht - gemessen von den Ansatzstellen der Kotyledonen (Keimblätter) bis zum Vegetations-Kegel (Stängelspitze),31,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+207,Sommergerste,12,Auflaufen Beginn,die noch eingerollten Keimblätter haben die Erdoberfläche durchstoßen und eine Höhe von ca. 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+207,Sommergerste,15,Schossen Beginn,etwa 50% der Pflanzen wachsen deutlich in die Länge und der erste Halmknoten ist über dem Erdboden gut fühlbar,31,"Beschreibung ""Beginn des Schossens"" DWD-Beobachteranleitung entspricht BBCH-Code 31 (1-Knoten-Stadium)"
+207,Sommergerste,24,Ernte,das beobachtete Feld wird mittels Mähdrescher abgeerntet,,
+207,Sommergerste,10,Bestellung Beginn,im Frühjahr wird das erste Feld mit Sommergerste bestellt,0,"""unechte"" phänologische Phase"
+207,Sommergerste,18,Ährenschieben Beginn,an etwa 50% der Halme drängen sich die Spitzen der Rispen seitlich aus den Blattscheiden heraus,51,
+207,Sommergerste,21,Gelbreife Beginn,die ersten Körner in mehreren Ähren haben ihre Verfärbung von grün auf gelb beendet und lassen sich leicht aus der Rispe lösen,87,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+208,Hafer,15,Schossen Beginn,etwa 50% der Pflanzen wachsen deutlich in die Länge und der erste Halmknoten ist über dem Erdboden gut fühlbar,31,"Beschreibung ""Beginn des Schossens"" DWD-Beobachteranleitung entspricht BBCH-Code 31 (1-Knoten-Stadium)"
+208,Hafer,12,Auflaufen Beginn,die noch eingerollten Keimblätter haben die Erdoberfläche durchstoßen und eine Höhe von ca. 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+208,Hafer,24,Ernte,das beobachtete Feld wird abgeerntet,,
+208,Hafer,24,Ernte,das beobachtete Feld wird abgeerntet,,
+208,Hafer,66,Rispenschieben Beginn,an etwa der Hälfte der Halme drängen sich die Spitzen der Rispen seitlich aus den Blattscheiden heraus,51,
+208,Hafer,10,Bestellung Beginn,im Frühjahr wird das erste Feld mit Hafer bestellt,0,"""unechte"" phänologische Phase"
+208,Hafer,22,Vollreife Beginn,die gelb gewordenen Körner sind merklich geschrumpft und hart geworden,,
+208,Hafer,21,Gelbreife Beginn,die ersten Körner in ca. der Hälfte der Rispen haben ihre Verfärbung von grün auf gelb beendet und lassen sich leicht aus der Rispe lösen,87,"definierter Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entsprechende BBCH-Stadium, in der Praxis jedoch kaum bestimmbare Auswirkung"
+210,Mais (ohne Sortenangabe),20,Teigreife Beginn,die Körner sind äußerlich gelblich bis gelb,83,
+210,Mais (ohne Sortenangabe),12,Auflaufen Beginn,die Pflänzchen haben die Erdoberfläche durchbrochen und eine Höhe von etwa 1 cm erreicht,10,"Phasenbezeichnung nicht ganz korrekt, fachsprachlich ""Blattwachstum"""
+210,Mais (ohne Sortenangabe),10,Bestellung Beginn,das erste Feld im Beobachtungsgebiet wird mit Mais bestellt,0,"""unechte"" phänologische Phase"
+210,Mais (ohne Sortenangabe),5,Blüte Beginn,bei etwa 5% der Pflanzen sind die Rispenmitteläste in der Rispe aufgeblüht,61,"nur männliche Blüten!, def. Beobachtungszeitpunkt der Phase könnte etwas früher sein als das entspr. BBCH-Stad., in der Praxis jedoch kaum bestimmb. Auswirkung"
+210,Mais (ohne Sortenangabe),19,Milchreife Beginn,"die Körner haben ihre endgültige Größe erreicht, sind äußerlich weiß bis gelblich und weich und enthalten eine milchige Flüssigkeit",75,
+210,Mais (ohne Sortenangabe),65,Fahnenschieben Beginn,"bei etwa der Hälfte der Pflanzen wird am Ende des Stängels die Rispe, auch Fahne genannt, sichtbar",53,
+210,Mais (ohne Sortenangabe),39,Silo-Ernte Beginn,die oberirdischen Pflanzenteile werden geerntet,,kein BBCH-Code vorhanden
+210,Mais (ohne Sortenangabe),38,Körner-Ernte Beginn,das Korn wird geerntet,,
+210,Mais (ohne Sortenangabe),37,Narbenfädenschieben Beginn,bei etwa 50% der Pflanzen erscheinen etwa in der Mitte die weiblichen Blütenstände als blattachselständige Kolben mit lang heraushängenden Narbenfäden am Ende,,
+210,Mais (ohne Sortenangabe),22,Vollreife Beginn,die gelb gewordenen Körner sind merklich geschrumpft und hart geworden,,
+231,Kartoffel,24,Ernte,das beobachtete Feld wird abgeerntet,,
+231,Kartoffel,5,Blüte Beginn,die ersten Blüten auf dem beobachteten Feld haben sich geöffnet,60,
+231,Kartoffel,10,Bestellung Beginn,"die ersten Kartoffeln werden in den Boden gebracht, beim Saatgut wird nicht zwischen vorgekeimten und nichtvorgekeimten Kartoffeln unterschieden",,kein BBCH-Code vorhanden
+231,Kartoffel,12,Auflaufen Beginn,etwa die Hälfte der Pflanzen auf dem beobachteten Feld hat die Erdoberfläche vollständig durchbrochen,10,
+231,Kartoffel,13,Bestand geschlossen,etwa die Hälfte der Pflanzen auf dem beobachteten Feld berührt sich reihenübergreifend,35,
+252,Futter-Rübe,24,Ernte,das beobachtete Feld wird abgeerntet,,
+,,,,,,
