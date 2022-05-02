@@ -1,0 +1,1189 @@
+Stations_id,Stationsname,geograph_Breite,geograph_Laenge,Stationshoehe,Naturraumgruppe_Code,Naturraumgruppe,Naturraum_Code,Naturraum,Datum_Stationsaufloesung,Bundesland
+00140,Altmersleben,52.6861,11.4272,35,86,Altmark,8620,Stendaler Land,,Sachsen-Anhalt
+00164,Angermünde,53.0316,13.9908,54,74,Rückland der Mecklenburgischen Seenplatte,7440,Uckermärkisches Hügelland (mit Uecker- und Randowtal),,Brandenburg
+00183,Arkona,54.6791,13.4344,42,71,Mecklenburgisch-Vorpommersches Küstengebiet,7140,Höhen- und Binnenbodden von Nordrügen,31.12.2020,Mecklenburg-Vorpommern
+00198,Artern,51.3744,11.2920,164,48,Thüringer Becken und Randplatten Nrg 48,4870,Helme-Unstrut-Niederung,31.12.2017,Thüringen
+00222,Aue,50.5908,12.7139,393,42,Erzgebirge,4230,Unteres Westerzgebirge,31.12.1997,Sachsen
+00282,Bamberg,49.8743,10.9206,240,11,Fränkisches Keuper-Lias-Land,1170,Itz-Baunach-Hügelland,30.09.2008,Bayern
+00591,Boizenburg,53.3911,10.6878,45,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),30.09.2008,Mecklenburg-Vorpommern
+00596,Boltenhagen,54.0027,11.1908,15,71,Mecklenburgisch-Vorpommersches Küstengebiet,7100,Nordwestmecklenburgisches Hügelland und Wismarbucht,,Mecklenburg-Vorpommern
+00662,Braunschweig,52.2915,10.4464,81,62,Weser-Aller-Flachland,6230,Burgdorf-Peiner Geestplatten,,Niedersachsen
+00853,Chemnitz,50.7913,12.8720,416,45,Erzgebirgsvorland,4510,Erzgebirgisches Becken,,Sachsen
+01412,Frankenstein,50.8969,13.2205,400,42,Erzgebirge,4240,Unteres Osterzgebirge,31.12.2017,Sachsen
+01532,Gadebusch-Ganzow,53.6865,11.0608,55,75,Mecklenburgische Seenplatte,7500,Westmecklenburgisches Seenhügelland,,Mecklenburg-Vorpommern
+01544,Gardelegen,52.5129,11.3942,47,86,Altmark,8620,Stendaler Land,,Sachsen-Anhalt
+01580,Geisenheim,49.9859,7.9548,110,23,Rhein-Main-Tiefland,2360,Rheingau,,Hessen
+01612,Gera-Leumnitz,50.8812,12.1289,311,47,Thüringer Becken und Randplatten Nrg 47,4710,Saale-Elster-Sandsteinplatte,31.12.2019,Thüringen
+01639,Gießen/Wettenberg,50.6017,8.6439,203,34,Westhessiches Bergland,3490,Vorderer Vogelsberg,31.08.2008,Hessen
+01684,Görlitz,51.1622,14.9506,238,44,Oberlausitz,4400,Neißegebiet,,Sachsen
+01691,Göttingen,51.5002,9.9507,167,37,Weser-Leinebergland,3720,Leine-Ilme-Senke,31.12.2015,Niedersachsen
+01780,Burgstein-Grobau,50.4316,11.9443,570,41,Vogtland,4110,Mittelvogtländisches Kuppenland,,Sachsen
+01820,Großbockedra,50.8500,11.6667,265,47,Thüringer Becken und Randplatten Nrg 47,4710,Saale-Elster-Sandsteinplatte,31.12.2014,Thüringen
+01957,Halle-Kröllwitz,51.5138,11.9499,93,50,Mitteldeutsches Schwarzerdegebiet,5000,Östliches Harzvorland,31.12.2010,Sachsen-Anhalt
+02034,"Hartmannsdorf, Kreis Saale",50.9574,11.9757,200,47,Thüringer Becken und Randplatten Nrg 47,4710,Saale-Elster-Sandsteinplatte,31.12.2014,Thüringen
+02163,Herrmannsacker,51.5448,10.8748,315,48,Thüringer Becken und Randplatten Nrg 48,4850,Südharzer Zechsteingürtel,31.12.2013,Thüringen
+02429,Itzehoe,53.9897,9.5696,21,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,31.12.2008,Schleswig-Holstein
+02514,Kappeln,54.6667,9.9333,18,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.2013,Schleswig-Holstein
+02561,Kettenheim,49.7167,8.1167,198,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.2006,Rheinland-Pfalz
+02597,"Kissingen, Bad",50.2240,10.0792,282,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,30.06.2011,Bayern
+02712,Konstanz,47.6952,9.1307,428,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.2012,Baden-Württemberg
+02925,Leinefelde,51.3933,10.3123,356,37,Weser-Leinebergland,3750,Unteres Eichsfeld,31.05.2008,Thüringen
+02928,Leipzig-Holzhausen,51.3151,12.4462,138,46,Sächsisches Hügelland (einschließlich Leipziger Land),4670,Leipziger Land,31.12.2014,Sachsen
+02995,Liebenwalde,52.8719,13.3927,42,78,Luchland,7830,Zehdenick-Spandauer Havelniederung,31.12.2011,Brandenburg
+03015,Lindenberg,52.2085,14.1180,98,82,Ostbrandenburgisches Heide- und Seengebiet,8240,Beeskower Platte,,Brandenburg
+03023,Lingen,52.5181,7.3081,22,58,Dümmer-Geestniederung,5860,Lingener Land,,Niedersachsen
+03167,"Marienberg, Bad",50.6621,7.9603,547,32,Westerwald,3220,Hoher Westerwald,30.06.2011,Rheinland-Pfalz
+03196,Marnitz,53.3223,11.9319,81,77,Nordbrandenburgisches Platten- und Hügelland,7710,Ruhner Berge,,Mecklenburg-Vorpommern
+03231,Meiningen,50.5611,10.3771,450,13,Mainfränkische Platten,1382,Werra-Gäuplatten,31.12.2019,Thüringen
+03287,Michelstadt-Vielbrunn,49.7177,9.0997,453,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,30.11.2011,Hessen
+03347,Moringen-Fredelsloh,51.7384,9.7899,271,37,Weser-Leinebergland,3710,Sollingvorland,31.12.2006,Niedersachsen
+03366,Mühldorf,48.2790,12.5024,406,05,Isar-Inn-Schotterplatten,0540,Unteres Inntal,31.05.2008,Bayern
+03487,Neudorf,51.6070,11.1183,425,38,Harz,3820,Unterharz,31.12.2006,Sachsen-Anhalt
+03552,Neuruppin,52.9037,12.8072,38,77,Nordbrandenburgisches Platten- und Hügelland,7770,Ruppiner Platte,20.05.2009,Brandenburg
+03660,Nürburg-Barweiler,50.3602,6.8697,485,27,Osteifel,2710,Östliche Hocheifel,,Rheinland-Pfalz
+03730,Oberstdorf,47.3984,10.2759,806,01,Nördliche Kalkhochalpen,0120,Oberstdorfer Becken,31.12.1980,Bayern
+03761,Öhringen,49.2070,9.5176,276,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,31.12.2013,Baden-Württemberg
+03811,Oschatz,51.2960,13.0928,150,46,Sächsisches Hügelland (einschließlich Leipziger Land),4640,Oschatzer Hügelland,30.08.2008,Sachsen
+03987,Potsdam,52.3813,13.0622,81,81,Mittelbrandenburgische Platten und Niederungen,8140,Beelitzer Heide,12.12.2000,Brandenburg
+04039,Quickborn,53.7331,9.8776,11,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,31.12.1995,Schleswig-Holstein
+04177,Rheinstetten,48.9726,8.3301,116,22,Nördliches Oberrheintiefland,2230,Hardtebenen,31.12.2018,Baden-Württemberg
+04271,Rostock-Warnemünde,54.1803,12.0808,4,71,Mecklenburgisch-Vorpommersches Küstengebiet,7110,Flachwelliges unteres Warnowgebiet,31.12.2016,Mecklenburg-Vorpommern
+04332,Saalfeld,50.6563,11.3894,235,47,Thüringer Becken und Randplatten Nrg 47,4720,Mittleres Saaletal,31.12.1992,Thüringen
+04372,"Salzungen, Bad (Ph)",50.8063,10.2294,268,35,Osthessisches Bergland,3580,Unteres Werratal,30.11.2010,Thüringen
+04393,Sankt Peter-Ording,54.3279,8.6031,5,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6830,Eiderstedter Marsch,30.06.2018,Schleswig-Holstein
+04466,Schleswig,54.5275,9.5487,43,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.2016,Schleswig-Holstein
+04642,Seehausen,52.8911,11.7297,21,87,Elbtalniederung,8750,Märkische Elbtalniederung,,Sachsen-Anhalt
+04887,Stötten,48.6656,9.8648,734,09,Schwäbische Alb (Schwabenalb),0940,Mittlere Kuppenalb,31.12.2017,Baden-Württemberg
+04911,Straubing,48.8275,12.5597,351,06,Unterbayerisches Hügelland,0640,Dungau,30.09.2009,Bayern
+04933,Stuttgart-Hohenheim,48.7091,9.2147,401,10,Schwäbisches Keuper-Lias-Land,1060,Filder,31.12.1983,Baden-Württemberg
+05100,Trier-Petrisberg,49.7479,6.6583,265,25,Moseltal,2500,Mittleres Moseltal,31.03.2020,Rheinland-Pfalz
+05103,Trippstadt-Neuhof,49.3544,7.7948,348,17,Haardtgebirge,1700,Haardt,30.12.2005,Rheinland-Pfalz
+05250,Vogtsburg-Oberrotweil,48.0908,7.6353,223,20,Südliches Oberrheintiefland,2030,Kaiserstuhl,,Baden-Württemberg
+05397,Weiden,49.6662,12.1844,440,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,31.10.2009,Bayern
+05404,Weihenstephan-Dürnast,48.4024,11.6946,477,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,,Bayern
+05440,Weißenburg-Emetzheim,49.0115,10.9308,439,11,Fränkisches Keuper-Lias-Land,1100,Vorland der südlichen Frankenalb,31.12.2013,Bayern
+05546,Wiesenburg,52.1207,12.4585,187,85,Fläming,8530,Zentraler Fläming,31.12.2014,Brandenburg
+05705,Würzburg,49.7704,9.9576,268,13,Mainfränkische Platten,1330,Mittleres Maintal,31.12.2012,Bayern
+05750,Zeitz,51.0314,12.1495,264,47,Thüringer Becken und Randplatten Nrg 47,4710,Saale-Elster-Sandsteinplatte,31.12.2006,Sachsen-Anhalt
+05839,Emden,53.3881,7.2287,-0,61,Ems-Weser-Marsch,6100,Emsmarschen,31.12.2008,Niedersachsen
+05856,Fürstenzell,48.5451,13.3532,476,40,Oberpfälzer und Bayerischer Wald,4080,Passauer Abteiland/Neuburger Wald,31.12.2017,Bayern
+05906,Mannheim,49.5062,8.5585,98,22,Nördliches Oberrheintiefland,2240,Neckar-Rhein-Ebene,31.12.2013,Baden-Württemberg
+07341,Offenbach-Wetterpark,50.0899,8.7862,119,23,Rhein-Main-Tiefland,2320,Untermainebene,31.12.2006,Hessen
+07502,Kiel-Pries,54.4000,10.1500,25,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1998,Schleswig-Holstein
+07505,Lübeck-Schlutup,53.9000,10.8000,10,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1995,Schleswig-Holstein
+07516,Gettorf,54.4000,9.9667,25,70,Schleswig-Holsteinisches Hügelland,7010,"Schwansen, Dänischer Wohld und Amt Hütten",31.12.1996,Schleswig-Holstein
+07525,Osdorf-Borghorst,54.4333,9.9833,20,70,Schleswig-Holsteinisches Hügelland,7010,"Schwansen, Dänischer Wohld und Amt Hütten",31.12.1984,Schleswig-Holstein
+07528,Rieseby,54.5500,9.8167,25,70,Schleswig-Holsteinisches Hügelland,7010,"Schwansen, Dänischer Wohld und Amt Hütten",31.12.1996,Schleswig-Holstein
+07532,Norder-Hever-Koog,54.4000,8.7667,2,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6830,Eiderstedter Marsch,,Schleswig-Holstein
+07533,Poppenbüll,54.3667,8.7667,5,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6830,Eiderstedter Marsch,31.12.1999,Schleswig-Holstein
+07538,"Schwartau, Bad",53.9167,10.7000,5,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1982,Schleswig-Holstein
+07539,Pariner Berg,53.9500,10.6833,72,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.07.2012,Schleswig-Holstein
+07540,Eutin (Ph),54.1333,10.6167,40,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1990,Schleswig-Holstein
+07544,Neversfelde,54.1833,10.5500,35,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1990,Schleswig-Holstein
+07554,Ausacker,54.7333,9.5667,45,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.2000,Schleswig-Holstein
+07555,Bistoft,54.7000,9.5500,40,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.1986,Schleswig-Holstein
+07557,Eggebek (Ph),54.6167,9.3667,20,69,Schleswig-Holsteinische Geest,6970,Schleswiger Vorgeest,31.12.1997,Schleswig-Holstein
+07559,Gelting,54.7500,9.9000,12,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.2003,Schleswig-Holstein
+07566,Hürup,54.7500,9.5167,60,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.2015,Schleswig-Holstein
+07585,Wallsbüll,54.7833,9.2333,25,69,Schleswig-Holsteinische Geest,6970,Schleswiger Vorgeest,31.12.1984,Schleswig-Holstein
+07588,Westerholz,54.8167,9.6667,25,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.1982,Schleswig-Holstein
+07592,Büchen,53.4833,10.6333,20,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),,Schleswig-Holstein
+07599,Kühsen,53.6833,10.6000,30,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1987,Schleswig-Holstein
+07601,Mölln,53.6167,10.7000,30,75,Mecklenburgische Seenplatte,7500,Westmecklenburgisches Seenhügelland,31.12.2016,Schleswig-Holstein
+07613,Almdorf,54.5833,9.0167,6,69,Schleswig-Holsteinische Geest,6910,Bredstedt-Husumer Geest,31.12.1980,Schleswig-Holstein
+07616,Bredstedt,54.6167,8.9667,10,69,Schleswig-Holsteinische Geest,6910,Bredstedt-Husumer Geest,,Schleswig-Holstein
+07624,Pellworm,54.5167,8.6500,3,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6810,Nordfriesische Marschinseln und Halligen,31.12.2000,Schleswig-Holstein
+07635,Linden/Holst.,54.2500,9.1833,25,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,30.04.2008,Schleswig-Holstein
+07641,Dänschendorf,54.5000,11.1000,6,70,Schleswig-Holsteinisches Hügelland,7030,Nordoldenburg und Fehmarn,31.12.2013,Schleswig-Holstein
+07642,Dahme/Holst.,54.2333,11.0833,8,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,,Schleswig-Holstein
+07650,Neustadt i. Holst.,54.1000,10.8167,10,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,,Schleswig-Holstein
+07652,Oldenburg i. Holst.-Lübbersdorf,54.2833,10.8833,5,70,Schleswig-Holsteinisches Hügelland,7030,Nordoldenburg und Fehmarn,31.12.1979,Schleswig-Holstein
+07655,Schönwalde am Bungsberg,54.1833,10.7500,100,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.2004,Schleswig-Holstein
+07660,Borstel-Hohenraden,53.7000,9.8000,13,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,31.12.1997,Schleswig-Holstein
+07662,Ellerhoop,53.7333,9.7833,10,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,,Schleswig-Holstein
+07669,Lutzhorn,53.8167,9.7833,7,69,Schleswig-Holsteinische Geest,6940,Barmstedt-Kisdorfer Geest,31.12.1983,Schleswig-Holstein
+07671,Quickborn (Ph),53.7342,9.8780,13,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,31.12.1988,Schleswig-Holstein
+07673,Ascheberg,54.1500,10.3333,40,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1983,Schleswig-Holstein
+07682,Giekau,54.3167,10.5000,50,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.2006,Schleswig-Holstein
+07684,Kitzeberg,54.3567,10.1820,12,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.2003,Schleswig-Holstein
+07693,Raisdorf,54.2833,10.2333,25,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1994,Schleswig-Holstein
+07697,Wankendorf-Obendorf,54.1167,10.1667,45,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,,Schleswig-Holstein
+07704,Büdelsdorf,54.3167,9.6667,10,69,Schleswig-Holsteinische Geest,6970,Schleswiger Vorgeest,31.12.2001,Schleswig-Holstein
+07710,Hanerau-Hademarschen (Ph),54.1333,9.4167,25,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,31.12.1981,Schleswig-Holstein
+07712,Hohn b. Rendsburg,54.3000,9.5000,10,69,Schleswig-Holsteinische Geest,6970,Schleswiger Vorgeest,31.12.1992,Schleswig-Holstein
+07713,Jevenstedt (PH),54.2333,9.6667,6,69,Schleswig-Holsteinische Geest,6980,Holsteinische Vorgeest,31.12.2000,Schleswig-Holstein
+07715,Nortorf b. Neumünster,54.1667,9.8500,30,69,Schleswig-Holsteinische Geest,6980,Holsteinische Vorgeest,31.12.1999,Schleswig-Holstein
+07721,Osterholzteich,54.1167,9.4333,25,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,,Schleswig-Holstein
+07727,Berend,54.5500,9.5667,30,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,31.12.1983,Schleswig-Holstein
+07730,Boren,54.6167,9.8333,20,70,Schleswig-Holsteinisches Hügelland,7000,Angeln,,Schleswig-Holstein
+07743,Süderstapel,54.3500,9.2167,10,69,Schleswig-Holsteinische Geest,6920,Eider-Treene-Niederung,,Schleswig-Holstein
+07745,"Bramstedt, Bad",53.9167,9.8833,10,69,Schleswig-Holsteinische Geest,6980,Holsteinische Vorgeest,31.12.1992,Schleswig-Holstein
+07750,Fahrenkrug,53.9500,10.2500,45,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.1995,Schleswig-Holstein
+07765,Tensfeld,54.0333,10.3167,40,69,Schleswig-Holsteinische Geest,6980,Holsteinische Vorgeest,31.12.1995,Schleswig-Holstein
+07770,Wittenborn (Ph),53.9333,10.2000,45,69,Schleswig-Holsteinische Geest,6980,Holsteinische Vorgeest,,Schleswig-Holstein
+07774,Horst,53.8167,9.6167,10,69,Schleswig-Holsteinische Geest,6940,Barmstedt-Kisdorfer Geest,31.12.1991,Schleswig-Holstein
+07778,Lockstedt,54.0167,9.6833,25,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,31.12.2015,Schleswig-Holstein
+07779,Hohenlockstedt,53.9667,9.6167,15,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,31.12.1985,Schleswig-Holstein
+07784,Wulfsdorf,53.6667,10.2000,50,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,31.12.1987,Schleswig-Holstein
+07786,Bargteheide,53.7333,10.2667,45,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,,Schleswig-Holstein
+07794,Reinbek (Ph),53.5241,10.2935,35,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,,Schleswig-Holstein
+07795,Reinfeld,53.8333,10.4833,25,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,31.12.2008,Schleswig-Holstein
+07807,Hemmingstedt,54.1500,9.0667,10,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6830,Eiderstedter Marsch,,Schleswig-Holstein
+07812,Sankt Michaelisdonn (Ph),53.9833,9.1167,20,69,Schleswig-Holsteinische Geest,6930,Heide-Itzehoher Geest,,Schleswig-Holstein
+07814,Wöhrden,54.1667,9.0000,2,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6840,Dithmarscher Marsch,31.12.1988,Schleswig-Holstein
+07821,Medelby,54.8000,9.1667,30,69,Schleswig-Holsteinische Geest,6970,Schleswiger Vorgeest,31.12.1992,Schleswig-Holstein
+07824,Oldsum,54.7333,8.4333,3,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6800,Nordfriesische Geestinseln,,Schleswig-Holstein
+07828,Wyk auf Föhr,54.6833,8.5667,8,68,Schleswig-Holsteinische Marschen (und Nordseeinseln),6800,Nordfriesische Geestinseln,31.12.1997,Schleswig-Holstein
+07829,Hamburg-Volksdorf (Ph),53.6500,10.1833,40,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,31.12.1998,Hamburg
+07837,Hamburg (Botanischer Garten),53.5618,9.8598,30,69,Schleswig-Holsteinische Geest,6950,Hamburger Ring,,Hamburg
+07845,Hameln (PH),52.1000,9.3667,65,36,Oberes Weserbergland,3660,Rinteln-Hamelner Weserland,31.12.1984,Niedersachsen
+07849,Barnstorf,52.7000,8.5000,35,59,Ems-Hunte-Geest,5930,Cloppenburger Geest,,Niedersachsen
+07855,Cantrup,52.7667,8.7500,55,59,Ems-Hunte-Geest,5940,Syker Geest,31.12.2007,Niedersachsen
+07857,Kirchdorf b. Sulingen,52.6000,8.8333,40,58,Dümmer-Geestniederung,5840,Diepholzer Moorniederung,,Niedersachsen
+07858,Mellinghausen,52.7500,8.8333,55,59,Ems-Hunte-Geest,5940,Syker Geest,31.12.1988,Niedersachsen
+07862,Sudwalde,52.8000,8.8333,55,59,Ems-Hunte-Geest,5940,Syker Geest,30.06.2011,Niedersachsen
+07865,Wagenfeld,52.5667,8.5667,40,58,Dümmer-Geestniederung,5840,Diepholzer Moorniederung,,Niedersachsen
+07872,Harpstedt,52.9000,8.5833,35,59,Ems-Hunte-Geest,5940,Syker Geest,05.04.2009,Niedersachsen
+07875,Kleinenborstel,52.8667,9.0333,12,62,Weser-Aller-Flachland,6210,Thedinghäuser Vorgeest,31.12.1999,Niedersachsen
+07878,Schwarme (PH),52.9000,9.0333,10,62,Weser-Aller-Flachland,6210,Thedinghäuser Vorgeest,31.12.1981,Niedersachsen
+07881,Hilgermissen,52.8500,9.1833,15,62,Weser-Aller-Flachland,6200,Verdener Wesertal,31.12.2017,Niedersachsen
+07892,Afferde,52.1000,9.4167,75,37,Weser-Leinebergland,3780,Calenberger Bergland,31.12.1984,Niedersachsen
+07897,Königsförde,52.0667,9.2667,110,36,Oberes Weserbergland,3640,Lipper Bergland,31.12.2012,Niedersachsen
+07906,Arnum,52.3000,9.7333,60,52,Niedersächsische Börden,5210,Calenberger Lößbörde,31.12.1992,Niedersachsen
+07910,Barsinghausen-Kirchdorf,52.3000,9.5000,96,52,Niedersächsische Börden,5210,Calenberger Lößbörde,,Niedersachsen
+07912,Laatzen b. Hannover-Grasdorf,52.3000,9.8000,60,52,Niedersächsische Börden,5200,Braunschweig-Hildesheimer Lößbörde,31.12.1986,Niedersachsen
+07916,Ronnenberg,52.3167,9.6667,80,52,Niedersächsische Börden,5210,Calenberger Lößbörde,31.12.1981,Niedersachsen
+07920,Neustadt a. Rübenberge-Empede,52.5333,9.4667,37,62,Weser-Aller-Flachland,6220,Hannoversche Moorgeest,,Niedersachsen
+07923,Kolenfeld,52.4000,9.4500,50,52,Niedersächsische Börden,5220,Bückebergvorland,,Niedersachsen
+07946,Rohrsen,52.7167,9.2500,25,58,Dümmer-Geestniederung,5830,Mittleres Wesertal,31.12.2020,Niedersachsen
+07951,Wiedensahl,52.4000,9.1167,65,52,Niedersächsische Börden,5220,Bückebergvorland,30.09.2009,Niedersachsen
+07963,Bakede (PH),52.2167,9.4000,160,37,Weser-Leinebergland,3780,Calenberger Bergland,31.12.2009,Niedersachsen
+07966,Gestorf,52.2167,9.7167,100,52,Niedersächsische Börden,5210,Calenberger Lößbörde,31.12.2000,Niedersachsen
+07971,Pattensen,52.2667,9.7667,70,52,Niedersächsische Börden,5210,Calenberger Lößbörde,31.12.2008,Niedersachsen
+08004,Groß Schneen,51.4333,9.9333,190,37,Weser-Leinebergland,3720,Leine-Ilme-Senke,31.12.1991,Niedersachsen
+08007,Waake,51.5500,10.0667,260,37,Weser-Leinebergland,3730,Göttingen-Northeimer Wald,,Niedersachsen
+08010,Detfurth,52.0667,10.0167,140,37,Weser-Leinebergland,3790,Innerstebergland,31.12.1987,Niedersachsen
+08018,Holle b. Hildesheim,52.0833,10.1500,110,37,Weser-Leinebergland,3790,Innerstebergland,,Niedersachsen
+08027,Grünenplan,51.9500,9.7333,200,37,Weser-Leinebergland,3770,Alfelder Bergland (mit Ith und Hils),31.12.2009,Niedersachsen
+08028,Heinade,51.8500,9.6333,280,37,Weser-Leinebergland,3710,Sollingvorland,31.12.2016,Niedersachsen
+08053,Dorste,51.7000,10.1667,150,37,Weser-Leinebergland,3760,Südwestliches Harzvorland,31.12.1996,Niedersachsen
+08063,"Sachsa, Bad (PH)",51.6000,10.5500,340,48,Thüringer Becken und Randplatten Nrg 48,4850,Südharzer Zechsteingürtel,31.08.2006,Niedersachsen
+08064,Wiershausen,51.8167,10.0667,240,37,Weser-Leinebergland,3760,Südwestliches Harzvorland,,Niedersachsen
+08069,Groß Lafferde,52.2333,10.2333,85,52,Niedersächsische Börden,5200,Braunschweig-Hildesheimer Lößbörde,31.12.2009,Niedersachsen
+08084,Celle (PH),52.6333,10.0833,50,62,Weser-Aller-Flachland,6260,Obere Allerniederung,31.12.1993,Niedersachsen
+08087,Wedemark-Bissendorf,52.5333,9.7667,50,62,Weser-Aller-Flachland,6220,Hannoversche Moorgeest,31.12.1988,Niedersachsen
+08091,Gailhof,52.5500,9.7667,40,62,Weser-Aller-Flachland,6270,Aller-Talsandebene,,Niedersachsen
+08093,Immensen,52.4000,10.0667,65,62,Weser-Aller-Flachland,6230,Burgdorf-Peiner Geestplatten,31.12.2015,Niedersachsen
+08094,Isernhagen,52.4667,9.8500,80,62,Weser-Aller-Flachland,6220,Hannoversche Moorgeest,31.12.1980,Niedersachsen
+08099,Altencelle,52.6000,10.1167,40,62,Weser-Aller-Flachland,6260,Obere Allerniederung,,Niedersachsen
+08101,Bergen,52.8167,9.9667,70,64,Lüneburger Heide,6410,Südheide,31.12.2018,Niedersachsen
+08108,Helmerkamp,52.5833,10.3167,50,64,Lüneburger Heide,6410,Südheide,31.12.1979,Niedersachsen
+08117,Rebberlah,52.7333,10.1667,75,64,Lüneburger Heide,6410,Südheide,31.12.1993,Niedersachsen
+08132,Hünzingen,52.9000,9.5833,70,64,Lüneburger Heide,6410,Südheide,31.12.1997,Niedersachsen
+08133,"Fallingbostel, Bad-Riepe",52.9333,9.7333,70,64,Lüneburger Heide,6410,Südheide,31.12.2015,Niedersachsen
+08137,Walsrode (PH),52.8667,9.6000,35,64,Lüneburger Heide,6410,Südheide,31.12.1992,Niedersachsen
+08144,Gifhorn (PH),52.4833,10.5500,50,62,Weser-Aller-Flachland,6260,Obere Allerniederung,31.12.1997,Niedersachsen
+08148,Knesebeck,52.6833,10.7000,70,64,Lüneburger Heide,6420,Ostheide,31.12.1989,Niedersachsen
+08149,Meine,52.3833,10.5500,80,62,Weser-Aller-Flachland,6240,Ostbraunschweigisches Flachland,31.12.1981,Niedersachsen
+08151,Müden/Aller,52.5333,10.3500,50,62,Weser-Aller-Flachland,6260,Obere Allerniederung,31.12.1986,Niedersachsen
+08157,Steinhorst/Nieders.,52.6833,10.4000,70,64,Lüneburger Heide,6410,Südheide,31.12.2000,Niedersachsen
+08172,Helmstorf,53.3667,9.9833,50,64,Lüneburger Heide,6440,Luheheide,31.12.2013,Niedersachsen
+08174,Hunden,53.3667,10.3000,3,67,Unterelbeniederung,6700,Stader Elbmarschen,31.12.2010,Niedersachsen
+08175,Immenbeck,53.4500,9.7333,40,64,Lüneburger Heide,6400,Hohe Heide,31.12.2013,Niedersachsen
+08191,Toppenstedt,53.2667,10.1167,40,64,Lüneburger Heide,6440,Luheheide,31.12.1996,Niedersachsen
+08206,Gorleben (Ph),53.0500,11.3667,20,86,Altmark,8600,Lüchower Niederung,31.12.1980,Niedersachsen
+08212,Kapern,53.0333,11.5333,18,87,Elbtalniederung,8760,Untere Mittelelbe-Niederung,31.12.2008,Niedersachsen
+08216,Lensian,52.9333,11.0833,20,86,Altmark,8600,Lüchower Niederung,31.12.1979,Niedersachsen
+08227,Gusborn-Quickborn,53.1167,11.2000,20,86,Altmark,8600,Lüchower Niederung,02.01.2007,Niedersachsen
+08228,Rehbeck,53.0000,11.1513,15,86,Altmark,8600,Lüchower Niederung,,Niedersachsen
+08232,Siemen,53.0500,11.2167,15,86,Altmark,8600,Lüchower Niederung,31.12.1997,Niedersachsen
+08236,Bleckede (PH),53.3000,10.7500,9,87,Elbtalniederung,8760,Untere Mittelelbe-Niederung,31.12.1980,Niedersachsen
+08238,Gifkendorf,53.2000,10.5500,60,64,Lüneburger Heide,6420,Ostheide,31.12.1994,Niedersachsen
+08246,Süttorf,53.2500,10.6500,30,64,Lüneburger Heide,6420,Ostheide,31.12.1981,Niedersachsen
+08248,Bispingen,53.0833,10.0000,80,64,Lüneburger Heide,6400,Hohe Heide,31.12.2006,Niedersachsen
+08255,Steinbeck,53.1000,10.0667,75,64,Lüneburger Heide,6400,Hohe Heide,,Niedersachsen
+08256,Trauen,52.9333,10.1500,65,64,Lüneburger Heide,6410,Südheide,31.12.2018,Niedersachsen
+08261,Altenmedingen,53.1333,10.6000,50,64,Lüneburger Heide,6420,Ostheide,,Niedersachsen
+08266,Bohlsen,52.9667,10.4667,55,64,Lüneburger Heide,6430,Uelzener Becken und Ilmenauniederung,31.12.2006,Niedersachsen
+08273,Himbergen,53.1000,10.7333,60,64,Lüneburger Heide,6420,Ostheide,31.12.1998,Niedersachsen
+08280,Schafwedel,52.8333,10.7333,70,64,Lüneburger Heide,6420,Ostheide,31.12.1999,Niedersachsen
+08285,Uelzen (Ph),52.9667,10.5667,40,64,Lüneburger Heide,6430,Uelzener Becken und Ilmenauniederung,,Niedersachsen
+08292,Badenstedt,53.2667,9.2000,30,63,Stader Geest,6340,Zevener Geest,31.12.1988,Niedersachsen
+08293,Bremervörde,53.4833,9.1333,5,63,Stader Geest,6320,Hamme-Oste-Niederung,,Niedersachsen
+08294,Ehestorf,53.2500,9.3833,30,63,Stader Geest,6340,Zevener Geest,31.12.2017,Niedersachsen
+08300,Selsingen (PH),53.3833,9.2167,25,63,Stader Geest,6340,Zevener Geest,30.11.2010,Niedersachsen
+08308,Ihlienworth,53.7333,8.9167,1,67,Unterelbeniederung,6700,Stader Elbmarschen,31.12.2011,Niedersachsen
+08324,Lilienthal b. Bremen-Falkenberg,53.1500,8.9333,4,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.2002,Niedersachsen
+08333,Ahausen,53.0667,9.3167,25,63,Stader Geest,6300,Achim-Verdener Geest,,Niedersachsen
+08336,Fintel,53.1667,9.6667,45,63,Stader Geest,6310,Wümmeniederung,31.12.1988,Niedersachsen
+08348,Agathenburg,53.5667,9.5167,20,63,Stader Geest,6340,Zevener Geest,,Niedersachsen
+08353,Ritschermoor,53.6667,9.3833,1,67,Unterelbeniederung,6700,Stader Elbmarschen,31.12.2018,Niedersachsen
+08361,Himmelpforten,53.6167,9.3167,6,63,Stader Geest,6340,Zevener Geest,31.12.1984,Niedersachsen
+08370,Sauensiek (PH),53.3667,9.6000,40,63,Stader Geest,6340,Zevener Geest,31.12.2001,Niedersachsen
+08373,Achim b. Bremen,53.0167,9.0500,20,63,Stader Geest,6300,Achim-Verdener Geest,31.12.2007,Niedersachsen
+08380,Ritzenbergen,52.9333,9.1833,10,62,Weser-Aller-Flachland,6200,Verdener Wesertal,31.12.2001,Niedersachsen
+08388,Hahnenknoop,53.4333,8.6167,5,63,Stader Geest,6330,Wesermünder Geest,31.12.1996,Niedersachsen
+08392,Schwegen,53.4167,8.5833,1,61,Ems-Weser-Marsch,6120,Wesermarschen,,Niedersachsen
+08393,Stotel,53.4500,8.6167,5,63,Stader Geest,6330,Wesermünder Geest,31.12.2007,Niedersachsen
+08396,Wellen,53.4000,8.8667,18,63,Stader Geest,6330,Wesermünder Geest,31.12.1979,Niedersachsen
+08400,Rhede-Brual,53.1000,7.2167,3,59,Ems-Hunte-Geest,5910,Mittleres Emstal,,Niedersachsen
+08402,Gehlenberg,52.9667,7.7667,15,60,Ostfriesisch-Oldenburgische Geest,6000,Hunte-Leda-Moorniederung,,Niedersachsen
+08403,Heede/Ems,53.0000,7.3000,6,59,Ems-Hunte-Geest,5910,Mittleres Emstal,31.12.2000,Niedersachsen
+08404,Lathen,52.8667,7.3167,10,60,Ostfriesisch-Oldenburgische Geest,6000,Hunte-Leda-Moorniederung,31.12.1984,Niedersachsen
+08411,Bersenbrück (PH),52.5500,7.9500,35,58,Dümmer-Geestniederung,5850,Bersenbrücker Land,31.12.1988,Niedersachsen
+08414,Fürstenau (Ph),52.5167,7.6833,50,58,Dümmer-Geestniederung,5810,Plantlünner Sandebene,31.12.2000,Niedersachsen
+08415,Versmold-Loxten,52.6000,7.8667,35,58,Dümmer-Geestniederung,5850,Bersenbrücker Land,31.12.1972,Niedersachsen
+08416,Quakenbrück (PH),52.6667,7.9500,25,58,Dümmer-Geestniederung,5850,Bersenbrücker Land,31.12.1990,Niedersachsen
+08417,Vehs,52.6333,7.9333,25,58,Dümmer-Geestniederung,5850,Bersenbrücker Land,31.12.1953,Niedersachsen
+08420,Weese,52.4167,7.7333,50,58,Dümmer-Geestniederung,5810,Plantlünner Sandebene,,Niedersachsen
+08425,Eschebrügge,52.6333,6.7667,12,58,Dümmer-Geestniederung,5800,Nordhorn-Bentheimer Sandniederung,31.12.2000,Niedersachsen
+08430,Ohne,52.2833,7.2833,40,54,Westfälische Tieflandsbucht,5440,Westmünsterland,,Niedersachsen
+08434,Wietmarschen (PH),52.5167,7.1333,20,58,Dümmer-Geestniederung,5800,Nordhorn-Bentheimer Sandniederung,31.12.1999,Niedersachsen
+08439,Freren,52.4833,7.5500,40,58,Dümmer-Geestniederung,5810,Plantlünner Sandebene,31.12.1990,Niedersachsen
+08442,Leschede,52.4000,7.3000,20,58,Dümmer-Geestniederung,5810,Plantlünner Sandebene,31.12.2000,Niedersachsen
+08452,Groß Berßen,52.7667,7.5000,30,59,Ems-Hunte-Geest,5920,Sögeler Geest (Hümmling),,Niedersachsen
+08453,Groß Fullen,52.7000,7.2333,15,58,Dümmer-Geestniederung,5860,Lingener Land,31.12.1999,Niedersachsen
+08457,Belm (PH),52.3000,8.1500,80,53,Unteres Weserbergland,5350,Osnabrücker Hügelland,31.12.2007,Niedersachsen
+08459,Gaste,52.2500,7.9500,80,53,Unteres Weserbergland,5350,Osnabrücker Hügelland,,Niedersachsen
+08475,Barkhausen,52.2833,8.4167,80,53,Unteres Weserbergland,5330,Lübbecker Lößland,31.12.2009,Niedersachsen
+08477,Eielstädt,52.3167,8.3667,65,53,Unteres Weserbergland,5330,Lübbecker Lößland,31.12.1987,Niedersachsen
+08483,Aurich/Ostfriesl.,53.4667,7.4833,5,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.1986,Niedersachsen
+08495,Theene,53.4667,7.3500,1,61,Ems-Weser-Marsch,6100,Emsmarschen,31.12.1997,Niedersachsen
+08501,Detern,53.2167,7.6833,2,61,Ems-Weser-Marsch,6100,Emsmarschen,31.12.1979,Niedersachsen
+08505,Ihrhove,53.1667,7.4500,2,61,Ems-Weser-Marsch,6100,Emsmarschen,31.12.1988,Niedersachsen
+08511,Veenhusen,53.2833,7.4333,10,61,Ems-Weser-Marsch,6100,Emsmarschen,31.12.1982,Niedersachsen
+08524,Norden/Ostfriesl.,53.6000,7.2167,2,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.1984,Niedersachsen
+08527,Tjüche,53.5333,7.2833,1,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.1988,Niedersachsen
+08530,Emden-Wybelsum,53.3500,7.1167,1,61,Ems-Weser-Marsch,6110,Ostfriesische Seemarschen,31.12.2012,Niedersachsen
+08531,Ardorf,53.5333,7.7000,3,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.2019,Niedersachsen
+08534,Dunum,53.6000,7.6333,5,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.1983,Niedersachsen
+08542,Utarp,53.6167,7.4667,8,61,Ems-Weser-Marsch,6110,Ostfriesische Seemarschen,31.12.2013,Niedersachsen
+08545,Wittmund,53.5833,7.7667,3,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.1994,Niedersachsen
+08557,Braunschweig-Schapen,52.2833,10.6167,90,62,Weser-Aller-Flachland,6240,Ostbraunschweigisches Flachland,31.12.1995,Niedersachsen
+08566,Lutter a. Barenberge,51.9833,10.2667,160,37,Weser-Leinebergland,3790,Innerstebergland,31.12.1983,Niedersachsen
+08573,Bredelem,51.9667,10.3500,180,37,Weser-Leinebergland,3790,Innerstebergland,31.12.1999,Niedersachsen
+08584,Groß Sisbeck,52.3667,10.9333,110,62,Weser-Aller-Flachland,6240,Ostbraunschweigisches Flachland,,Niedersachsen
+08585,Helmstedt,52.2333,11.0167,140,62,Weser-Aller-Flachland,6240,Ostbraunschweigisches Flachland,31.12.2000,Niedersachsen
+08589,Büddenstedt-Offleben,52.1333,11.0333,110,51,Nördliches Harzvorland,5120,Ostbraunschweigisches Hügelland,31.12.1982,Niedersachsen
+08598,Wolfsburg-Vorsfelde,52.4333,10.8500,60,64,Lüneburger Heide,6420,Ostheide,31.12.2006,Niedersachsen
+08606,Evessen,52.1833,10.7167,150,51,Nördliches Harzvorland,5120,Ostbraunschweigisches Hügelland,,Niedersachsen
+08609,Groß Vahlberg,52.1333,10.7000,110,51,Nördliches Harzvorland,5120,Ostbraunschweigisches Hügelland,31.12.2000,Niedersachsen
+08616,Oldenburg/Oldenb.-Haarentor,53.1500,8.2000,5,60,Ostfriesisch-Oldenburgische Geest,6030,Oldenburger Geest,,Niedersachsen
+08621,Rastede (PH),53.2500,8.2000,15,60,Ostfriesisch-Oldenburgische Geest,6030,Oldenburger Geest,31.12.1985,Niedersachsen
+08623,Westerstede (Ph),53.2452,7.9053,8,60,Ostfriesisch-Oldenburgische Geest,6030,Oldenburger Geest,31.12.2007,Niedersachsen
+08636,Cappeln,52.8167,8.1167,45,59,Ems-Hunte-Geest,5930,Cloppenburger Geest,31.12.1988,Niedersachsen
+08647,Neuscharrel,53.0167,7.7667,9,60,Ostfriesisch-Oldenburgische Geest,6000,Hunte-Leda-Moorniederung,31.12.1993,Niedersachsen
+08652,Grimmens,53.6833,7.9333,3,61,Ems-Weser-Marsch,6110,Ostfriesische Seemarschen,,Niedersachsen
+08662,Wilhelmshaven-Sengwarden,53.6000,8.0333,1,61,Ems-Weser-Marsch,6110,Ostfriesische Seemarschen,31.12.1980,Niedersachsen
+08663,Varel/Jadebusen,53.4000,8.1333,10,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.2003,Niedersachsen
+08664,Varel-Seghorn,53.3833,8.0500,10,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,31.12.2003,Niedersachsen
+08666,Zetel,53.4167,7.9833,8,60,Ostfriesisch-Oldenburgische Geest,6020,Ostfriesische Geest,,Niedersachsen
+08668,Bookhorn,53.0500,8.5333,25,59,Ems-Hunte-Geest,5950,Delmenhorster Geest,31.12.1991,Niedersachsen
+08670,Bookholzberg,53.1000,8.5333,5,59,Ems-Hunte-Geest,5950,Delmenhorster Geest,,Niedersachsen
+08671,Großenkneten-Huntlosen,52.9833,8.2833,15,59,Ems-Hunte-Geest,5950,Delmenhorster Geest,31.12.2013,Niedersachsen
+08673,Sandkrug,53.0500,8.2667,10,59,Ems-Hunte-Geest,5950,Delmenhorster Geest,31.12.1996,Niedersachsen
+08674,Hude,53.1167,8.4500,8,59,Ems-Hunte-Geest,5950,Delmenhorster Geest,31.12.1984,Niedersachsen
+08678,Bakum,52.7500,8.2000,30,59,Ems-Hunte-Geest,5930,Cloppenburger Geest,31.12.2005,Niedersachsen
+08689,Berne,53.1833,8.4833,1,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.1988,Niedersachsen
+08698,Oldenbrok,53.2833,8.3833,1,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.1987,Niedersachsen
+08704,Bremen-Oberneuland,53.0833,8.9333,3,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.1985,Bremen
+08706,Bremen-Grolland,53.0667,8.7667,4,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.1988,Bremen
+08710,Bremen-Borgfeld,53.1333,8.9167,3,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.1986,Bremen
+08729,Solingen-Gräfrath,51.2000,7.0667,220,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,31.12.2001,Nordrhein-Westfalen
+08737,Heiligenhaus,51.3333,6.9667,180,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.2012,Nordrhein-Westfalen
+08739,Langenberg,51.3500,7.1167,140,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.2009,Nordrhein-Westfalen
+08743,Wülfrath,51.2833,7.0333,180,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.1989,Nordrhein-Westfalen
+08754,Jüchen,51.1000,6.5000,75,55,Niederrheinische Bucht,5540,Jülicher Börde,31.12.2013,Nordrhein-Westfalen
+08760,Brüggen/Niederrhein,51.2333,6.1833,40,57,Niederrheinisches Tiefland,5710,Schwalm-Nette-Platten,31.12.1980,Nordrhein-Westfalen
+08764,Neersen,51.2500,6.4833,35,57,Niederrheinisches Tiefland,5730,Kempen-Aldekerker Platten,31.12.2001,Nordrhein-Westfalen
+08767,Schiefbahn,51.2333,6.5500,40,57,Niederrheinisches Tiefland,5730,Kempen-Aldekerker Platten,31.12.2006,Nordrhein-Westfalen
+08776,Kranenburg,51.7833,6.0167,14,57,Niederrheinisches Tiefland,5770,Untere Rheinniederung,31.12.2020,Nordrhein-Westfalen
+08800,Essen-Haarzopf,51.4167,6.9667,120,54,Westfälische Tieflandsbucht,5450,Westernhellweg,31.12.2004,Nordrhein-Westfalen
+08806,Kettwig,51.3500,6.9500,60,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.1996,Nordrhein-Westfalen
+08808,Straelen (PH),51.4500,6.2667,45,57,Niederrheinisches Tiefland,5730,Kempen-Aldekerker Platten,31.12.1979,Nordrhein-Westfalen
+08809,Sevelen,51.4833,6.4167,30,57,Niederrheinisches Tiefland,5720,Niersniederung,31.12.1999,Nordrhein-Westfalen
+08815,Kevelaer,51.5833,6.2500,20,57,Niederrheinisches Tiefland,5720,Niersniederung,30.06.2010,Nordrhein-Westfalen
+08817,Moers,51.4500,6.6333,25,57,Niederrheinisches Tiefland,5750,Mittlere Niederrheinebene,,Nordrhein-Westfalen
+08823,Menzelen,51.6167,6.5333,20,57,Niederrheinisches Tiefland,5750,Mittlere Niederrheinebene,,Nordrhein-Westfalen
+08824,Wesel,51.6500,6.6167,25,57,Niederrheinisches Tiefland,5760,Isselebene,,Nordrhein-Westfalen
+08827,Bonn-Endenich,50.7333,7.0833,60,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,31.12.1986,Nordrhein-Westfalen
+08834,Bedburg,50.9833,6.5667,60,55,Niederrheinische Bucht,5540,Jülicher Börde,31.12.1979,Nordrhein-Westfalen
+08836,Bergheim-Glessen,50.9667,6.7500,100,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,31.12.2013,Nordrhein-Westfalen
+08844,Bonn-Rodderberg,50.6500,7.2000,130,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,,Nordrhein-Westfalen
+08849,Euskirchen,50.6667,6.8000,160,55,Niederrheinische Bucht,5530,Zülpicher Börde,31.12.2017,Nordrhein-Westfalen
+08869,Dikopshof,50.8167,6.9500,60,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,31.12.2000,Nordrhein-Westfalen
+08881,Hülsenbusch,51.0333,7.5000,320,33,Bergisch-Sauerländisches Gebirge,3390,Bergland der oberen Agger und Wiehl,31.12.1995,Nordrhein-Westfalen
+08892,Bergisch Gladbach,51.0000,7.1333,90,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,,Nordrhein-Westfalen
+08893,Köln-Porz,50.8833,7.0667,60,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,31.12.1994,Nordrhein-Westfalen
+08894,Wipperfürth,51.1000,7.3833,310,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,31.12.2006,Nordrhein-Westfalen
+08895,Ohl,51.1167,7.4833,280,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,31.12.2004,Nordrhein-Westfalen
+08896,Lindlar (PH),51.0167,7.3833,240,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,31.12.1969,Nordrhein-Westfalen
+08897,Altenberg/Rheinl.,51.0500,7.1333,80,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,31.12.1979,Nordrhein-Westfalen
+08902,Overath-Weyerhof,50.9125,7.2847,200,33,Bergisch-Sauerländisches Gebirge,3380,Bergische Hochflächen,31.12.1998,Nordrhein-Westfalen
+08912,Eitorf,50.7667,7.4500,100,33,Bergisch-Sauerländisches Gebirge,3300,Mittelsieg-Bergland,31.12.2000,Nordrhein-Westfalen
+08914,Hennef,50.7632,7.2631,72,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,,Nordrhein-Westfalen
+08915,Hennef-Westerhausen,50.7333,7.3000,200,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,31.12.2000,Nordrhein-Westfalen
+08925,Hangelar,50.7667,7.1667,65,55,Niederrheinische Bucht,5510,Köln-Bonner Rheinebene,31.12.1989,Nordrhein-Westfalen
+08928,Oberdollendorf,50.7000,7.2000,100,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,31.12.2009,Nordrhein-Westfalen
+08932,Eschweiler,50.8167,6.2667,140,55,Niederrheinische Bucht,5540,Jülicher Börde,,Nordrhein-Westfalen
+08949,Hückelhoven-Ratheim,51.0667,6.1833,50,57,Niederrheinisches Tiefland,5700,Selfkant,31.12.2003,Nordrhein-Westfalen
+08958,Hambach,50.8833,6.4500,100,55,Niederrheinische Bucht,5530,Zülpicher Börde,,Nordrhein-Westfalen
+08963,Kesternich,50.6000,6.3167,550,28,Westeifel,2820,Rureifel,31.12.1998,Nordrhein-Westfalen
+08968,Lammersdorf,50.6333,6.2833,550,28,Westeifel,2820,Rureifel,31.12.1988,Nordrhein-Westfalen
+08985,Nettersheim,50.4833,6.6333,460,27,Osteifel,2760,Kalkeifel,31.12.2006,Nordrhein-Westfalen
+08993,Puffendorf,50.9333,6.2167,100,55,Niederrheinische Bucht,5540,Jülicher Börde,31.12.1993,Nordrhein-Westfalen
+08998,Münster-Mitte,51.9667,7.6333,60,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,,Nordrhein-Westfalen
+09001,Stadtlohn (Ph),51.9968,6.9732,50,54,Westfälische Tieflandsbucht,5440,Westmünsterland,31.12.2016,Nordrhein-Westfalen
+09003,Epe,52.1833,7.0500,40,54,Westfälische Tieflandsbucht,5440,Westmünsterland,31.12.1980,Nordrhein-Westfalen
+09005,Heek,52.1167,7.1167,50,54,Westfälische Tieflandsbucht,5440,Westmünsterland,,Nordrhein-Westfalen
+09015,Stromberg (Ph),51.8042,8.2049,140,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,,Nordrhein-Westfalen
+09018,Dingden,51.7667,6.6167,25,57,Niederrheinisches Tiefland,5760,Isselebene,31.12.1994,Nordrhein-Westfalen
+09020,Barlo,51.8833,6.6667,40,57,Niederrheinisches Tiefland,5780,Niederrheinische Sandplatten,31.12.2014,Nordrhein-Westfalen
+09028,Billerbeck,51.9667,7.3000,110,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,31.12.2013,Nordrhein-Westfalen
+09032,Gescher (PH),51.9667,7.0167,60,54,Westfälische Tieflandsbucht,5440,Westmünsterland,31.12.1980,Nordrhein-Westfalen
+09035,Hamm-Bockum-Hövel,51.7000,7.7500,75,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,31.12.2015,Nordrhein-Westfalen
+09041,Walstedde,51.7500,7.7833,75,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,31.12.1985,Nordrhein-Westfalen
+09055,Burgsteinfurt,52.1500,7.3333,70,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,31.12.1995,Nordrhein-Westfalen
+09057,Hembergen,52.1500,7.6000,45,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,,Nordrhein-Westfalen
+09060,Nordwalde,52.0833,7.4833,50,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,31.12.2006,Nordrhein-Westfalen
+09074,Laggenbeck,52.2667,7.7833,90,53,Unteres Weserbergland,5350,Osnabrücker Hügelland,,Nordrhein-Westfalen
+09075,Ibbenbüren (PH),52.2833,7.7333,70,53,Unteres Weserbergland,5350,Osnabrücker Hügelland,31.12.1997,Nordrhein-Westfalen
+09080,Warendorf (Ph),51.9500,7.9833,55,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,,Nordrhein-Westfalen
+09083,Hoetmar,51.8667,7.9167,65,54,Westfälische Tieflandsbucht,5410,Kernmünsterland,31.12.1997,Nordrhein-Westfalen
+09087,Gelsenkirchen (Ph),51.5833,7.0667,70,54,Westfälische Tieflandsbucht,5430,Emscherland,,Nordrhein-Westfalen
+09094,Lavesum,51.7833,7.1667,70,54,Westfälische Tieflandsbucht,5440,Westmünsterland,31.12.1980,Nordrhein-Westfalen
+09096,Lippramsdorf,51.7167,7.1000,45,54,Westfälische Tieflandsbucht,5440,Westmünsterland,31.12.2000,Nordrhein-Westfalen
+09109,Bielefeld-Jöllenbeck,52.0833,8.5167,150,53,Unteres Weserbergland,5310,Ravensberger Hügelland,31.12.2011,Nordrhein-Westfalen
+09110,Atteln,51.6000,8.8167,200,36,Oberes Weserbergland,3620,Paderborner Hochfläche,31.12.2001,Nordrhein-Westfalen
+09112,Salzkotten (PH),51.6833,8.6000,100,54,Westfälische Tieflandsbucht,5420,Hellwegbörden,31.12.1989,Nordrhein-Westfalen
+09113,Verne,51.6833,8.5667,95,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,31.10.2008,Nordrhein-Westfalen
+09116,Blomberg,51.9500,9.0833,160,36,Oberes Weserbergland,3640,Lipper Bergland,31.12.1982,Nordrhein-Westfalen
+09121,Brakelsiek,51.9000,9.1667,200,36,Oberes Weserbergland,3640,Lipper Bergland,31.12.2009,Nordrhein-Westfalen
+09131,Halle/Westf.,52.0500,8.3667,130,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,,Nordrhein-Westfalen
+09133,Steinhagen/Westf.,52.0000,8.4167,110,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,31.12.1999,Nordrhein-Westfalen
+09136,Isingdorf,52.0500,8.4333,170,53,Unteres Weserbergland,5300,Bielefelder Osning,31.12.2011,Nordrhein-Westfalen
+09138,Bünde,52.2000,8.6000,70,53,Unteres Weserbergland,5310,Ravensberger Hügelland,31.12.2008,Nordrhein-Westfalen
+09147,Brakel,51.7167,9.1833,140,36,Oberes Weserbergland,3610,Oberwälder Land,31.12.2012,Nordrhein-Westfalen
+09163,Dörentrup,52.0333,9.0000,140,36,Oberes Weserbergland,3640,Lipper Bergland,31.12.2000,Nordrhein-Westfalen
+09169,Espelkamp,52.4167,8.6167,50,58,Dümmer-Geestniederung,5820,Rahden-Diepenauer Geest,,Nordrhein-Westfalen
+09180,Minden,52.3000,8.9167,50,58,Dümmer-Geestniederung,5830,Mittleres Wesertal,31.12.2007,Nordrhein-Westfalen
+09187,Wulferdingsen,52.2500,8.7333,100,53,Unteres Weserbergland,5310,Ravensberger Hügelland,31.12.2014,Nordrhein-Westfalen
+09203,Bühne,51.5833,9.3000,230,36,Oberes Weserbergland,3600,Warburger Börde,,Nordrhein-Westfalen
+09218,Schloß Holte-Stukenbrock,51.9000,8.6000,110,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,31.12.1984,Nordrhein-Westfalen
+09226,Herscheid/Westf.,51.1667,7.7500,420,33,Bergisch-Sauerländisches Gebirge,3350,Innersauerländer Senken,31.12.1984,Nordrhein-Westfalen
+09241,Langscheid,51.3500,7.9500,350,33,Bergisch-Sauerländisches Gebirge,3340,Nordsauerländer Oberland,,Nordrhein-Westfalen
+09243,Endorf,51.3000,8.0333,270,33,Bergisch-Sauerländisches Gebirge,3350,Innersauerländer Senken,31.12.2012,Nordrhein-Westfalen
+09247,Warstein,51.4500,8.3500,320,33,Bergisch-Sauerländisches Gebirge,3340,Nordsauerländer Oberland,31.12.2019,Nordrhein-Westfalen
+09269,Lippstadt,51.6667,8.3500,75,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,31.12.2011,Nordrhein-Westfalen
+09278,Eversberg,51.3500,8.3333,360,33,Bergisch-Sauerländisches Gebirge,3350,Innersauerländer Senken,,Nordrhein-Westfalen
+09283,Wenholthausen,51.2667,8.1833,270,33,Bergisch-Sauerländisches Gebirge,3350,Innersauerländer Senken,31.12.1973,Nordrhein-Westfalen
+09298,Neu-Listernohl,51.1000,7.8667,270,33,Bergisch-Sauerländisches Gebirge,3360,Westsauerländer Oberland,31.12.1984,Nordrhein-Westfalen
+09299,Niederhelden,51.1333,7.9833,300,33,Bergisch-Sauerländisches Gebirge,3350,Innersauerländer Senken,31.12.2005,Nordrhein-Westfalen
+09304,Saalhausen,51.1167,8.1667,320,33,Bergisch-Sauerländisches Gebirge,3360,Westsauerländer Oberland,31.12.1985,Nordrhein-Westfalen
+09315,Allenbach,50.9667,8.1000,310,33,Bergisch-Sauerländisches Gebirge,3310,Siegerland,31.12.1997,Nordrhein-Westfalen
+09318,Grissenbach,50.8833,8.1667,320,33,Bergisch-Sauerländisches Gebirge,3310,Siegerland,31.12.1998,Nordrhein-Westfalen
+09319,Obernetphen,50.9167,8.1000,350,33,Bergisch-Sauerländisches Gebirge,3310,Siegerland,31.12.2017,Nordrhein-Westfalen
+09323,Ostönnen,51.5500,8.0000,100,54,Westfälische Tieflandsbucht,5420,Hellwegbörden,31.12.1998,Nordrhein-Westfalen
+09326,Günne,51.5000,8.0500,200,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,,Nordrhein-Westfalen
+09337,Richstein,50.9833,8.4667,460,33,Bergisch-Sauerländisches Gebirge,3330,Hochsauerland (Rothaargebirge),31.12.2004,Nordrhein-Westfalen
+09358,Witten-Stockum (PH),51.4667,7.3667,140,54,Westfälische Tieflandsbucht,5450,Westernhellweg,31.12.2006,Nordrhein-Westfalen
+09360,Gevelsberg,51.3167,7.3333,170,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,,Nordrhein-Westfalen
+09366,Sprockhövel,51.3667,7.2500,160,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.1995,Nordrhein-Westfalen
+09368,Uellendahl,51.3167,7.3000,255,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.1997,Nordrhein-Westfalen
+09372,Villigst,51.4333,7.5833,135,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,31.12.2020,Nordrhein-Westfalen
+09373,Westhofen,51.4167,7.5333,110,54,Westfälische Tieflandsbucht,5420,Hellwegbörden,31.12.1989,Nordrhein-Westfalen
+09376,Bönen,51.6000,7.7667,100,54,Westfälische Tieflandsbucht,5420,Hellwegbörden,31.12.1995,Nordrhein-Westfalen
+09387,Alsfeld (PH),50.7500,9.2667,260,34,Westhessiches Bergland,3430,Westhessische Senke,31.12.1999,Hessen
+09401,Unter-Hambach,49.6667,8.6500,210,14,"Odenwald, Spessart und Südrhön",1450,Vorderer Odenwald,,Hessen
+09414,Bleichenbach,50.3333,9.0667,140,23,Rhein-Main-Tiefland,2330,Ronneburger Hügelland,31.12.1994,Hessen
+09418,Lorbach,50.2667,9.1000,150,23,Rhein-Main-Tiefland,2330,Ronneburger Hügelland,31.12.1980,Hessen
+09429,Pfungstadt,49.8000,8.6000,100,22,Nördliches Oberrheintiefland,2250,Hessische Rheinebene,,Hessen
+09431,Mühltal-Traisa,49.8500,8.7000,200,14,"Odenwald, Spessart und Südrhön",1450,Vorderer Odenwald,31.12.1986,Hessen
+09434,Brensbach,49.7667,8.8833,180,23,Rhein-Main-Tiefland,2310,Reinheimer Hügelland,31.12.2016,Hessen
+09435,Dieburg (Ph),49.9023,8.8382,140,23,Rhein-Main-Tiefland,2320,Untermainebene,31.12.1994,Hessen
+09438,Groß-Bieberau,49.8000,8.8333,170,23,Rhein-Main-Tiefland,2310,Reinheimer Hügelland,31.12.1981,Hessen
+09447,Bullau,49.6167,9.0500,510,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,31.12.1989,Hessen
+09455,"König, Bad",49.7333,9.0000,180,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,,Hessen
+09456,Michelstadt,49.6833,9.0000,210,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,31.12.1991,Hessen
+09468,Friedberg/Hess.,50.3333,8.7500,140,23,Rhein-Main-Tiefland,2340,Wetterau,31.12.2009,Hessen
+09470,Heldenbergen,50.2333,8.8667,130,23,Rhein-Main-Tiefland,2340,Wetterau,31.12.1985,Hessen
+09471,Münzenberg,50.4500,8.7833,190,23,Rhein-Main-Tiefland,2340,Wetterau,31.12.1987,Hessen
+09481,Bersrod,50.6167,8.8667,260,34,Westhessiches Bergland,3490,Vorderer Vogelsberg,31.12.1998,Hessen
+09488,Laubach,50.5160,8.9693,200,34,Westhessiches Bergland,3490,Vorderer Vogelsberg,31.12.1979,Hessen
+09490,Lich,50.5167,8.8167,170,34,Westhessiches Bergland,3490,Vorderer Vogelsberg,,Hessen
+09497,Erfelden,49.8333,8.4667,90,22,Nördliches Oberrheintiefland,2250,Hessische Rheinebene,31.12.1988,Hessen
+09500,Groß-Gerau (Ph),49.9167,8.4833,90,22,Nördliches Oberrheintiefland,2250,Hessische Rheinebene,31.12.2005,Hessen
+09501,Mörfelden,49.9667,8.5667,100,23,Rhein-Main-Tiefland,2320,Untermainebene,30.12.2011,Hessen
+09502,Walldorf,49.9953,8.5685,100,23,Rhein-Main-Tiefland,2320,Untermainebene,,Hessen
+09505,Bermuthshain,50.4667,9.3167,460,35,Osthessisches Bergland,3510,Hoher Vogelsberg (mit Oberwald),,Hessen
+09508,Herbstein (PH),50.5667,9.3500,420,35,Osthessisches Bergland,3500,Unterer Vogelsberg,31.12.2004,Hessen
+09509,Ilbeshausen,50.5333,9.3333,440,35,Osthessisches Bergland,3510,Hoher Vogelsberg (mit Oberwald),31.12.1979,Hessen
+09515,Stockhausen,50.5667,9.4500,300,35,Osthessisches Bergland,3500,Unterer Vogelsberg,31.12.1982,Hessen
+09535,Alberode,51.1833,9.9333,300,35,Osthessisches Bergland,3580,Unteres Werratal,31.07.2012,Hessen
+09542,Jestädt,51.2167,10.0167,160,35,Osthessisches Bergland,3580,Unteres Werratal,,Hessen
+09550,Burgwald-Ernsthausen,50.9833,8.7333,250,34,Westhessiches Bergland,3450,Burgwald,,Hessen
+09553,Haine,51.0333,8.7333,310,33,Bergisch-Sauerländisches Gebirge,3320,Ostsauerländer Gebirgsrand,31.12.1988,Hessen
+09568,Homberg (Efze) (Ph),51.0333,9.4000,250,35,Osthessisches Bergland,3560,Knüll und Homberger Bergland,31.12.2017,Hessen
+09592,Petersberg-Marbach,50.6167,9.7167,310,35,Osthessisches Bergland,3520,Fuldaer Senke,31.12.2005,Hessen
+09593,Margretenhaun,50.5667,9.7667,310,35,Osthessisches Bergland,3520,Fuldaer Senke,,Hessen
+09607,Wüstensachsen,50.5000,10.0167,560,35,Osthessisches Bergland,3530,Vorder- und Kuppenrhön (mit Landrücken),,Hessen
+09608,Friedlos,50.9000,9.7500,220,35,Osthessisches Bergland,3570,Fulda-Werra-Bergland,31.12.1982,Hessen
+09610,"Hersfeld, Bad (Beob.-Stelle 1)",50.8667,9.7000,220,35,Osthessisches Bergland,3550,Fulda-Haune-Tafelland,31.12.1998,Hessen
+09611,Kirchheim/Hess.,50.8333,9.5667,250,35,Osthessisches Bergland,3550,Fulda-Haune-Tafelland,31.12.2007,Hessen
+09621,Espenau-Hohenkirchen,51.4000,9.4667,260,34,Westhessiches Bergland,3430,Westhessische Senke,,Hessen
+09634,Leibolz,50.7500,9.8167,370,35,Osthessisches Bergland,3530,Vorder- und Kuppenrhön (mit Landrücken),,Hessen
+09646,Niederkaufungen,51.2833,9.6000,190,34,Westhessiches Bergland,3430,Westhessische Senke,,Hessen
+09668,Niederwalgern,50.7333,8.7000,180,34,Westhessiches Bergland,3480,Marburg-Giessener Lahntal,31.12.2009,Hessen
+09675,Wolferode,50.8833,8.9833,225,34,Westhessiches Bergland,3460,Oberhessische Schwelle,31.12.2003,Hessen
+09685,Melsungen (PH),51.1333,9.5333,200,35,Osthessisches Bergland,3570,Fulda-Werra-Bergland,31.12.1994,Hessen
+09691,Dens,51.0333,9.9000,320,35,Osthessisches Bergland,3570,Fulda-Werra-Bergland,28.02.2007,Hessen
+09698,Nentershausen,51.0167,9.9333,330,35,Osthessisches Bergland,3570,Fulda-Werra-Bergland,,Hessen
+09702,Obersuhl,50.9500,10.0333,220,35,Osthessisches Bergland,3590,Salzunger Werrabergland,31.12.2005,Hessen
+09717,Edertal-Bergheim (Ph),51.1667,9.1333,200,34,Westhessiches Bergland,3410,Ostwaldecker Randsenken,31.12.1988,Hessen
+09723,Giebringhausen,51.3500,8.7333,400,33,Bergisch-Sauerländisches Gebirge,3320,Ostsauerländer Gebirgsrand,31.12.2007,Hessen
+09730,Twistetal-Mühlhausen (Ph),51.3333,8.9000,290,34,Westhessiches Bergland,3400,Waldecker Tafelland,,Hessen
+09732,Rhoden,51.4667,9.0167,290,34,Westhessiches Bergland,3410,Ostwaldecker Randsenken,,Hessen
+09752,Trubenhausen,51.2667,9.8500,240,35,Osthessisches Bergland,3570,Fulda-Werra-Bergland,31.12.1981,Hessen
+09766,Wolfhagen,51.3333,9.1667,280,34,Westhessiches Bergland,3410,Ostwaldecker Randsenken,31.12.2002,Hessen
+09768,Bad Emstal-Merxhausen,51.2410,9.2629,260,34,Westhessiches Bergland,3410,Ostwaldecker Randsenken,,Hessen
+09769,Schwalmstadt-Allendorf,50.9500,9.2167,210,34,Westhessiches Bergland,3430,Westhessische Senke,31.12.1999,Hessen
+09777,Oberaula,50.8667,9.4667,330,35,Osthessisches Bergland,3550,Fulda-Haune-Tafelland,31.12.2019,Hessen
+09778,Gilserberg-Schönstein,51.0000,9.0667,320,34,Westhessiches Bergland,3440,Kellerwald,,Hessen
+09805,Kombach,50.8833,8.5667,280,32,Westerwald,3200,Gladenbacher Bergland,31.12.2000,Hessen
+09809,Frohnhausen,50.7833,8.3000,270,32,Westerwald,3210,Dilltal,31.12.2006,Hessen
+09831,Wächtersbach,50.2500,9.2833,160,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,,Hessen
+09833,Frankfurt a. M.-Bergen-Enkheim,50.1500,8.7500,120,23,Rhein-Main-Tiefland,2340,Wetterau,,Hessen
+09837,Langendiebach,50.1667,8.9833,120,23,Rhein-Main-Tiefland,2320,Untermainebene,31.12.2009,Hessen
+09848,Staffel,50.3833,8.0333,120,31,Lahntal,3110,Limburger Becken,,Hessen
+09849,Wiesbaden-Auringen (Ph),50.1232,8.3244,215,30,Taunus,3000,Vortaunus,31.12.1994,Hessen
+09859,Niedernhausen/Taunus,50.1667,8.3167,280,30,Taunus,3010,Hoher Taunus,31.12.1983,Hessen
+09860,Wildsachsen,50.1167,8.3667,260,30,Taunus,3000,Vortaunus,,Hessen
+09862,Villmar-Seelbach,50.4000,8.2167,210,31,Lahntal,3120,Weilburger Lahntal,31.12.1998,Hessen
+09871,Eichberg,50.0333,8.0667,220,23,Rhein-Main-Tiefland,2360,Rheingau,31.12.2012,Hessen
+09872,Geisenheim-Marienthal,50.0167,7.9500,220,23,Rhein-Main-Tiefland,2360,Rheingau,,Hessen
+09876,Oberwalluf,50.0500,8.1500,120,23,Rhein-Main-Tiefland,2360,Rheingau,31.12.1990,Hessen
+09881,Marjoß,50.2667,9.5167,250,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,31.12.2014,Hessen
+09893,Heftrich,50.2167,8.3333,320,30,Taunus,3020,Östlicher Hintertaunus,31.12.1998,Hessen
+09896,Lindschied,50.1667,8.0667,380,30,Taunus,3040,Westlicher Hintertaunus,31.12.2014,Hessen
+09901,Anspach,50.3000,8.5167,350,30,Taunus,3020,Östlicher Hintertaunus,31.12.2002,Hessen
+09911,Greifenstein-Allendorf (Ph),50.5667,8.2833,200,32,Westerwald,3230,Oberwesterwald,31.12.2014,Hessen
+09920,Krofdorf-Gleiberg,50.6167,8.6333,200,34,Westhessiches Bergland,3480,Marburg-Giessener Lahntal,31.12.2017,Hessen
+09921,Leun,50.5500,8.3500,140,31,Lahntal,3120,Weilburger Lahntal,31.12.1996,Hessen
+09922,Münchholzhausen,50.5500,8.5667,200,34,Westhessiches Bergland,3480,Marburg-Giessener Lahntal,31.12.1995,Hessen
+09923,Nauborn,50.5333,8.5000,200,30,Taunus,3020,Östlicher Hintertaunus,,Hessen
+09928,Waldgirmes,50.5833,8.5500,180,34,Westhessiches Bergland,3480,Marburg-Giessener Lahntal,31.12.1988,Hessen
+09933,"Neuenahr, Bad-Ahrweiler (Ph)",50.5500,7.1000,110,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,31.12.2003,Rheinland-Pfalz
+09935,Gilgenbach,50.4000,6.9500,350,27,Osteifel,2720,Ahreifel,31.12.1999,Rheinland-Pfalz
+09937,Ahrbrück (Ph),50.4833,6.9833,220,27,Osteifel,2720,Ahreifel,31.12.2015,Rheinland-Pfalz
+09943,Schalkenbach,50.5000,7.1500,290,27,Osteifel,2710,Östliche Hocheifel,31.12.1996,Rheinland-Pfalz
+09945,Unkelbach,50.6000,7.1833,110,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,31.12.2006,Rheinland-Pfalz
+09952,Altenkirchen/Westerw.,50.6833,7.6333,240,32,Westerwald,3240,Niederwesterwald,31.12.2000,Rheinland-Pfalz
+09954,Michelbach/Westerw.,50.6833,7.6833,250,32,Westerwald,3240,Niederwesterwald,,Rheinland-Pfalz
+09974,Herrstein,49.7833,7.3500,320,19,Saar-Nahe-Bergland,1940,Oberes Nahebergland,31.12.1993,Rheinland-Pfalz
+09975,Veitsrodt,49.7500,7.3000,450,19,Saar-Nahe-Bergland,1940,Oberes Nahebergland,31.12.2008,Rheinland-Pfalz
+09978,Bremm,50.1000,7.1167,120,25,Moseltal,2500,Mittleres Moseltal,31.05.1980,Rheinland-Pfalz
+09979,Bruttig,50.1333,7.2333,100,25,Moseltal,2500,Mittleres Moseltal,31.12.1980,Rheinland-Pfalz
+09982,Alflen,50.1833,7.0333,430,27,Osteifel,2700,Moseleifel (Niedereifel),,Rheinland-Pfalz
+09983,Kliding (PH),50.1167,7.0500,410,27,Osteifel,2700,Moseleifel (Niedereifel),31.12.2007,Rheinland-Pfalz
+09992,Medard,49.6667,7.6000,160,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.1980,Rheinland-Pfalz
+09993,Gutenberg,49.8833,7.8000,210,22,Nördliches Oberrheintiefland,2280,Unteres Naheland,31.12.2012,Rheinland-Pfalz
+09995,Kirschroth,49.7667,7.5667,280,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.1994,Rheinland-Pfalz
+09996,Sobernheim,49.7833,7.6500,160,22,Nördliches Oberrheintiefland,2280,Unteres Naheland,31.12.2008,Rheinland-Pfalz
+09998,Waldböckelheim,49.8167,7.7167,200,22,Nördliches Oberrheintiefland,2280,Unteres Naheland,31.12.1993,Rheinland-Pfalz
+09999,Wallhausen,49.8833,7.7667,210,22,Nördliches Oberrheintiefland,2280,Unteres Naheland,31.12.1983,Rheinland-Pfalz
+10000,Gebroth,49.8667,7.6500,370,19,Saar-Nahe-Bergland,1950,Soonwaldvorstufe,,Rheinland-Pfalz
+10001,Andernach (PH),50.4333,7.4000,80,29,Mittelrheingebiet,2910,Mittelrheinisches Becken,31.12.1980,Rheinland-Pfalz
+10005,Kelberg,50.2667,6.9167,520,27,Osteifel,2710,Östliche Hocheifel,31.12.2000,Rheinland-Pfalz
+10011,Bell,50.3833,7.2333,440,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,31.12.1980,Rheinland-Pfalz
+10015,Welling,50.3333,7.3167,200,29,Mittelrheingebiet,2910,Mittelrheinisches Becken,,Rheinland-Pfalz
+10016,Asbach/Westerw.,50.6667,7.4333,260,32,Westerwald,3240,Niederwesterwald,,Rheinland-Pfalz
+10017,"Hönningen, Bad (PH)",50.5167,7.3167,70,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,31.12.1992,Rheinland-Pfalz
+10018,Rheinbrohl,50.5000,7.3333,80,29,Mittelrheingebiet,2920,Unteres Mittelrheingebiet,31.07.1991,Rheinland-Pfalz
+10029,Oberfell,50.2667,7.4500,120,29,Mittelrheingebiet,2910,Mittelrheinisches Becken,31.12.2000,Rheinland-Pfalz
+10031,Emmelshausen,50.1667,7.5500,450,24,Hunsrück,2430,Hunsrückhochfläche,31.12.2017,Rheinland-Pfalz
+10040,Argenthal,49.9833,7.6000,460,24,Hunsrück,2410,Simmerner Mulde,,Rheinland-Pfalz
+10044,Büchenbeuren,49.9333,7.2833,440,24,Hunsrück,2430,Hunsrückhochfläche,30.12.1984,Rheinland-Pfalz
+10045,Würrich,49.9667,7.3000,450,24,Hunsrück,2430,Hunsrückhochfläche,,Rheinland-Pfalz
+10046,Enkirch,49.9833,7.1333,140,25,Moseltal,2500,Mittleres Moseltal,31.12.1986,Rheinland-Pfalz
+10048,Trier-Avelsbach,49.7500,6.7000,220,25,Moseltal,2500,Mittleres Moseltal,31.12.1988,Rheinland-Pfalz
+10050,Trier-Heiligkreuz,49.7333,6.6500,200,25,Moseltal,2500,Mittleres Moseltal,31.12.2000,Rheinland-Pfalz
+10058,Veldenz,49.8833,7.0167,170,25,Moseltal,2500,Mittleres Moseltal,31.12.1994,Rheinland-Pfalz
+10059,Wintrich,49.8833,6.9667,120,25,Moseltal,2500,Mittleres Moseltal,31.12.2006,Rheinland-Pfalz
+10061,Sulzbach b. Idar-Oberstein,49.8333,7.3333,460,24,Hunsrück,2410,Simmerner Mulde,,Rheinland-Pfalz
+10061,Sulzbach b. Idar-Oberstein,49.8333,7.3333,460,24,Hunsrück,2410,Simmerner Mulde,,Rheinland-Pfalz
+10067,Stahl,49.9667,6.5000,340,26,Gutland,2610,Bitburger Gutland,,Rheinland-Pfalz
+10073,Neidenbach,50.1000,6.5500,470,27,Osteifel,2770,Kyllburger Waldeifel,31.12.1981,Rheinland-Pfalz
+10074,Oberweis,49.9667,6.4167,220,26,Gutland,2610,Bitburger Gutland,31.12.1996,Rheinland-Pfalz
+10091,Oberbettingen,50.2833,6.6333,450,27,Osteifel,2760,Kalkeifel,14.08.2012,Rheinland-Pfalz
+10093,Prüm,50.2000,6.4167,450,28,Westeifel,2800,Islek,,Rheinland-Pfalz
+10099,Rommersheim,50.1833,6.4500,470,27,Osteifel,2760,Kalkeifel,31.12.2000,Rheinland-Pfalz
+10103,Dackscheid,50.1167,6.4000,510,28,Westeifel,2800,Islek,31.12.1998,Rheinland-Pfalz
+10107,Könen,49.6833,6.5500,140,25,Moseltal,2520,Unteres Saartal,31.12.1991,Rheinland-Pfalz
+10110,Wincheringen,49.6167,6.4333,260,26,Gutland,2600,Mosel-Saar-Gau,31.12.2016,Rheinland-Pfalz
+10122,Kenn,49.8000,6.7167,140,25,Moseltal,2500,Mittleres Moseltal,31.12.2006,Rheinland-Pfalz
+10123,Kirsch,49.8167,6.7500,130,25,Moseltal,2500,Mittleres Moseltal,31.12.2012,Rheinland-Pfalz
+10133,Landscheid,49.9833,6.7667,270,27,Osteifel,2700,Moseleifel (Niedereifel),31.12.2000,Rheinland-Pfalz
+10134,Ürzig,49.9667,7.0000,140,25,Moseltal,2500,Mittleres Moseltal,31.12.2012,Rheinland-Pfalz
+10139,Hachenburg (Ph),50.6667,7.8167,360,33,Bergisch-Sauerländisches Gebirge,3300,Mittelsieg-Bergland,31.12.1994,Rheinland-Pfalz
+10140,Herschbach,50.5167,7.9167,320,32,Westerwald,3230,Oberwesterwald,31.12.2007,Rheinland-Pfalz
+10148,Bettendorf,50.2333,7.8667,310,30,Taunus,3040,Westlicher Hintertaunus,30.12.2012,Rheinland-Pfalz
+10149,Bornich,50.1333,7.7500,250,29,Mittelrheingebiet,2900,Oberes Mittelrheintal,31.12.2012,Rheinland-Pfalz
+10150,Kaub,50.0833,7.7667,100,29,Mittelrheingebiet,2900,Oberes Mittelrheintal,31.12.1993,Rheinland-Pfalz
+10153,Nastätten (PH),50.2000,7.8667,260,30,Taunus,3040,Westlicher Hintertaunus,31.12.1995,Rheinland-Pfalz
+10155,Lahnstein-Oberlahnstein,50.3000,7.6000,80,29,Mittelrheingebiet,2900,Oberes Mittelrheintal,31.12.2003,Rheinland-Pfalz
+10156,Sankt Goarshausen,50.1500,7.7333,120,29,Mittelrheingebiet,2900,Oberes Mittelrheintal,31.12.1993,Rheinland-Pfalz
+10164,Katzenelnbogen (PH),50.2667,7.9833,290,30,Taunus,3040,Westlicher Hintertaunus,31.12.2001,Rheinland-Pfalz
+10173,Mering,48.2667,10.9833,525,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,,Bayern
+10174,Mainz-Gonsenheim,50.0167,8.2000,135,23,Rhein-Main-Tiefland,2370,Ingelheimer Rheinebene,31.12.1981,Rheinland-Pfalz
+10176,"Worms, kreisfreie Stadt Worms",49.6333,8.3667,95,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,,Rheinland-Pfalz
+10182,Gau-Odernheim,49.7833,8.2000,150,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.1994,Rheinland-Pfalz
+10183,Neu-Bamberg,49.8000,7.9167,170,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.1994,Rheinland-Pfalz
+10185,Wörrstadt (PH),49.8333,8.1167,210,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.1999,Rheinland-Pfalz
+10187,Stadecken-Elsheim,49.9167,8.1333,130,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.2017,Rheinland-Pfalz
+10188,Ingelheim am Rhein,49.9667,8.0500,120,23,Rhein-Main-Tiefland,2370,Ingelheimer Rheinebene,31.12.1985,Rheinland-Pfalz
+10189,Schwabenheim,49.9333,8.1000,140,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.2004,Rheinland-Pfalz
+10190,Sprendlingen/Rheinhess.,49.8667,8.0000,110,22,Nördliches Oberrheintiefland,2280,Unteres Naheland,31.12.1991,Rheinland-Pfalz
+10195,Nieder-Olm,49.9000,8.2000,130,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.1984,Rheinland-Pfalz
+10196,Oppenheim (PH),49.8500,8.3500,120,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.1999,Rheinland-Pfalz
+10199,Gundheim,49.6667,8.2333,140,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.2012,Rheinland-Pfalz
+10209,Neustadt a. d. Weinstr. (Nollen),49.3500,8.1333,140,22,Nördliches Oberrheintiefland,2200,Haardtrand,31.12.2012,Rheinland-Pfalz
+10213,"Bergzabern, Bad (PH)",49.1000,8.0000,170,22,Nördliches Oberrheintiefland,2200,Haardtrand,31.12.1985,Rheinland-Pfalz
+10216,Schweighofen,49.0333,8.0000,160,22,Nördliches Oberrheintiefland,2200,Haardtrand,,Rheinland-Pfalz
+10217,Wilgartswiesen,49.2167,7.8667,220,17,Haardtgebirge,1710,Dahner Felsenland,31.12.1988,Rheinland-Pfalz
+10218,Asselheim,49.5833,8.1667,150,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.2006,Rheinland-Pfalz
+10220,Dirmstein (PH),49.5667,8.2500,110,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,31.12.2000,Rheinland-Pfalz
+10226,Kandel/Pfalz,49.0833,8.2000,130,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,31.12.1988,Rheinland-Pfalz
+10228,Steinweiler,49.1167,8.1500,130,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,31.12.1989,Rheinland-Pfalz
+10232,Alsenborn-Enkenbach,49.4833,7.9000,300,19,Saar-Nahe-Bergland,1920,Kaiserslauterer Senke,31.12.1994,Rheinland-Pfalz
+10234,Hochspeyer,49.4500,7.9000,270,17,Haardtgebirge,1700,Haardt,31.12.1985,Rheinland-Pfalz
+10238,Otterberg,49.5000,7.7667,250,19,Saar-Nahe-Bergland,1920,Kaiserslauterer Senke,31.12.1982,Rheinland-Pfalz
+10247,Altenkirchen/Pfalz,49.4500,7.3167,300,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,,Rheinland-Pfalz
+10252,Kusel (PH),49.5500,7.4000,240,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.1988,Rheinland-Pfalz
+10253,Miesau,49.4000,7.4333,240,19,Saar-Nahe-Bergland,1920,Kaiserslauterer Senke,31.12.1988,Rheinland-Pfalz
+10256,Schellweiler,49.5167,7.4000,300,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.1998,Rheinland-Pfalz
+10261,Freimersheim,49.2667,8.2167,120,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,,Rheinland-Pfalz
+10263,Niederhochstadt,49.2500,8.2333,130,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,31.12.1983,Rheinland-Pfalz
+10266,Weyher,49.2667,8.0833,270,22,Nördliches Oberrheintiefland,2200,Haardtrand,31.12.1997,Rheinland-Pfalz
+10268,Fußgönheim,49.4571,8.2892,98,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,,Rheinland-Pfalz
+10269,Limburgerhof (PH),49.4167,8.4000,100,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,31.12.1997,Rheinland-Pfalz
+10275,Haßloch/Pfalz,49.3667,8.2667,110,22,Nördliches Oberrheintiefland,2210,Vorderpfälzer Tiefland,31.12.1980,Rheinland-Pfalz
+10277,Leistadt,49.5000,8.1667,250,22,Nördliches Oberrheintiefland,2200,Haardtrand,31.12.1983,Rheinland-Pfalz
+10279,Ruppertsberg,49.4000,8.2000,130,22,Nördliches Oberrheintiefland,2200,Haardtrand,31.12.1988,Rheinland-Pfalz
+10285,Pirmasens-Gersbach,49.2167,7.5667,350,18,Pfälzisch-Saarländisches Muschelkalkgebiet,1800,Zweibrücker Westrich,31.12.1985,Rheinland-Pfalz
+10288,Höheinöd (Ph),49.2939,7.6128,390,18,Pfälzisch-Saarländisches Muschelkalkgebiet,1800,Zweibrücker Westrich,31.12.2019,Rheinland-Pfalz
+10294,Alsenz (PH),49.7333,7.8167,170,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.2000,Rheinland-Pfalz
+10295,Gehrweiler,49.5833,7.7667,270,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,,Rheinland-Pfalz
+10299,Rockenhausen-Marienthal,49.6333,7.9000,340,19,Saar-Nahe-Bergland,1930,Glan-Alsenz-Berg- und Hügelland,31.12.1988,Rheinland-Pfalz
+10306,Bechhofen,49.3500,7.4167,280,18,Pfälzisch-Saarländisches Muschelkalkgebiet,1800,Zweibrücker Westrich,31.12.1987,Rheinland-Pfalz
+10315,Heilbronn (Ph),49.1500,9.2167,190,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,,Baden-Württemberg
+10318,Stuttgart-Uhlbach,48.7667,9.2833,285,10,Schwäbisches Keuper-Lias-Land,1050,Stuttgarter Bucht,31.12.2012,Baden-Württemberg
+10323,Aalen/Württ.,48.8442,10.0865,480,10,Schwäbisches Keuper-Lias-Land,1020,Vorland der östlichen Schwäbischen Alb,,Baden-Württemberg
+10329,Lauchheim,48.8667,10.2500,490,10,Schwäbisches Keuper-Lias-Land,1020,Vorland der östlichen Schwäbischen Alb,31.12.2006,Baden-Württemberg
+10330,Neresheim (Ph),48.7500,10.3333,520,09,Schwäbische Alb (Schwabenalb),0960,Albuch und Härtsfeld,,Baden-Württemberg
+10331,Neubronn,48.8833,9.9667,470,10,Schwäbisches Keuper-Lias-Land,1020,Vorland der östlichen Schwäbischen Alb,31.12.2005,Baden-Württemberg
+10337,Backnang (PH),48.9500,9.4333,260,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.1987,Baden-Württemberg
+10338,Burgstall,48.9333,9.3667,300,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.2004,Baden-Württemberg
+10341,Kleinaspach,48.9833,9.3667,290,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.2016,Baden-Württemberg
+10350,Herrenberg im Gäu,48.6000,8.8667,440,12,Gäuplatten im Neckar- und Tauberland,1220,Obere Gäue,31.12.2001,Baden-Württemberg
+10356,Crailsheim,49.1333,10.0833,410,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,31.12.2000,Baden-Württemberg
+10360,Gerabronn-Rückershagen,49.2500,9.9500,440,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,,Baden-Württemberg
+10367,Waldtann,49.1333,10.1833,460,11,Fränkisches Keuper-Lias-Land,1140,Frankenhöhe,31.12.2016,Baden-Württemberg
+10368,Wallhausen-Schainbach,49.2333,10.0667,420,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,31.12.1980,Baden-Württemberg
+10370,Esslingen,48.7333,9.3000,240,10,Schwäbisches Keuper-Lias-Land,1060,Filder,31.12.2000,Baden-Württemberg
+10372,Plochingen (PH),48.7167,9.4167,280,10,Schwäbisches Keuper-Lias-Land,1060,Filder,31.12.1986,Baden-Württemberg
+10373,Ruit,48.7244,9.2468,410,10,Schwäbisches Keuper-Lias-Land,1060,Filder,30.04.2014,Baden-Württemberg
+10385,Dettingen,48.6000,10.1333,580,09,Schwäbische Alb (Schwabenalb),0970,Lonetal-Flächenalb (niedere Alb),31.12.1998,Baden-Württemberg
+10402,"Friedrichshall, Bad",49.2333,9.2000,150,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,31.07.2018,Baden-Württemberg
+10410,Weinsberg,49.1500,9.2833,220,10,Schwäbisches Keuper-Lias-Land,1080,Schwäbisch-fränkische  Waldberge,31.12.2012,Baden-Württemberg
+10412,Willsbach,49.1500,9.3667,200,10,Schwäbisches Keuper-Lias-Land,1080,Schwäbisch-fränkische  Waldberge,31.12.2004,Baden-Württemberg
+10414,Wüstenrot,49.0837,9.4567,490,10,Schwäbisches Keuper-Lias-Land,1080,Schwäbisch-fränkische  Waldberge,,Baden-Württemberg
+10416,Dörzbach,49.3833,9.7000,240,12,Gäuplatten im Neckar- und Tauberland,1260,Kocher-Jagst-Ebenen,31.12.2012,Baden-Württemberg
+10417,Mulfingen/Jagst-Eberbach,49.3000,9.8333,280,12,Gäuplatten im Neckar- und Tauberland,1260,Kocher-Jagst-Ebenen,31.12.1996,Baden-Württemberg
+10418,Hermuthausen,49.3167,9.7333,410,12,Gäuplatten im Neckar- und Tauberland,1260,Kocher-Jagst-Ebenen,31.12.1993,Baden-Württemberg
+10424,Leonberg/Württ.,48.8000,9.0167,380,10,Schwäbisches Keuper-Lias-Land,1040,Schönbuch und Glemswald,31.12.1986,Baden-Württemberg
+10426,Mönsheim,48.8667,8.8667,350,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.2012,Baden-Württemberg
+10430,Besigheim,49.0000,9.1333,200,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.1990,Baden-Württemberg
+10431,Bietigheim,48.9667,9.1333,200,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.2015,Baden-Württemberg
+10437,Ludwigsburg/Württ.,48.9000,9.1833,290,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.1993,Baden-Württemberg
+10445,Igersheim-Harthausen,49.5333,9.8500,330,12,Gäuplatten im Neckar- und Tauberland,1290,Tauberland,31.12.1983,Baden-Württemberg
+10450,Weikersheim-Nassau,49.5333,9.9000,270,12,Gäuplatten im Neckar- und Tauberland,1290,Tauberland,31.12.2007,Baden-Württemberg
+10451,Niederrimbach,49.4833,10.0000,300,12,Gäuplatten im Neckar- und Tauberland,1290,Tauberland,31.12.2012,Baden-Württemberg
+10453,Pfitzingen,49.4333,9.8833,370,12,Gäuplatten im Neckar- und Tauberland,1290,Tauberland,31.12.2003,Baden-Württemberg
+10458,Kirchheim unter Teck,48.6500,9.4667,310,10,Schwäbisches Keuper-Lias-Land,1010,Vorland der mittleren Schwäbischen Alb,,Baden-Württemberg
+10459,Neuffen (PH),48.5500,9.3833,410,10,Schwäbisches Keuper-Lias-Land,1010,Vorland der mittleren Schwäbischen Alb,31.12.1961,Baden-Württemberg
+10461,Ohmden,48.6500,9.5333,370,10,Schwäbisches Keuper-Lias-Land,1010,Vorland der mittleren Schwäbischen Alb,,Baden-Württemberg
+10463,Weilheim a. d. Teck,48.6167,9.5333,380,10,Schwäbisches Keuper-Lias-Land,1010,Vorland der mittleren Schwäbischen Alb,31.12.2001,Baden-Württemberg
+10465,Forchtenberg,49.2833,9.5667,220,12,Gäuplatten im Neckar- und Tauberland,1260,Kocher-Jagst-Ebenen,31.12.1979,Baden-Württemberg
+10467,Mangoldsall,49.2333,9.6333,340,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,31.12.2001,Baden-Württemberg
+10468,Füßbach,49.2500,9.6500,340,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,31.12.1969,Baden-Württemberg
+10473,Metzdorf,49.2500,9.5667,310,12,Gäuplatten im Neckar- und Tauberland,1260,Kocher-Jagst-Ebenen,31.12.2006,Baden-Württemberg
+10477,Schwäbisch Gmünd,48.8000,9.8000,320,10,Schwäbisches Keuper-Lias-Land,1070,Schurwald und Welzheimer Wald,31.12.2001,Baden-Württemberg
+10478,Straßdorf,48.7833,9.8000,410,10,Schwäbisches Keuper-Lias-Land,1020,Vorland der östlichen Schwäbischen Alb,31.12.1988,Baden-Württemberg
+10481,Ilshofen,49.1667,9.9167,440,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,,Baden-Württemberg
+10487,Vellberg,49.0833,9.8833,370,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,,Baden-Württemberg
+10490,Blaubeuren,48.4167,9.7833,510,09,Schwäbische Alb (Schwabenalb),0950,Mittlere Flächenalb,31.12.1980,Baden-Württemberg
+10491,Langenau/Württ.,48.5000,10.1167,460,09,Schwäbische Alb (Schwabenalb),0970,Lonetal-Flächenalb (niedere Alb),31.12.2015,Baden-Württemberg
+10492,Nellingen,48.5500,9.8000,690,09,Schwäbische Alb (Schwabenalb),0940,Mittlere Kuppenalb,31.12.2019,Baden-Württemberg
+10496,Oberderdingen,49.0667,8.8000,190,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,31.12.2012,Baden-Württemberg
+10504,Vaihingen a. d. Enz,48.9333,8.9500,220,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.1983,Baden-Württemberg
+10512,Waiblingen/Rems,48.8333,9.3167,220,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,31.12.1991,Baden-Württemberg
+10522,Mannheim-Gartenstadt,49.5333,8.4833,95,22,Nördliches Oberrheintiefland,2220,Nördliche Oberrheinniederung,31.12.1959,Baden-Württemberg
+10526,Heidelsheim,49.1000,8.6500,140,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,,Baden-Württemberg
+10536,Wiesental,49.2167,8.5167,110,22,Nördliches Oberrheintiefland,2230,Hardtebenen,,Baden-Württemberg
+10541,Ahorn-Buch,49.5333,9.5500,370,12,Gäuplatten im Neckar- und Tauberland,1280,Bauland,,Baden-Württemberg
+10543,Dornberg,49.6333,9.4167,410,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,31.12.2003,Baden-Württemberg
+10561,Neckargemünd,49.3833,8.8000,130,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,31.12.2006,Baden-Württemberg
+10563,Rettigheim,49.2500,8.7000,140,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,31.12.1997,Baden-Württemberg
+10564,Tairnbach,49.2667,8.7500,180,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,31.12.2008,Baden-Württemberg
+10568,Blankenloch,49.0667,8.4667,110,22,Nördliches Oberrheintiefland,2230,Hardtebenen,31.12.1997,Baden-Württemberg
+10578,Mörsch,48.9667,8.3000,120,22,Nördliches Oberrheintiefland,2230,Hardtebenen,31.12.2009,Baden-Württemberg
+10583,Brühl/Baden,49.4000,8.5333,100,22,Nördliches Oberrheintiefland,2220,Nördliche Oberrheinniederung,,Baden-Württemberg
+10588,Laudenbach/Bergstr. (Naturraum Bergstraß,49.6167,8.6500,120,22,Nördliches Oberrheintiefland,2260,Bergstrasse,31.12.1992,Baden-Württemberg
+10591,Schriesheim,49.4833,8.6667,120,22,Nördliches Oberrheintiefland,2260,Bergstrasse,31.12.2012,Baden-Württemberg
+10592,Schwetzingen (PH),49.3833,8.5667,100,22,Nördliches Oberrheintiefland,2240,Neckar-Rhein-Ebene,31.12.1995,Baden-Württemberg
+10600,Oberschefflenz,49.4167,9.2833,290,12,Gäuplatten im Neckar- und Tauberland,1280,Bauland,,Baden-Württemberg
+10605,Bilfingen,48.9500,8.6167,200,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,31.12.1985,Baden-Württemberg
+10606,Ellmendingen,48.9000,8.5667,200,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,,Baden-Württemberg
+10610,Wilferdingen,48.9500,8.5833,160,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,01.01.1987,Baden-Württemberg
+10619,Helmstadt,49.3333,8.9500,200,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,,Baden-Württemberg
+10622,Kürnbach,49.0833,8.8500,200,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,,Baden-Württemberg
+10631,Sulzfeld,49.1000,8.8500,200,12,Gäuplatten im Neckar- und Tauberland,1250,Kraichgau,31.12.2006,Baden-Württemberg
+10633,Dertingen,49.7667,9.6167,180,13,Mainfränkische Platten,1320,Marktheidenfelder Platte,31.12.2003,Baden-Württemberg
+10634,Freudenberg/Baden,49.7500,9.3167,140,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,01.04.2007,Baden-Württemberg
+10637,Heckfeld,49.5500,9.6333,330,12,Gäuplatten im Neckar- und Tauberland,1280,Bauland,31.12.1985,Baden-Württemberg
+10643,Werbach,49.6667,9.6500,190,12,Gäuplatten im Neckar- und Tauberland,1290,Tauberland,31.12.1986,Baden-Württemberg
+10645,Wertheim-Vockenrot,49.7500,9.4833,335,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,31.12.2018,Baden-Württemberg
+10651,Bühl,48.7000,8.1333,140,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,31.12.2012,Baden-Württemberg
+10652,Eisental,48.7167,8.1667,180,21,Mittleres Oberrheintiefland,2120,Ortenau-Bühler Vorberge,31.12.2001,Baden-Württemberg
+10653,Fautenbach,48.6167,8.0500,140,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,,Baden-Württemberg
+10663,Hüfingen,47.9000,8.5000,690,12,Gäuplatten im Neckar- und Tauberland,1210,Baar,31.12.2000,Baden-Württemberg
+10664,Immendingen,47.9333,8.7333,680,09,Schwäbische Alb (Schwabenalb),0920,Baaralb und oberes Donautal,31.12.2001,Baden-Württemberg
+10672,Endingen,48.1333,7.7000,190,20,Südliches Oberrheintiefland,2030,Kaiserstuhl,31.12.2006,Baden-Württemberg
+10679,Wyhl,48.1667,7.6500,170,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,31.12.1999,Baden-Württemberg
+10683,Merdingen (Ph),48.0167,7.6833,200,20,Südliches Oberrheintiefland,2020,Freiburger Bucht,31.12.1999,Baden-Württemberg
+10684,Munzingen,47.9667,7.7000,210,20,Südliches Oberrheintiefland,2020,Freiburger Bucht,31.12.1983,Baden-Württemberg
+10693,Kehl/Rhein,48.5833,7.8167,140,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,31.12.1989,Baden-Württemberg
+10699,Hilzingen,47.7667,8.7833,480,03,Voralpines Hügel-und Moorland,0300,Hegäu,31.12.2010,Baden-Württemberg
+10703,Insel Reichenau,47.6908,9.0657,420,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.1996,Baden-Württemberg
+10705,Singen/Hohentwiel,47.7667,8.8333,430,03,Voralpines Hügel-und Moorland,0300,Hegäu,31.12.1989,Baden-Württemberg
+10708,Lahr,48.3333,7.8833,170,21,Mittleres Oberrheintiefland,2110,Lahr-Emmendinger Vorberge,,Baden-Württemberg
+10710,Ottenheim,48.3833,7.7667,150,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,31.12.1984,Baden-Württemberg
+10711,Ringsheim,48.2500,7.7833,170,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,31.12.1998,Baden-Württemberg
+10712,Rust/Baden,48.2833,7.7333,160,21,Mittleres Oberrheintiefland,2100,Offenburger Rheinebene,31.12.1989,Baden-Württemberg
+10725,Weil a. Rhein,47.6000,7.6333,280,20,Südliches Oberrheintiefland,2000,Markgräfler Rheinebene,31.12.2017,Baden-Württemberg
+10729,Grißheim,47.8667,7.6000,220,20,Südliches Oberrheintiefland,2000,Markgräfler Rheinebene,,Baden-Württemberg
+10731,Müllheim,47.8167,7.6333,270,20,Südliches Oberrheintiefland,2010,Markgräfler Hügelland,31.12.2017,Baden-Württemberg
+10732,Neuenburg a. Rhein,47.8167,7.5667,230,20,Südliches Oberrheintiefland,2000,Markgräfler Rheinebene,31.12.1981,Baden-Württemberg
+10741,Lenzkirch (PH),47.8667,8.2000,810,15,Schwarzwald,1540,Südöstlicher Schwarzwald,31.12.1996,Baden-Württemberg
+10750,Lautenbach,48.5167,8.1167,210,15,Schwarzwald,1520,Nördlicher Talschwarzwald,31.12.1988,Baden-Württemberg
+10786,Neufrach,47.7667,9.3167,440,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,,Baden-Württemberg
+10789,Überlingen,47.7667,9.1667,400,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.1992,Baden-Württemberg
+10792,Sankt Georgen,48.1167,8.3333,860,15,Schwarzwald,1540,Südöstlicher Schwarzwald,31.12.1988,Baden-Württemberg
+10796,Villingen,48.0667,8.4667,760,12,Gäuplatten im Neckar- und Tauberland,1210,Baar,31.12.2000,Baden-Württemberg
+10802,Eberfingen,47.7167,8.4333,450,12,Gäuplatten im Neckar- und Tauberland,1200,Alb-Wutach-Gebiet,31.12.2014,Baden-Württemberg
+10804,Kadelburg,47.6167,8.3167,330,09,Schwäbische Alb (Schwabenalb),0900,Randen (Klettgau- und Randenalb),31.12.2000,Baden-Württemberg
+10810,Haslach,48.2833,8.0833,220,15,Schwarzwald,1530,Mittlerer Schwarzwald,,Baden-Württemberg
+10815,Wolfach (PH),48.3000,8.2333,360,15,Schwarzwald,1530,Mittlerer Schwarzwald,31.12.1982,Baden-Württemberg
+10816,Balingen,48.2833,8.8500,520,10,Schwäbisches Keuper-Lias-Land,1000,Vorland der westlichen Schwäbischen Alb,31.12.1982,Baden-Württemberg
+10821,Tieringen,48.2000,8.8833,840,09,Schwäbische Alb (Schwabenalb),0930,Hohe Schwabenalb,,Baden-Württemberg
+10826,Ochsenhausen (West),48.0667,9.9500,590,04,Donau-Iller-Lech-Platten,0430,Holzstöcke,31.12.1999,Baden-Württemberg
+10830,"Schussenried, Bad",48.0167,9.6500,570,03,Voralpines Hügel-und Moorland,0320,Oberschwäbisches Hügelland,31.12.2003,Baden-Württemberg
+10831,Schweinhausen,48.0333,9.8000,560,04,Donau-Iller-Lech-Platten,0410,Riss-Aitrach-Platten,,Baden-Württemberg
+10839,Martinsmoos,48.6333,8.6333,630,15,Schwarzwald,1500,Schwarzwald-Randplatten,31.12.2015,Baden-Württemberg
+10840,Nagold (PH),48.5500,8.7333,410,12,Gäuplatten im Neckar- und Tauberland,1220,Obere Gäue,31.12.1982,Baden-Württemberg
+10848,Ehingen,48.2833,9.7167,510,09,Schwäbische Alb (Schwabenalb),0950,Mittlere Flächenalb,31.12.2020,Baden-Württemberg
+10851,Ringingen,48.3500,9.8167,590,09,Schwäbische Alb (Schwabenalb),0950,Mittlere Flächenalb,,Baden-Württemberg
+10861,Wittendorf,48.4167,8.5000,600,12,Gäuplatten im Neckar- und Tauberland,1220,Obere Gäue,31.12.2013,Baden-Württemberg
+10872,Bernloch,48.3667,9.3333,750,09,Schwäbische Alb (Schwabenalb),0940,Mittlere Kuppenalb,31.12.1997,Baden-Württemberg
+10877,Münsingen,48.4167,9.5000,710,09,Schwäbische Alb (Schwabenalb),0940,Mittlere Kuppenalb,31.12.1979,Baden-Württemberg
+10882,Torkenweiler,47.7500,9.6000,470,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.1996,Baden-Württemberg
+10886,Bavendorf,47.7667,9.5333,510,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,,Baden-Württemberg
+10887,"Waldsee, Bad",47.9333,9.7500,590,03,Voralpines Hügel-und Moorland,0320,Oberschwäbisches Hügelland,31.12.1955,Baden-Württemberg
+10891,Genkingen,48.4000,9.2000,800,09,Schwäbische Alb (Schwabenalb),0940,Mittlere Kuppenalb,31.12.2015,Baden-Württemberg
+10904,Schramberg (PH),48.2333,8.4167,710,15,Schwarzwald,1530,Mittlerer Schwarzwald,31.12.1998,Baden-Württemberg
+10906,Altshausen,47.9333,9.5500,580,03,Voralpines Hügel-und Moorland,0320,Oberschwäbisches Hügelland,,Baden-Württemberg
+10909,Daugendorf,48.1833,9.5000,530,04,Donau-Iller-Lech-Platten,0400,Donau-Ablach-Platten,31.12.2012,Baden-Württemberg
+10920,Krauchenwies,48.0167,9.2500,590,04,Donau-Iller-Lech-Platten,0400,Donau-Ablach-Platten,,Baden-Württemberg
+10922,Sigmaringen,48.0833,9.2167,570,09,Schwäbische Alb (Schwabenalb),0950,Mittlere Flächenalb,31.12.1985,Baden-Württemberg
+10932,Mössingen,48.4167,9.0500,480,10,Schwäbisches Keuper-Lias-Land,1010,Vorland der mittleren Schwäbischen Alb,31.12.2006,Baden-Württemberg
+10937,Tübingen,48.5333,9.0500,340,10,Schwäbisches Keuper-Lias-Land,1040,Schönbuch und Glemswald,31.12.2012,Baden-Württemberg
+10938,Walddorf,48.5833,9.2000,410,10,Schwäbisches Keuper-Lias-Land,1040,Schönbuch und Glemswald,31.12.1999,Baden-Württemberg
+10942,Tuttlingen (Ph),47.9835,8.8358,650,09,Schwäbische Alb (Schwabenalb),0920,Baaralb und oberes Donautal,31.12.1991,Baden-Württemberg
+10954,Landsberg a. Lech,48.0500,10.8833,630,05,Isar-Inn-Schotterplatten,0500,Fürstenfeldbrucker Hügelland,,Bayern
+10958,München-Schwabing,48.1667,11.5667,510,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,31.12.1979,Bayern
+10961,München-Pasing,48.1333,11.4676,530,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,31.12.2017,Bayern
+10968,Pöttmes,48.5833,11.0833,410,06,Unterbayerisches Hügelland,0630,Donaumoos,31.12.1997,Bayern
+10969,Wollomoos,48.4000,11.2000,500,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.1995,Bayern
+10970,Altötting,48.2333,12.6833,400,05,Isar-Inn-Schotterplatten,0540,Unteres Inntal,31.12.2006,Bayern
+10971,Burghausen,48.1500,12.8333,380,05,Isar-Inn-Schotterplatten,0540,Unteres Inntal,31.12.2016,Bayern
+10976,Winhöring,48.2667,12.6500,380,05,Isar-Inn-Schotterplatten,0540,Unteres Inntal,31.12.1990,Bayern
+10978,"Aibling, Bad (Ph)",47.8783,12.0246,490,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.1980,Bayern
+10980,"Feilnbach, Bad",47.7833,12.0000,520,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.1993,Bayern
+10983,Kolbermoor,47.8500,12.0667,480,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.2019,Bayern
+10985,Benediktbeuern (Ph),47.7167,11.4167,620,03,Voralpines Hügel-und Moorland,0370,Ammer-Loisach-Hügelland,31.12.2016,Bayern
+10992,Karlsfeld,48.2167,11.4833,490,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,31.12.1985,Bayern
+10996,Weichs,48.3833,11.4167,470,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.2015,Bayern
+11002,Markt Schwaben,48.2000,11.8667,510,05,Isar-Inn-Schotterplatten,0520,Isen-Sempt-Hügelland,31.12.1991,Bayern
+11004,Gindlkofen,48.0500,11.9500,530,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,,Bayern
+11009,Erding,48.3167,11.9167,460,05,Isar-Inn-Schotterplatten,0520,Isen-Sempt-Hügelland,,Bayern
+11010,Moosinning,48.2833,11.8333,490,05,Isar-Inn-Schotterplatten,0520,Isen-Sempt-Hügelland,31.12.1982,Bayern
+11014,Dietersheim,48.2833,11.6833,470,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,31.12.1993,Bayern
+11024,Eschenlohe/Loisach,47.6000,11.1833,640,03,Voralpines Hügel-und Moorland,0370,Ammer-Loisach-Hügelland,31.12.1998,Bayern
+11029,Gaimersheim (PH),48.8167,11.3667,380,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.1979,Bayern
+11033,Ingolstadt-Pettenhofen,48.7833,11.2833,410,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.2020,Bayern
+11041,Pittriching,48.2000,10.9333,540,04,Donau-Iller-Lech-Platten,0470,Lech-Wertach-Ebenen,31.12.1987,Bayern
+11045,Unterschondorf,48.0500,11.1000,550,03,Voralpines Hügel-und Moorland,0370,Ammer-Loisach-Hügelland,31.12.1983,Bayern
+11049,Laufen/Salzach,47.9333,12.9333,400,03,Voralpines Hügel-und Moorland,0390,Salzach-Hügelland,02.01.2007,Bayern
+11071,"Schönberg, Krs. Mühldorf a. Inn",48.3500,12.4500,460,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,31.12.2015,Bayern
+11073,Waldkraiburg,48.2000,12.4167,440,05,Isar-Inn-Schotterplatten,0540,Unteres Inntal,,Bayern
+11076,Haar,48.1167,11.7333,540,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,,Bayern
+11077,Neuried,48.1000,11.4667,560,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,31.12.1988,Bayern
+11081,Geisenfeld,48.6833,11.6167,380,06,Unterbayerisches Hügelland,0630,Donaumoos,31.12.1997,Bayern
+11096,Hohenfurch,47.8500,10.9000,700,03,Voralpines Hügel-und Moorland,0360,Lech-Vorberge,31.12.1996,Bayern
+11099,Schongau,47.8167,10.9000,710,03,Voralpines Hügel-und Moorland,0360,Lech-Vorberge,31.12.2013,Bayern
+11101,Brunnen,48.6333,11.3167,420,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,,Bayern
+11110,Herrsching,48.0000,11.1667,560,03,Voralpines Hügel-und Moorland,0370,Ammer-Loisach-Hügelland,31.12.2007,Bayern
+11111,Wartaweil,47.9667,11.1500,550,03,Voralpines Hügel-und Moorland,0370,Ammer-Loisach-Hügelland,31.12.1982,Bayern
+11116,Oberhaid,47.8667,12.6333,610,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.1980,Bayern
+11121,Marwang,47.8500,12.5667,540,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.1998,Bayern
+11124,Ruhpolding,47.7667,12.6500,680,02,Schwäbisch-Oberbayerische Voralpen,0270,Chiemgauer Alpen,31.12.2012,Bayern
+11137,Rott a. Inn,47.9833,12.1333,480,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.1999,Bayern
+11138,Unterwöhrn,47.9667,12.1500,440,03,Voralpines Hügel-und Moorland,0380,Inn-Chiemsee-Hügelland,31.12.1982,Bayern
+11156,Icking/Isartal-Holzen,47.9333,11.4667,640,03,Voralpines Hügel-und Moorland,0370,Ammer-Loisach-Hügelland,31.12.1983,Bayern
+11159,Sauerlach,47.9667,11.6500,620,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,31.12.1997,Bayern
+11162,Deggendorf,48.8333,12.9667,310,06,Unterbayerisches Hügelland,0640,Dungau,,Bayern
+11163,Straubing (Ost),48.8833,12.6000,330,06,Unterbayerisches Hügelland,0640,Dungau,31.12.2015,Bayern
+11166,Loitzendorf-Streitberg,49.0833,12.6833,630,40,Oberpfälzer und Bayerischer Wald,4060,Falkensteiner Vorwald,31.12.1999,Bayern
+11176,Gottfrieding-Frichlkofen (Ph),48.6167,12.5333,400,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,,Bayern
+11177,Rosenau,48.6500,12.5667,350,06,Unterbayerisches Hügelland,0610,Unteres Isartal,31.12.2006,Bayern
+11182,Johanniskirchen,48.5333,12.9500,360,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,31.12.1983,Bayern
+11186,"Simbach, Markt",48.5667,12.7333,440,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,31.12.1992,Bayern
+11199,Karpfham,48.4167,13.2167,340,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,31.12.1988,Bayern
+11207,Abensberg,48.8167,11.8500,370,06,Unterbayerisches Hügelland,0630,Donaumoos,31.12.2005,Bayern
+11209,Neustadt a. d. Donau,48.8167,11.7667,350,06,Unterbayerisches Hügelland,0630,Donaumoos,31.12.1988,Bayern
+11210,Siegenburg,48.7500,11.8500,390,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.1979,Bayern
+11211,Teugn,48.9000,12.0167,380,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,30.12.1987,Bayern
+11218,Landau a. d. Isar,48.6667,12.7000,390,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,31.12.1999,Bayern
+11220,Ergolding,48.5833,12.1833,390,06,Unterbayerisches Hügelland,0610,Unteres Isartal,,Bayern
+11228,Greilsberg,48.7333,12.3000,400,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.2017,Bayern
+11232,Oberellenbach,48.7333,12.2500,400,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.1986,Bayern
+11235,Schierling (PH),48.8333,12.1333,380,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.1980,Bayern
+11236,Hamelhof,48.7167,12.3667,460,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.12.1989,Bayern
+11241,Vornbach,48.4833,13.4333,310,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,,Bayern
+11245,Anzenkirchen,48.4333,13.0167,360,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,31.12.2003,Bayern
+11249,Triftern,48.4000,13.0000,400,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,,Bayern
+11251,Widdersdorf,48.9333,13.2000,600,40,Oberpfälzer und Bayerischer Wald,4040,Regensenke,,Bayern
+11266,Viechtach (PH),49.0833,12.8833,430,40,Oberpfälzer und Bayerischer Wald,4040,Regensenke,16.05.2011,Bayern
+11292,Lackenhäuser,48.7500,13.8167,720,40,Oberpfälzer und Bayerischer Wald,4030,Hinterer Bayerischer Wald,,Bayern
+11295,Röhrnbach,48.7500,13.5167,440,40,Oberpfälzer und Bayerischer Wald,4080,Passauer Abteiland/Neuburger Wald,31.12.1999,Bayern
+11300,Amberg,49.4500,11.8667,370,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,,Bayern
+11304,Regensburg (Ph),49.0333,12.1167,340,06,Unterbayerisches Hügelland,0640,Dungau,,Bayern
+11305,Schwandorf/Bay.,49.3333,12.1167,360,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,31.12.2003,Bayern
+11306,Weiden-Stockenhut,49.6833,12.1667,400,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,31.12.1955,Bayern
+11307,Freihöls,49.4000,12.0167,390,08,Fränkische Alb (Frankenalb),0810,Mittlere Frankenalb,,Bayern
+11320,Beilngries,49.0333,11.4833,370,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.1999,Bayern
+11321,Berching (PH),49.1167,11.4500,380,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.1996,Bayern
+11338,Auerbach/Oberpf.,49.7000,11.6333,430,08,Fränkische Alb (Frankenalb),0800,Nördliche Frankenalb,31.12.1991,Bayern
+11344,Kemnath,49.8667,11.9000,460,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,31.12.2000,Bayern
+11352,Mühlhausen/Oberpf.,49.1667,11.4500,400,11,Fränkisches Keuper-Lias-Land,1110,Vorland der Mittleren Frankenalb,,Bayern
+11388,Willenhofen,49.1167,11.7333,560,08,Fränkische Alb (Frankenalb),0810,Mittlere Frankenalb,31.12.1995,Bayern
+11396,Nittendorf-Loch,49.0167,11.9333,400,08,Fränkische Alb (Frankenalb),0810,Mittlere Frankenalb,,Bayern
+11400,Pettendorf,49.0667,12.0167,430,08,Fränkische Alb (Frankenalb),0810,Mittlere Frankenalb,31.12.2006,Bayern
+11405,Donaustauf-Sulzbach,49.0333,12.2500,325,40,Oberpfälzer und Bayerischer Wald,4060,Falkensteiner Vorwald,,Bayern
+11411,Sandersdorf,48.9000,11.6167,400,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.2019,Bayern
+11416,Nittenau,49.2000,12.2667,350,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,31.12.1999,Bayern
+11425,Röckenricht,49.5333,11.6833,420,08,Fränkische Alb (Frankenalb),0800,Nördliche Frankenalb,31.12.2014,Bayern
+11436,Tirschenreuth (PH),49.8833,12.3333,500,39,Thüringisch-Fränkisches Mittelgebirge,3960,Naab-Wondreb-Senke,31.12.1991,Bayern
+11440,Wondreb,49.9167,12.3833,530,39,Thüringisch-Fränkisches Mittelgebirge,3960,Naab-Wondreb-Senke,31.12.2020,Bayern
+11447,Roggenstein,49.6500,12.2667,520,40,Oberpfälzer und Bayerischer Wald,4010,Vorderer Oberpfälzer Wald,31.12.2020,Bayern
+11452,Tiefenbach,49.4333,12.5833,530,40,Oberpfälzer und Bayerischer Wald,4010,Vorderer Oberpfälzer Wald,31.12.2019,Bayern
+11459,Marktredwitz (Ph),50.0000,12.0833,530,39,Thüringisch-Fränkisches Mittelgebirge,3950,Selb-Wunsiedler Hochfläche,31.12.2014,Bayern
+11471,Hirschaid,49.8167,11.0000,250,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.1997,Bayern
+11494,Nemmersdorf,50.0000,11.6833,460,07,Oberpfälzisch-Obermainisches Hügelland,0710,Obermainisches Hügelland,31.12.1991,Bayern
+11498,Destuben,49.9000,11.5833,380,07,Oberpfälzisch-Obermainisches Hügelland,0710,Obermainisches Hügelland,31.12.1985,Bayern
+11508,Plesten,50.2667,11.1500,380,11,Fränkisches Keuper-Lias-Land,1170,Itz-Baunach-Hügelland,,Bayern
+11510,Thann,50.3333,11.1000,340,07,Oberpfälzisch-Obermainisches Hügelland,0710,Obermainisches Hügelland,31.12.2001,Bayern
+11520,Wiesenttal-Streitberg,49.8167,11.2167,320,08,Fränkische Alb (Frankenalb),0800,Nördliche Frankenalb,,Bayern
+11528,Höchstadt a. d. Aisch,49.7000,10.8167,270,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2006,Bayern
+11530,Wachenroth,49.7500,10.7167,290,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2006,Bayern
+11533,Konradsreuth,50.2667,11.8500,550,39,Thüringisch-Fränkisches Mittelgebirge,3930,Münchberger Hochfläche,,Bayern
+11534,Oberkotzau (Ph),50.2667,11.9333,480,39,Thüringisch-Fränkisches Mittelgebirge,3930,Münchberger Hochfläche,31.12.1995,Bayern
+11539,Küps,50.2000,11.2667,300,07,Oberpfälzisch-Obermainisches Hügelland,0710,Obermainisches Hügelland,30.12.1989,Bayern
+11543,Nordhalben,50.3667,11.5167,590,39,Thüringisch-Fränkisches Mittelgebirge,3920,Thüringer Schiefergebirge,31.12.2018,Bayern
+11561,Wirsberg,50.1167,11.6167,370,39,Thüringisch-Fränkisches Mittelgebirge,3930,Münchberger Hochfläche,,Bayern
+11563,Fesselsdorf,50.0167,11.2500,480,08,Fränkische Alb (Frankenalb),0800,Nördliche Frankenalb,,Bayern
+11572,Lichtenfels-Rothmannsthal,50.0500,11.1500,490,08,Fränkische Alb (Frankenalb),0800,Nördliche Frankenalb,22.06.2009,Bayern
+11578,Münchberg,50.2000,11.7833,550,39,Thüringisch-Fränkisches Mittelgebirge,3930,Münchberger Hochfläche,31.12.1989,Bayern
+11589,Rosenhof,49.7667,11.5500,440,08,Fränkische Alb (Frankenalb),0800,Nördliche Frankenalb,31.12.2001,Bayern
+11602,Poppenholz,50.1833,11.4667,430,07,Oberpfälzisch-Obermainisches Hügelland,0710,Obermainisches Hügelland,31.12.1988,Bayern
+11613,Arzberg (Ph),50.0667,12.1833,480,39,Thüringisch-Fränkisches Mittelgebirge,3950,Selb-Wunsiedler Hochfläche,31.12.1980,Bayern
+11622,Ansbach (Ph),49.3000,10.5833,420,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,,Bayern
+11634,Heilsbronn,49.3333,10.8000,400,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,,Bayern
+11637,Neuendettelsau (PH),49.2833,10.7833,440,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.1998,Bayern
+11641,Burk,49.1333,10.4833,460,11,Fränkisches Keuper-Lias-Land,1100,Vorland der südlichen Frankenalb,31.12.1999,Bayern
+11642,Dinkelsbühl,49.0667,10.3167,440,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2000,Bayern
+11655,Großgeschaidt,49.5667,11.1833,400,11,Fränkisches Keuper-Lias-Land,1120,Vorland der nördlichen Frankenalb,31.12.2010,Bayern
+11663,Neunstetten,49.2667,10.4667,420,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.1991,Bayern
+11669,Unterschlauersbach,49.4167,10.7667,320,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.1983,Bayern
+11687,Freystadt-Mörsdorf,49.2000,11.2833,420,11,Fränkisches Keuper-Lias-Land,1110,Vorland der Mittleren Frankenalb,31.12.2004,Bayern
+11693,Neustadt a. d. Aisch,49.5833,10.6000,290,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2016,Bayern
+11694,Einersdorf,49.4500,10.6000,330,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2004,Bayern
+11702,Unterrieden,49.4000,11.4000,450,11,Fränkisches Keuper-Lias-Land,1110,Vorland der Mittleren Frankenalb,,Bayern
+11709,Einersheim,49.6833,10.3000,290,13,Mainfränkische Platten,1300,Ochsenfurter und Gollachgau,31.12.2000,Bayern
+11712,Wasserberndorf,49.7667,10.5167,320,11,Fränkisches Keuper-Lias-Land,1150,Steigerwald,,Bayern
+11714,Kornburg,49.3667,11.1000,350,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.1997,Bayern
+11717,Wassermungenau,49.2333,10.9000,377,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2006,Bayern
+11720,Bullenheim,49.6333,10.2333,280,13,Mainfränkische Platten,1300,Ochsenfurter und Gollachgau,31.12.2012,Bayern
+11721,Burgbernheim (Ph),49.4500,10.3167,350,13,Mainfränkische Platten,1310,Windsheimer Bucht,,Bayern
+11730,Pleinfeld,49.1167,10.9833,390,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,31.12.2003,Bayern
+11733,Solnhofen,48.9000,11.0000,440,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,,Bayern
+11746,Schöllkrippen,50.0833,9.2500,200,14,"Odenwald, Spessart und Südrhön",1420,Vorderer Spessart,,Bayern
+11747,Großostheim (PH),49.9333,9.0833,140,23,Rhein-Main-Tiefland,2320,Untermainebene,31.12.1995,Bayern
+11748,Haibach,49.9667,9.2167,150,14,"Odenwald, Spessart und Südrhön",1420,Vorderer Spessart,,Bayern
+11767,Rottershausen,50.1667,10.1667,310,13,Mainfränkische Platten,1350,Wern-Lauer-Platte,30.06.2012,Bayern
+11788,Reckendorf,50.0333,10.8333,270,11,Fränkisches Keuper-Lias-Land,1170,Itz-Baunach-Hügelland,,Bayern
+11794,Mittelsinn,50.2000,9.6167,210,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,31.12.1992,Bayern
+11803,Oberspiesheim,49.9500,10.2833,220,13,Mainfränkische Platten,1370,Steigerwaldvorland,,Bayern
+11808,Elfershausen/Unterfr.,50.1500,9.9667,200,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,31.12.2007,Bayern
+11810,Hammelburg (PH),50.1167,9.9000,180,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,31.12.1990,Bayern
+11812,Oberthulba (Ph),50.2000,9.9667,260,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,,Bayern
+11814,Hammelburg-Untererthal,50.1500,9.8833,200,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,31.12.2018,Bayern
+11815,Völkersleier,50.1833,9.7833,360,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,,Bayern
+11823,Unterschleichach,49.9500,10.6000,350,11,Fränkisches Keuper-Lias-Land,1150,Steigerwald,31.12.1999,Bayern
+11827,Aidhausen,50.1500,10.4333,290,13,Mainfränkische Platten,1380,Grabfeldgau,,Bayern
+11849,Mainbernheim,49.7167,10.2167,230,13,Mainfränkische Platten,1300,Ochsenfurter und Gollachgau,30.12.1980,Bayern
+11858,Obereßfeld,50.2667,10.5333,300,13,Mainfränkische Platten,1380,Grabfeldgau,,Bayern
+11862,Langenprozelten,50.0667,9.6500,200,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,31.12.1990,Bayern
+11867,Erlenbach a. Main,49.8167,9.6333,210,13,Mainfränkische Platten,1320,Marktheidenfelder Platte,31.12.2001,Bayern
+11868,Marktheidenfeld (PH),49.8500,9.6000,150,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,31.12.1986,Bayern
+11876,Mellrichstadt,50.4333,10.3000,270,13,Mainfränkische Platten,1380,Grabfeldgau,31.12.1998,Bayern
+11882,Sondheim,50.4167,10.3833,340,13,Mainfränkische Platten,1380,Grabfeldgau,,Bayern
+11884,Amorbach (PH),49.6500,9.2167,160,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,31.12.2003,Bayern
+11886,Miltenberg (PH),49.7000,9.2500,130,14,"Odenwald, Spessart und Südrhön",1410,Sandsteinspessart,31.12.1999,Bayern
+11897,Winterhausen,49.7000,10.0167,190,13,Mainfränkische Platten,1330,Mittleres Maintal,31.12.2013,Bayern
+11908,Burggrumbach,49.8833,10.0333,260,13,Mainfränkische Platten,1340,Gäuplatten im Maindreieck,31.12.2006,Bayern
+11916,Veitshöchheim (PH),49.8333,9.8667,190,13,Mainfränkische Platten,1330,Mittleres Maintal,31.10.2006,Bayern
+11923,Neuburg,48.7333,11.1833,390,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.1997,Bayern
+11924,Nördlingen,48.8500,10.5000,430,10,Schwäbisches Keuper-Lias-Land,1030,Ries,31.12.1980,Bayern
+11925,Lindau/Bodensee,47.5544,9.6822,400,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.2009,Bayern
+11927,Gersthofen (PH),48.4333,10.8833,470,04,Donau-Iller-Lech-Platten,0470,Lech-Wertach-Ebenen,31.12.1980,Bayern
+11929,Leitershofen,48.3500,10.8333,500,04,Donau-Iller-Lech-Platten,0470,Lech-Wertach-Ebenen,31.12.1981,Bayern
+11934,Blindheim (PH),48.6333,10.6167,410,04,Donau-Iller-Lech-Platten,0450,Donauried,31.12.1982,Bayern
+11937,Schretzheim,48.6000,10.5167,420,04,Donau-Iller-Lech-Platten,0450,Donauried,31.12.1986,Bayern
+11938,Wittislingen,48.6167,10.4167,450,09,Schwäbische Alb (Schwabenalb),0970,Lonetal-Flächenalb (niedere Alb),,Bayern
+11940,Donauwörth,48.7167,10.7833,410,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,31.12.2013,Bayern
+11950,Friedberg/Bay.,48.3500,10.9833,510,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,31.01.2007,Bayern
+11957,Burgau,48.4333,10.4167,460,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.2015,Bayern
+11959,Freihalden,48.3833,10.5000,500,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.2000,Bayern
+11966,Bellenberg,48.2500,10.0833,520,04,Donau-Iller-Lech-Platten,0440,Unteres Illertal,31.12.2009,Bayern
+11977,Altusried,47.8000,10.2167,710,03,Voralpines Hügel-und Moorland,0350,Iller-Vorberge,31.12.2000,Bayern
+11983,Muthmannshofen,47.8000,10.1000,740,04,Donau-Iller-Lech-Platten,0410,Riss-Aitrach-Platten,31.12.1992,Bayern
+11990,Krumbach,48.2500,10.3667,510,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.2000,Bayern
+11992,Friesenried,47.8833,10.5333,740,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.1999,Bayern
+12005,Lauben,48.0667,10.2833,580,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.1987,Bayern
+12007,Ottobeuren (PH),47.9333,10.3000,660,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.1995,Bayern
+12011,Markt Wald (PH),48.1333,10.5833,640,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,31.12.2000,Bayern
+12013,Pfaffenhausen,48.1167,10.4667,560,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,,Bayern
+12014,Türkheim/Wertach,48.0667,10.6500,600,04,Donau-Iller-Lech-Platten,0470,Lech-Wertach-Ebenen,31.12.1993,Bayern
+12017,Bertoldsheim,48.7500,11.0167,400,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,,Bayern
+12031,Hohenaltheim,48.7833,10.5333,450,10,Schwäbisches Keuper-Lias-Land,1030,Ries,31.12.2002,Bayern
+12033,Reimlingen (PH),48.8000,10.5333,438,10,Schwäbisches Keuper-Lias-Land,1030,Ries,31.12.2007,Bayern
+12035,Bobingen (Ph),48.2667,10.8333,520,04,Donau-Iller-Lech-Platten,0470,Lech-Wertach-Ebenen,,Bayern
+12054,Hohenreichen,48.5667,10.7333,430,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,02.02.2007,Bayern
+12060,Scheidegg/Allgäu,47.5833,9.8500,800,03,Voralpines Hügel-und Moorland,0330,Westallgäuer Hügelland,31.12.1979,Bayern
+12063,Kirkel-Neuhäusel,49.2833,7.2167,240,19,Saar-Nahe-Bergland,1910,Mittelsaarländisches Waldland,31.12.2008,Saarland
+12073,Büschdorf,49.4667,6.4833,380,26,Gutland,2600,Mosel-Saar-Gau,31.12.2005,Saarland
+12075,Perl,49.4667,6.3833,230,26,Gutland,2600,Mosel-Saar-Gau,31.12.2012,Saarland
+12077,Büschfeld,49.4833,6.8667,250,19,Saar-Nahe-Bergland,1900,Prims-Blies-Hügelland,,Saarland
+12088,Schiffweiler,49.3667,7.1333,300,19,Saar-Nahe-Bergland,1900,Prims-Blies-Hügelland,31.12.1987,Saarland
+12090,Püttlingen (PH),49.2833,6.8667,323,19,Saar-Nahe-Bergland,1900,Prims-Blies-Hügelland,,Saarland
+12094,Kleinblittersdorf (Ph),49.1667,7.0500,230,18,Pfälzisch-Saarländisches Muschelkalkgebiet,1810,Bliesgau,,Saarland
+12103,Lebach (Ph),49.4167,6.9167,220,19,Saar-Nahe-Bergland,1900,Prims-Blies-Hügelland,,Saarland
+12111,Blickweiler,49.2167,7.2500,220,18,Pfälzisch-Saarländisches Muschelkalkgebiet,1810,Bliesgau,,Saarland
+12119,Sankt Wendel/Saar,49.4667,7.1667,280,19,Saar-Nahe-Bergland,1900,Prims-Blies-Hügelland,31.12.1984,Saarland
+12126,Otzenhausen,49.6000,7.0000,480,19,Saar-Nahe-Bergland,1940,Oberes Nahebergland,31.12.2015,Saarland
+12136,Berlin-Malchow (Ph),52.5833,13.4833,50,79,Ostbrandenburgische Platte,7910,Barnimplatte,31.12.1983,Berlin
+12146,Berlin-Prenzlauer Berg,52.5500,13.4500,50,79,Ostbrandenburgische Platte,7910,Barnimplatte,31.12.2019,Berlin
+12156,Gartz,53.2167,14.3833,10,80,Odertal,8000,Untere Odertalniederung,,Brandenburg
+12157,Gellmersdorf,52.9667,14.0833,35,74,Rückland der Mecklenburgischen Seenplatte,7440,Uckermärkisches Hügelland (mit Uecker- und Randowtal),31.12.2014,Brandenburg
+12168,Altwriezen-Beauregard,52.7333,14.2167,5,80,Odertal,8020,Oderbruch (mit Frankfurter Odertal),19.04.2011,Brandenburg
+12187,Oschätzchen,51.4698,13.3889,90,88,Elbe-Mulde-Tiefland,8810,Elbe-Elster-Tiefland,31.12.2006,Brandenburg
+12200,Wiesenburg-Klepzig,52.0167,12.5333,145,85,Fläming,8530,Zentraler Fläming,31.12.2007,Brandenburg
+12207,Bernau b. Berlin,52.6833,13.6167,75,79,Ostbrandenburgische Platte,7910,Barnimplatte,31.12.2007,Brandenburg
+12217,Golzow,52.2833,12.6000,35,81,Mittelbrandenburgische Platten und Niederungen,8170,Baruther Tal (mit Fiener Bucht),31.12.1997,Brandenburg
+12224,Bischdorf,51.8000,13.9667,80,84,Lausitzer Becken- und Heideland,8400,Luckau-Calauer Becken,31.12.2000,Brandenburg
+12227,Naundorf-Fleißdorf,51.8167,14.1000,55,83,Spreewald,8300,Malxe-Spree-Niederung,31.12.1995,Brandenburg
+12253,Doberlug-Kirchhain (Beob.-Stelle 1),51.6333,13.5667,95,84,Lausitzer Becken- und Heideland,8430,Kirchhain-Finsterwalder Becken,31.12.1996,Brandenburg
+12258,Rückersdorf,51.5667,13.5500,95,84,Lausitzer Becken- und Heideland,8440,Niederlausitzer Randhügel,,Brandenburg
+12280,"Saarow, Bad-Pieskow",52.2833,14.0833,50,82,Ostbrandenburgisches Heide- und Seengebiet,8210,Saarower Hügel,31.12.2019,Brandenburg
+12291,Zehdenick,52.9833,13.3500,45,78,Luchland,7830,Zehdenick-Spandauer Havelniederung,31.12.2016,Brandenburg
+12295,Lübbinchen,51.9667,14.5667,65,82,Ostbrandenburgisches Heide- und Seengebiet,8260,Lieberoser Heide und Schlaubegebiet,31.12.2017,Brandenburg
+12311,Markendorf (Ph),51.9833,13.1667,80,85,Fläming,8570,Östliche Fläminghochfläche,31.12.2000,Brandenburg
+12315,Niedergörsdorf-Zellendorf,51.9000,13.0667,90,85,Fläming,8580,Südliches Fläminghügelland,31.12.1995,Brandenburg
+12330,Schrepkow,52.9833,12.1167,45,77,Nordbrandenburgisches Platten- und Hügelland,7730,Kyritzer Platte,31.12.2012,Brandenburg
+12335,Blumenfelde,52.0167,13.8667,57,83,Spreewald,8300,Malxe-Spree-Niederung,,Brandenburg
+12336,Mochow,51.9833,14.2000,55,82,Ostbrandenburgisches Heide- und Seengebiet,8260,Lieberoser Heide und Schlaubegebiet,31.12.1996,Brandenburg
+12346,Mehlsdorf,51.8333,13.3500,85,85,Fläming,8580,Südliches Fläminghügelland,31.12.2001,Brandenburg
+12347,Walddrehna,51.7833,13.6167,115,84,Lausitzer Becken- und Heideland,8420,Lausitzer Grenzwall,,Brandenburg
+12351,Luckenwalde (PH),52.1000,13.1833,50,81,Mittelbrandenburgische Platten und Niederungen,8170,Baruther Tal (mit Fiener Bucht),31.12.2000,Brandenburg
+12358,Brieselang,52.6000,13.0000,30,78,Luchland,7800,"Unteres Rhinluch, Oberes Rhinluch und Havelländisches Luch",31.12.2001,Brandenburg
+12365,Wansdorf,52.6500,13.1000,35,78,Luchland,7820,Bellin und Glin,,Brandenburg
+12368,Fehrbellin (PH),52.8167,12.7833,35,78,Luchland,7800,"Unteres Rhinluch, Oberes Rhinluch und Havelländisches Luch",31.12.2002,Brandenburg
+12408,Michendorf,52.2833,13.0333,50,81,Mittelbrandenburgische Platten und Niederungen,8140,Beelitzer Heide,,Brandenburg
+12413,Werder,52.3667,12.9500,38,81,Mittelbrandenburgische Platten und Niederungen,8120,Brandenburg-Potsdamer Havelgebiet,01.01.2010,Brandenburg
+12418,Prenzlau,53.3167,13.9000,40,74,Rückland der Mecklenburgischen Seenplatte,7440,Uckermärkisches Hügelland (mit Uecker- und Randowtal),,Brandenburg
+12435,Stechow,52.6333,12.4667,40,87,Elbtalniederung,8730,Untere Havelniederung,31.12.1998,Brandenburg
+12458,Müncheberg,52.5167,14.1167,60,79,Ostbrandenburgische Platte,7940,Lebusplatte,,Brandenburg
+12461,Kaakstedt-Pinnow,53.2167,13.8000,40,74,Rückland der Mecklenburgischen Seenplatte,7440,Uckermärkisches Hügelland (mit Uecker- und Randowtal),31.12.1993,Brandenburg
+12462,Lychen,53.2167,13.3333,70,75,Mecklenburgische Seenplatte,7550,Neustrelitzer Kleinseenland,31.12.2014,Brandenburg
+12468,Fretzdorf,53.0667,12.5500,50,77,Nordbrandenburgisches Platten- und Hügelland,7760,Wittstock-Ruppiner Heide,31.12.2018,Brandenburg
+12469,Wittstock-Gadow,53.1167,12.6167,75,77,Nordbrandenburgisches Platten- und Hügelland,7760,Wittstock-Ruppiner Heide,31.12.1994,Brandenburg
+12471,Wittstock/Dosse,53.1667,12.4833,65,77,Nordbrandenburgisches Platten- und Hügelland,7750,Dosseniederung,,Brandenburg
+12474,Gadsdorf,52.2000,13.3333,40,81,Mittelbrandenburgische Platten und Niederungen,8150,Nuthe-Notte-Niederung,02.01.2007,Brandenburg
+12488,Greifswald-Eldena,54.0833,13.4500,5,72,Nordostmecklenburgisches Flachland,7220,Nordmecklenburgische Lehmplatten I,31.12.2006,Mecklenburg-Vorpommern
+12489,Neubrandenburg (Ph),53.5500,13.2667,40,74,Rückland der Mecklenburgischen Seenplatte,7420,Oberes Tollensegebiet (mit Tollensebecken),30.04.2019,Mecklenburg-Vorpommern
+12508,Tützpatz,53.7167,13.1500,70,74,Rückland der Mecklenburgischen Seenplatte,7420,Oberes Tollensegebiet (mit Tollensebecken),31.12.2019,Mecklenburg-Vorpommern
+12513,Ducherow,53.7667,13.7833,10,73,Oderhaffgebiet,7300,Ueckermünder Heide,31.12.2002,Mecklenburg-Vorpommern
+12518,Bad Doberan (Beob.-Stelle 1),54.1000,11.9000,15,71,Mecklenburgisch-Vorpommersches Küstengebiet,7110,Flachwelliges unteres Warnowgebiet,31.12.2002,Mecklenburg-Vorpommern
+12527,Moisall,53.8833,11.8333,80,74,Rückland der Mecklenburgischen Seenplatte,7400,Warnow-Recknitz-Gebiet (mit Bützower und Güstrower Becken),31.12.2007,Mecklenburg-Vorpommern
+12534,"Demmin, Hansestadt",53.9000,13.0500,20,72,Nordostmecklenburgisches Flachland,7240,Mecklenburgisch-Vorpommersches Grenztal,31.12.1994,Mecklenburg-Vorpommern
+12535,Quitzerow-Pensin,53.9333,13.0833,10,72,Nordostmecklenburgisches Flachland,7240,Mecklenburgisch-Vorpommersches Grenztal,31.12.1960,Mecklenburg-Vorpommern
+12538,Tutow,53.9167,13.2500,10,72,Nordostmecklenburgisches Flachland,7230,Nordmecklenburgische Lehmplatten II,31.12.2016,Mecklenburg-Vorpommern
+12561,Wendisch Baggendorf-Leyerhof,54.0833,12.9667,20,72,Nordostmecklenburgisches Flachland,7220,Nordmecklenburgische Lehmplatten I,,Mecklenburg-Vorpommern
+12563,Gülzow,53.8167,12.0667,15,74,Rückland der Mecklenburgischen Seenplatte,7400,Warnow-Recknitz-Gebiet (mit Bützower und Güstrower Becken),,Mecklenburg-Vorpommern
+12564,Güstrow-Schweriner Vorstadt,53.7833,12.2000,10,74,Rückland der Mecklenburgischen Seenplatte,7400,Warnow-Recknitz-Gebiet (mit Bützower und Güstrower Becken),30.12.2007,Mecklenburg-Vorpommern
+12582,Jessenitz,53.2667,11.0833,13,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),05.07.2007,Mecklenburg-Vorpommern
+12596,Helm,53.4667,11.1000,60,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),,Mecklenburg-Vorpommern
+12601,Grebs-Menkendorf,53.2667,11.3167,20,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),31.12.2012,Mecklenburg-Vorpommern
+12602,Ludwigslust-Techentin (Beob.-Stelle 1),53.3333,11.5167,30,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),31.12.1994,Mecklenburg-Vorpommern
+12609,Goldberg (Beob.-Stelle 1),53.6000,12.1000,55,75,Mecklenburgische Seenplatte,7520,Sternberg-Krakower Seen- und Sandergebiet,31.12.1991,Mecklenburg-Vorpommern
+12615,Dargun,53.9000,12.8667,15,74,Rückland der Mecklenburgischen Seenplatte,7410,Oberes Peenegebiet (mit Teterower und Malchiner Becken),,Mecklenburg-Vorpommern
+12640,"Dierhagen, Ostseebad",54.2833,12.3667,2,71,Mecklenburgisch-Vorpommersches Küstengebiet,7130,Nordmecklenburgisches Boddenland,31.12.2005,Mecklenburg-Vorpommern
+12642,Marlow-Recknitz,54.1500,12.5833,35,72,Nordostmecklenburgisches Flachland,7240,Mecklenburgisch-Vorpommersches Grenztal,,Mecklenburg-Vorpommern
+12651,Priborn,53.3000,12.6667,65,75,Mecklenburgische Seenplatte,7540,Mecklenburgisches Grosseenland,31.12.2012,Mecklenburg-Vorpommern
+12656,Groß Lüsewitz,54.0667,12.3167,35,74,Rückland der Mecklenburgischen Seenplatte,7400,Warnow-Recknitz-Gebiet (mit Bützower und Güstrower Becken),31.12.2015,Mecklenburg-Vorpommern
+12658,Sanitz (Kerngemeinde),54.0833,12.4000,45,74,Rückland der Mecklenburgischen Seenplatte,7400,Warnow-Recknitz-Gebiet (mit Bützower und Güstrower Becken),31.12.1996,Mecklenburg-Vorpommern
+12668,Putbus (Ph),54.3533,13.4757,25,71,Mecklenburgisch-Vorpommersches Küstengebiet,7140,Höhen- und Binnenbodden von Nordrügen,,Mecklenburg-Vorpommern
+12671,Sehlen,54.3667,13.3333,10,72,Nordostmecklenburgisches Flachland,7200,Inneres Flach- und Hügelland von Rügen,31.12.1998,Mecklenburg-Vorpommern
+12684,Franzburg (Beob.-Stelle 2),54.1833,12.9000,10,72,Nordostmecklenburgisches Flachland,7220,Nordmecklenburgische Lehmplatten I,31.12.2017,Mecklenburg-Vorpommern
+12693,Leppin,53.4833,13.4500,105,74,Rückland der Mecklenburgischen Seenplatte,7420,Oberes Tollensegebiet (mit Tollensebecken),,Mecklenburg-Vorpommern
+12695,Woldegk (Beob.-Stelle 1),53.4667,13.6167,110,74,Rückland der Mecklenburgischen Seenplatte,7430,Woldegk-Feldberger Hügelland,,Mecklenburg-Vorpommern
+12704,Hohen Demzin-Grambzow,53.7333,12.5667,60,74,Rückland der Mecklenburgischen Seenplatte,7410,Oberes Peenegebiet (mit Teterower und Malchiner Becken),31.12.2004,Mecklenburg-Vorpommern
+12705,Hohen Demzin,53.7000,12.5333,65,74,Rückland der Mecklenburgischen Seenplatte,7410,Oberes Peenegebiet (mit Teterower und Malchiner Becken),31.12.2014,Mecklenburg-Vorpommern
+12724,Waren (Beob.-Stelle 1),53.5167,12.6667,70,75,Mecklenburgische Seenplatte,7540,Mecklenburgisches Grosseenland,,Mecklenburg-Vorpommern
+12745,Zinnowitz,54.0833,13.9167,2,71,Mecklenburgisch-Vorpommersches Küstengebiet,7150,Usedomer Hügelland,,Mecklenburg-Vorpommern
+12765,Plauen (Kerngemeinde),50.5000,12.1500,375,41,Vogtland,4110,Mittelvogtländisches Kuppenland,31.12.1999,Sachsen
+12770,Frohnau,50.5833,12.9833,600,42,Erzgebirge,4230,Unteres Westerzgebirge,31.12.1960,Sachsen
+12784,Zschorlau (Beob.-Stelle 1),50.5500,12.6500,550,42,Erzgebirge,4230,Unteres Westerzgebirge,,Sachsen
+12788,Falkenstein/Vogtl.,50.4833,12.3667,550,41,Vogtland,4120,Oberes Vogtland,31.12.1960,Sachsen
+12789,Grünbach/Vogtl.,50.4500,12.3667,675,42,Erzgebirge,4210,Oberes Westerzgebirge,31.12.1993,Sachsen
+12792,Treuen,50.5333,12.3000,440,41,Vogtland,4120,Oberes Vogtland,31.12.2011,Sachsen
+12796,Neschwitz,51.2667,14.3333,150,89,Oberlausitzer Heideland,8900,Oberlausitzer Teichgebiet,31.12.2009,Sachsen
+12797,Spittel,51.1500,14.6333,260,44,Oberlausitz,4440,Lausitzer Gefilde,31.12.1996,Sachsen
+12802,Rammenau (PH),51.1500,14.1333,320,44,Oberlausitz,4430,Westlausitzer Vorberge,31.12.1960,Sachsen
+12803,Groitzsch b. Pegau-Berndorf,51.1000,12.3167,150,46,Sächsisches Hügelland (einschließlich Leipziger Land),4660,Altenburg-Zeitzer Lößgebiet,31.12.2009,Sachsen
+12807,Frauenstein,50.8000,13.5333,600,42,Erzgebirge,4240,Unteres Osterzgebirge,31.12.1960,Sachsen
+12813,Burgstädt-Heiersdorf,50.9333,12.8167,290,45,Erzgebirgsvorland,4500,Mittelsächsisches Lößlehmhügelland,,Sachsen
+12820,Lindenhayn,51.5167,12.5000,100,46,Sächsisches Hügelland (einschließlich Leipziger Land),4670,Leipziger Land,31.12.2000,Sachsen
+12824,Dippoldiswalde (Nord),50.9000,13.6667,375,42,Erzgebirge,4240,Unteres Osterzgebirge,31.12.2010,Sachsen
+12830,Westewitz,51.1167,13.1167,210,46,Sächsisches Hügelland (einschließlich Leipziger Land),4630,Mittelsächsisches Lößgebiet,,Sachsen
+12841,Radebeul-Zitschewig,51.1167,13.6000,120,46,Sächsisches Hügelland (einschließlich Leipziger Land),4600,Dresdener Elbtalgebiet,31.12.1993,Sachsen
+12860,Freital-Kleinnaundorf,50.9833,13.6833,275,46,Sächsisches Hügelland (einschließlich Leipziger Land),4600,Dresdener Elbtalgebiet,30.12.2009,Sachsen
+12866,Wilsdruff (PH),51.0333,13.5500,280,46,Sächsisches Hügelland (einschließlich Leipziger Land),4600,Dresdener Elbtalgebiet,31.12.2000,Sachsen
+12873,Meerane,50.8667,12.4500,260,45,Erzgebirgsvorland,4520,Oberes Pleißeland,,Sachsen
+12879,Deschka,51.2667,15.0333,180,44,Oberlausitz,4400,Neißegebiet,,Sachsen
+12883,Colditz,51.1167,12.8000,190,45,Erzgebirgsvorland,4500,Mittelsächsisches Lößlehmhügelland,31.12.2019,Sachsen
+12899,Heinrichsort,50.7333,12.6500,400,45,Erzgebirgsvorland,4510,Erzgebirgisches Becken,31.12.1993,Sachsen
+12905,Laußnitz-Höckendorf,51.2167,13.9167,200,89,Oberlausitzer Heideland,8920,Königsbrück-Ruhlander Heiden,31.12.1997,Sachsen
+12907,Königsbrück,51.2500,13.9000,185,89,Oberlausitzer Heideland,8920,Königsbrück-Ruhlander Heiden,31.12.1998,Sachsen
+12921,Löbau,51.1000,14.6500,280,44,Oberlausitz,4440,Lausitzer Gefilde,,Sachsen
+12926,Pfaffroda-Dörnthal,50.7333,13.3333,620,42,Erzgebirge,4240,Unteres Osterzgebirge,31.12.2000,Sachsen
+12941,Niederau,51.1833,13.5500,140,46,Sächsisches Hügelland (einschließlich Leipziger Land),4630,Mittelsächsisches Lößgebiet,31.12.2012,Sachsen
+12942,Nossen-Zella,51.0667,13.2667,245,45,Erzgebirgsvorland,4500,Mittelsächsisches Lößlehmhügelland,,Sachsen
+12944,Lommatzsch-Piskowitz,51.2167,13.3667,140,46,Sächsisches Hügelland (einschließlich Leipziger Land),4630,Mittelsächsisches Lößgebiet,,Sachsen
+12948,Förstgen,51.3000,14.6667,145,89,Oberlausitzer Heideland,8900,Oberlausitzer Teichgebiet,31.12.2006,Sachsen
+12978,Mylau,50.6000,12.2667,375,41,Vogtland,4110,Mittelvogtländisches Kuppenland,31.12.2016,Sachsen
+12985,Rochlitz,51.0333,12.8000,180,45,Erzgebirgsvorland,4500,Mittelsächsisches Lößlehmhügelland,23.10.1993,Sachsen
+12987,Schweikershain,51.0500,12.9667,280,45,Erzgebirgsvorland,4500,Mittelsächsisches Lößlehmhügelland,31.12.2015,Sachsen
+12994,Oberottendorf,51.0667,14.2167,385,44,Oberlausitz,4430,Westlausitzer Vorberge,10.03.2007,Sachsen
+13005,Dommitzsch,51.6500,12.8833,80,88,Elbe-Mulde-Tiefland,8810,Elbe-Elster-Tiefland,,Sachsen
+13012,Weißkeißel (Ph),51.5000,14.7333,125,89,Oberlausitzer Heideland,8910,Muskauer Heide,31.12.2000,Sachsen
+13015,Fraureuth,50.7000,12.3500,320,45,Erzgebirgsvorland,4520,Oberes Pleißeland,31.12.2000,Sachsen
+13017,Brandis b. Wurzen (Kerngemeinde),51.3167,12.6000,140,46,Sächsisches Hügelland (einschließlich Leipziger Land),4670,Leipziger Land,31.12.1997,Sachsen
+13041,Aschersleben (Nordwest),51.7667,11.4333,145,50,Mitteldeutsches Schwarzerdegebiet,5020,Nordöstliches Harzvorland,31.12.1993,Sachsen-Anhalt
+13046,Mehringen,51.7333,11.5000,115,50,Mitteldeutsches Schwarzerdegebiet,5020,Nordöstliches Harzvorland,31.12.2014,Sachsen-Anhalt
+13074,Nedlitz,52.1333,11.8333,60,85,Fläming,8520,Zerbster Land (mit Leitzkauer Höhen),31.12.2017,Sachsen-Anhalt
+13077,Mansfeld-Annarode (PH),51.5500,11.4000,330,38,Harz,3830,Östliche Harzabdachung,31.12.2000,Sachsen-Anhalt
+13080,Burgsdorf,51.5833,11.6500,190,50,Mitteldeutsches Schwarzerdegebiet,5000,Östliches Harzvorland,31.12.1991,Sachsen-Anhalt
+13082,Erdeborn,51.4833,11.6333,140,50,Mitteldeutsches Schwarzerdegebiet,5000,Östliches Harzvorland,31.12.2006,Sachsen-Anhalt
+13083,Neehausen,51.5333,11.7000,180,50,Mitteldeutsches Schwarzerdegebiet,5000,Östliches Harzvorland,,Sachsen-Anhalt
+13092,Güsen,52.3500,11.9833,40,87,Elbtalniederung,8720,Genthiner Land,31.12.2004,Sachsen-Anhalt
+13101,Schköna,51.6833,12.5500,150,88,Elbe-Mulde-Tiefland,8800,Dahlen-Dübener Heide,,Sachsen-Anhalt
+13107,Berßel (PH),51.9500,10.7667,134,51,Nördliches Harzvorland,5100,Harzrandmulde,31.12.1999,Sachsen-Anhalt
+13115,Osterwieck,51.9667,10.7167,150,51,Nördliches Harzvorland,5100,Harzrandmulde,31.12.2019,Sachsen-Anhalt
+13121,Born b. Haldensleben,52.3833,11.4667,75,86,Altmark,8630,Letzlinger Heide,,Sachsen-Anhalt
+13126,Nordgermersleben-Tundersleben,52.2000,11.3333,130,50,Mitteldeutsches Schwarzerdegebiet,5040,Magdeburger Börde,,Sachsen-Anhalt
+13130,Kamern b. Schönhausen,52.7500,12.1000,25,87,Elbtalniederung,8740,Land Schollene,31.12.2001,Sachsen-Anhalt
+13135,Sylda,51.6833,11.4167,220,50,Mitteldeutsches Schwarzerdegebiet,5020,Nordöstliches Harzvorland,31.12.1992,Sachsen-Anhalt
+13140,Annaburg (Ph),51.7333,13.0333,75,88,Elbe-Mulde-Tiefland,8810,Elbe-Elster-Tiefland,31.12.2014,Sachsen-Anhalt
+13149,Seyda,51.8833,12.9000,80,85,Fläming,8580,Südliches Fläminghügelland,31.12.1997,Sachsen-Anhalt
+13158,Ristedt,52.6333,11.0833,47,86,Altmark,8610,Jeetze-Dümme-Lehmplatte und Arendseer Platte,,Sachsen-Anhalt
+13169,Reupzig,51.7333,12.0667,80,50,Mitteldeutsches Schwarzerdegebiet,5010,Köthener Ebene,31.12.2000,Sachsen-Anhalt
+13172,Kötzschau-Schladebach (Beob.-Stelle 1),51.3167,12.1167,105,46,Sächsisches Hügelland (einschließlich Leipziger Land),4670,Leipziger Land,31.12.2011,Sachsen-Anhalt
+13174,Merseburg (Ph),51.3482,11.9959,105,50,Mitteldeutsches Schwarzerdegebiet,5000,Östliches Harzvorland,,Sachsen-Anhalt
+13182,Kösen,51.1333,11.7333,160,48,Thüringer Becken und Randplatten Nrg 48,4890,Querfurter Platte und untere Unstrutplatten,31.12.2013,Sachsen-Anhalt
+13198,Ottleben,52.0833,11.1167,115,51,Nördliches Harzvorland,5120,Ostbraunschweigisches Hügelland,,Sachsen-Anhalt
+13199,Gröningen b. Oschersleben,51.9500,11.2167,90,50,Mitteldeutsches Schwarzerdegebiet,5020,Nordöstliches Harzvorland,31.12.1993,Sachsen-Anhalt
+13212,Hohenberg-Krusemark,52.7167,11.9500,30,86,Altmark,8620,Stendaler Land,31.12.2003,Sachsen-Anhalt
+13243,Binde,52.8500,11.3833,30,86,Altmark,8610,Jeetze-Dümme-Lehmplatte und Arendseer Platte,31.12.2002,Sachsen-Anhalt
+13251,Brunau,52.7500,11.4667,35,86,Altmark,8610,Jeetze-Dümme-Lehmplatte und Arendseer Platte,31.12.1972,Sachsen-Anhalt
+13254,Dietersdorf b. Roßla,51.5333,11.0500,430,38,Harz,3830,Östliche Harzabdachung,31.12.2001,Sachsen-Anhalt
+13262,Riestedt,51.5000,11.3667,200,48,Thüringer Becken und Randplatten Nrg 48,4880,"Unteres Unstrut-, Berg- und Hügelland",31.12.2015,Sachsen-Anhalt
+13268,Brumby,51.9000,11.7167,70,50,Mitteldeutsches Schwarzerdegebiet,5040,Magdeburger Börde,,Sachsen-Anhalt
+13273,Börde-Hakel-Hakeborn,51.9167,11.3667,100,50,Mitteldeutsches Schwarzerdegebiet,5020,Nordöstliches Harzvorland,31.12.2007,Sachsen-Anhalt
+13278,Steinfeld-Schönfeld (PH),52.6167,11.7333,45,86,Altmark,8620,Stendaler Land,31.12.1999,Sachsen-Anhalt
+13279,Stendal,52.6167,11.8667,35,86,Altmark,8620,Stendaler Land,,Sachsen-Anhalt
+13285,Tangerhütte (PH),52.4333,11.8167,35,87,Elbtalniederung,8700,Tangerhütter Niederung,31.12.2004,Sachsen-Anhalt
+13290,Wanzleben-Klein Wanzleben,52.0833,11.3667,120,50,Mitteldeutsches Schwarzerdegebiet,5040,Magdeburger Börde,31.12.1999,Sachsen-Anhalt
+13302,Börnecke,51.8167,11.0333,160,51,Nördliches Harzvorland,5100,Harzrandmulde,,Sachsen-Anhalt
+13307,Schierke,51.7667,10.6500,600,38,Harz,3810,Mittelharz,31.12.1992,Sachsen-Anhalt
+13330,Grimme,52.0333,12.3000,100,85,Fläming,8540,Rosslau-Wittenberger Vorfläming,31.12.2003,Sachsen-Anhalt
+13346,Weimar-Oberweimar (Ph),50.9667,11.3500,255,48,Thüringer Becken und Randplatten Nrg 48,4820,Thüringer Becken,,Thüringen
+13370,Oberheldrungen,51.3000,11.2167,153,48,Thüringer Becken und Randplatten Nrg 48,4870,Helme-Unstrut-Niederung,,Thüringen
+13376,Dermbach/Thür.,50.7167,10.1167,370,35,Osthessisches Bergland,3530,Vorder- und Kuppenrhön (mit Landrücken),31.12.1971,Thüringen
+13400,Gierstädt,51.0667,10.8333,240,48,Thüringer Becken und Randplatten Nrg 48,4820,Thüringer Becken,,Thüringen
+13422,Elsterberg/Vogtl.,50.6000,12.1667,320,41,Vogtland,4110,Mittelvogtländisches Kuppenland,31.12.2000,Thüringen
+13428,Bernterode b. Heilbad Heiligenstadt,51.3167,10.1667,350,48,Thüringer Becken und Randplatten Nrg 48,4830,"Ringgau, Hainich, Obereichsfeld und Dün-Hainleite",31.12.1999,Thüringen
+13443,Schachtebich,51.4000,10.0500,280,37,Weser-Leinebergland,3750,Unteres Eichsfeld,31.12.2004,Thüringen
+13448,Hildburghausen (PH),50.4333,10.7333,375,39,Thüringisch-Fränkisches Mittelgebirge,3900,Südliches Vorland des Thüringer Waldes,31.12.2002,Thüringen
+13459,Martinroda b. Ilmenau,50.7333,10.8833,430,47,Thüringer Becken und Randplatten Nrg 47,4740,Ilm-Saale- und Ohrdrufer Platte,31.12.1991,Thüringen
+13462,Camburg (PH),51.0500,11.7000,135,47,Thüringer Becken und Randplatten Nrg 47,4740,Ilm-Saale- und Ohrdrufer Platte,31.12.1998,Thüringen
+13467,Isserstedt,50.9667,11.5167,325,47,Thüringer Becken und Randplatten Nrg 47,4740,Ilm-Saale- und Ohrdrufer Platte,31.12.1998,Thüringen
+13499,Wasungen,50.6667,10.3667,270,35,Osthessisches Bergland,3590,Salzunger Werrabergland,31.12.2011,Thüringen
+13509,Mühlhausen/Thür.,51.2000,10.4667,230,48,Thüringer Becken und Randplatten Nrg 48,4820,Thüringer Becken,,Thüringen
+13536,Urbach b. Nordhausen,51.4833,10.9000,190,48,Thüringer Becken und Randplatten Nrg 48,4880,"Unteres Unstrut-, Berg- und Hügelland",31.12.2000,Thüringen
+13540,Gössitz,50.6167,11.6000,450,41,Vogtland,4100,Ostthüringisch-Vogtländische Hochflächen,31.12.2014,Thüringen
+13541,Langenorla,50.7500,11.5833,185,47,Thüringer Becken und Randplatten Nrg 47,4710,Saale-Elster-Sandsteinplatte,31.12.1997,Thüringen
+13565,Gräfenwarth,50.5333,11.7167,410,41,Vogtland,4100,Ostthüringisch-Vogtländische Hochflächen,31.12.1996,Thüringen
+13581,Schwallungen (PH),50.7000,10.3667,260,35,Osthessisches Bergland,3590,Salzunger Werrabergland,31.12.1997,Thüringen
+13584,Schmölln,50.8833,12.3667,110,46,Sächsisches Hügelland (einschließlich Leipziger Land),4660,Altenburg-Zeitzer Lößgebiet,,Thüringen
+13590,Orlishausen (PH),51.1500,11.2000,140,48,Thüringer Becken und Randplatten Nrg 48,4820,Thüringer Becken,31.12.1994,Thüringen
+13596,Gundersleben,51.3000,10.7667,275,48,Thüringer Becken und Randplatten Nrg 48,4830,"Ringgau, Hainich, Obereichsfeld und Dün-Hainleite",,Thüringen
+13614,Benshausen (PH),50.6500,10.6000,400,39,Thüringisch-Fränkisches Mittelgebirge,3900,Südliches Vorland des Thüringer Waldes,31.12.2001,Thüringen
+13618,Schleusingen (Ph),50.5167,10.7667,385,39,Thüringisch-Fränkisches Mittelgebirge,3900,Südliches Vorland des Thüringer Waldes,,Thüringen
+13626,Kranichfeld,50.8667,11.2000,300,47,Thüringer Becken und Randplatten Nrg 47,4740,Ilm-Saale- und Ohrdrufer Platte,,Thüringen
+13629,Ottstedt a. Berge,51.0167,11.2167,250,48,Thüringer Becken und Randplatten Nrg 48,4820,Thüringer Becken,31.10.2006,Thüringen
+13642,Kleinbartloff-Reifenstein,51.3500,10.3333,350,38,Harz,3830,Östliche Harzabdachung,,Thüringen
+13646,Worbis (PH),51.4333,10.3500,330,37,Weser-Leinebergland,3750,Unteres Eichsfeld,31.12.2006,Thüringen
+13649,Merkendorf/Thür.,50.7000,11.9833,400,41,Vogtland,4100,Ostthüringisch-Vogtländische Hochflächen,31.12.1997,Thüringen
+13655,Sülzenbrücken,50.8833,10.9000,265,48,Thüringer Becken und Randplatten Nrg 48,4820,Thüringer Becken,31.12.2010,Thüringen
+13658,Schwarzholz (Ph),52.7667,12.0000,30,87,Elbtalniederung,8750,Märkische Elbtalniederung,16.06.2011,Sachsen-Anhalt
+13664,Cuxhaven-Sahlenburg,53.8667,8.6333,15,67,Unterelbeniederung,6700,Stader Elbmarschen,31.12.2008,Niedersachsen
+13685,Georgsmarienhütte-Holsten-Mündrup,52.2167,8.1167,155,53,Unteres Weserbergland,5350,Osnabrücker Hügelland,,Niedersachsen
+13718,Bresegard bei Picher,53.3500,11.3000,32,76,Südwestliches Vorland der Mecklenburgischenseenplatte,7600,Südwestmecklenburgische Niederungen (mit Sanderflächen und Lehmplatten),31.12.2009,Mecklenburg-Vorpommern
+13719,Reichshof-Denklingen,50.9167,7.6500,310,33,Bergisch-Sauerländisches Gebirge,3390,Bergland der oberen Agger und Wiehl,,Nordrhein-Westfalen
+13783,Blieschow-Biosphärenreservat,54.3833,13.6333,40,71,Mecklenburgisch-Vorpommersches Küstengebiet,7140,Höhen- und Binnenbodden von Nordrügen,31.12.2014,Mecklenburg-Vorpommern
+13789,Westre-Klint,54.8333,9.0500,13,69,Schleswig-Holsteinische Geest,6900,Lecker Geest,,Schleswig-Holstein
+13906,Ventschow (Ph),53.7833,11.5667,45,75,Mecklenburgische Seenplatte,7510,Schweriner See-Gebiet,31.12.2015,Mecklenburg-Vorpommern
+13907,Weilrod-Niederlauken (Ph),50.3500,8.4333,300,30,Taunus,3020,Östlicher Hintertaunus,31.12.2018,Hessen
+13920,Einbeck-Stroit,51.9000,9.8667,240,37,Weser-Leinebergland,3770,Alfelder Bergland (mit Ith und Hils),,Niedersachsen
+13927,Burhave,53.5833,8.3667,2,61,Ems-Weser-Marsch,6120,Wesermarschen,31.12.2016,Niedersachsen
+13928,Gelnhausen-Meerholz,50.1833,9.1500,172,23,Rhein-Main-Tiefland,2330,Ronneburger Hügelland,31.12.2013,Hessen
+13935,Salzweg,48.6167,13.5000,445,40,Oberpfälzer und Bayerischer Wald,4080,Passauer Abteiland/Neuburger Wald,,Bayern
+13938,Groß Kreutz-Jeserig,52.4167,12.7000,33,81,Mittelbrandenburgische Platten und Niederungen,8120,Brandenburg-Potsdamer Havelgebiet,31.12.2013,Brandenburg
+13951,Mühlen-Eichsen,53.7667,11.2500,45,75,Mecklenburgische Seenplatte,7500,Westmecklenburgisches Seenhügelland,,Mecklenburg-Vorpommern
+13955,Grevesmühlen-Wotenitz,53.8333,11.1833,20,75,Mecklenburgische Seenplatte,7500,Westmecklenburgisches Seenhügelland,31.12.2011,Mecklenburg-Vorpommern
+13960,Grünheide-Freienbrink,52.3833,13.8000,38,82,Ostbrandenburgisches Heide- und Seengebiet,8200,Berlin-Fürstenwalder Spreetalniederung,31.12.2011,Brandenburg
+13962,Oschatz (Beob. Stelle 2),51.3000,13.0667,170,46,Sächsisches Hügelland (einschließlich Leipziger Land),4640,Oschatzer Hügelland,,Sachsen
+13993,Lage-Massbruch,52.0167,8.8000,113,36,Oberes Weserbergland,3640,Lipper Bergland,31.12.2019,Nordrhein-Westfalen
+13999,Konstanz-Litzelstetten,47.6667,9.1833,440,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.2006,Baden-Württemberg
+14091,Kränzlin,52.9000,12.7500,45,77,Nordbrandenburgisches Platten- und Hügelland,7770,Ruppiner Platte,,Brandenburg
+14107,Michelstadt-Vielbrunn (Ph),49.7167,9.1000,420,14,"Odenwald, Spessart und Südrhön",1440,Sandsteinodenwald,31.12.1954,Hessen
+14140,Friedberg-Bruchenbrücken,50.3000,8.7833,140,23,Rhein-Main-Tiefland,2340,Wetterau,,Hessen
+14192,Hochkirch (Ph),51.1481,14.5733,280,44,Oberlausitz,4440,Lausitzer Gefilde,31.12.2017,Sachsen
+14194,Walbeck-Hettstedt,51.6734,11.4732,210,48,Thüringer Becken und Randplatten Nrg 48,4880,"Unteres Unstrut-, Berg- und Hügelland",30.04.2015,Thüringen
+14218,Lage (Ph),51.9908,8.8003,103,36,Oberes Weserbergland,3640,Lipper Bergland,,Nordrhein-Westfalen
+14220,Hamminkeln (Ph),51.7360,6.5460,22,57,Niederrheinisches Tiefland,5760,Isselebene,,Nordrhein-Westfalen
+14221,Uedem-Keppeln (Ph),51.6956,6.2336,34,57,Niederrheinisches Tiefland,5740,Niederrheinische Höhen,,Nordrhein-Westfalen
+14230,Sigmaringen-Laiz (Ph),48.0722,9.1953,600,09,Schwäbische Alb (Schwabenalb),0950,Mittlere Flächenalb,31.12.2020,Baden-Württemberg
+14233,Öhringen (Ph),49.2039,9.4997,231,12,Gäuplatten im Neckar- und Tauberland,1270,Hohenloher und Haller Ebene,30.04.2015,Baden-Württemberg
+14242,Aitrach,47.9452,10.1078,601,04,Donau-Iller-Lech-Platten,0440,Unteres Illertal,31.12.2020,Bayern
+14243,Owingen (Ph),47.8333,9.1408,542,03,Voralpines Hügel-und Moorland,0310,Bodenseebecken,31.12.2020,Baden-Württemberg
+14245,Heideck (Ph),49.1103,11.1217,483,11,Fränkisches Keuper-Lias-Land,1130,Mittelfränkisches Becken,,Bayern
+14250,Loitendorf,49.3792,12.5986,493,40,Oberpfälzer und Bayerischer Wald,4010,Vorderer Oberpfälzer Wald,,Bayern
+14252,Großheirath (Ph),50.2556,10.9622,291,11,Fränkisches Keuper-Lias-Land,1170,Itz-Baunach-Hügelland,,Bayern
+14256,Weiden (Ph),49.6450,12.1289,480,07,Oberpfälzisch-Obermainisches Hügelland,0700,Oberpfälzisches Hügelland,,Bayern
+14259,Beimerstetten (Ph),48.3972,9.9783,481,09,Schwäbische Alb (Schwabenalb),0970,Lonetal-Flächenalb (niedere Alb),31.12.2017,Baden-Württemberg
+14330,Salz,50.3000,10.2167,250,14,"Odenwald, Spessart und Südrhön",1400,Südrhön,,Bayern
+14332,Bach a. d. Donau,49.0167,12.3000,360,40,Oberpfälzer und Bayerischer Wald,4060,Falkensteiner Vorwald,31.12.2012,Bayern
+14339,Calberlah,52.4333,10.6167,67,62,Weser-Aller-Flachland,6240,Ostbraunschweigisches Flachland,31.12.2016,Niedersachsen
+15000,Aachen-Orsbach,50.7983,6.0244,231,56,Vennvorland,5610,Aachener Hügelland,,Nordrhein-Westfalen
+15005,Großbadegast,51.7333,12.0333,80,50,Mitteldeutsches Schwarzerdegebiet,5010,Köthener Ebene,,Sachsen-Anhalt
+15020,Sulzheim,49.8500,8.1000,145,22,Nördliches Oberrheintiefland,2270,Alzeyer Hügelland,,Rheinland-Pfalz
+15033,Lippitsch,51.3167,14.4500,137,89,Oberlausitzer Heideland,8900,Oberlausitzer Teichgebiet,31.12.2016,Sachsen
+15035,Großlehna (Ph),51.3000,12.1667,111,46,Sächsisches Hügelland (einschließlich Leipziger Land),4670,Leipziger Land,,Sachsen
+15094,Heimbach-Weis,50.4500,7.5333,85,29,Mittelrheingebiet,2910,Mittelrheinisches Becken,31.12.2012,Rheinland-Pfalz
+15096,Aub-Burgerroth (Ph),49.5300,10.0300,290,13,Mainfränkische Platten,1300,Ochsenfurter und Gollachgau,,Bayern
+15097,Bodenkirchen (Ph),48.3800,12.4200,479,06,Unterbayerisches Hügelland,0600,Isar-Inn-Hügelland,,Bayern
+15099,Winterbach (Ph),48.4533,10.2800,450,04,Donau-Iller-Lech-Platten,0450,Donauried,,Bayern
+15104,Perkam,48.8700,12.4400,360,06,Unterbayerisches Hügelland,0640,Dungau,30.04.2015,Bayern
+15114,Schlüchtern-Hohenzell (Ph),50.3188,9.5414,325,35,Osthessisches Bergland,3500,Unterer Vogelsberg,,Hessen
+15115,Schondra-Einraffshof (Ph),50.2711,9.8342,390,35,Osthessisches Bergland,3530,Vorder- und Kuppenrhön (mit Landrücken),,Bayern
+15130,Wiegboldsbur,53.4500,7.3667,0,61,Ems-Weser-Marsch,6100,Emsmarschen,,Niedersachsen
+15131,Lippinghausen,52.1500,8.6333,110,53,Unteres Weserbergland,5310,Ravensberger Hügelland,,Nordrhein-Westfalen
+15135,Schömberg-Bieselsberg,48.8030,8.7072,540,15,Schwarzwald,1500,Schwarzwald-Randplatten,,Baden-Württemberg
+15138,Borna-Wyhra,51.0800,12.5140,150,46,Sächsisches Hügelland (einschließlich Leipziger Land),4660,Altenburg-Zeitzer Lößgebiet,,Sachsen
+15141,Gandersum,53.3333,7.3167,1,61,Ems-Weser-Marsch,6110,Ostfriesische Seemarschen,,Niedersachsen
+15175,Ebhausen (Ph),48.5900,8.6700,550,15,Schwarzwald,1500,Schwarzwald-Randplatten,,Baden-Württemberg
+15203,Rathenow (Ph),52.5833,12.3500,29,87,Elbtalniederung,8730,Untere Havelniederung,,Brandenburg
+15211,Simbach a. Inn,48.2667,13.0333,340,05,Isar-Inn-Schotterplatten,0540,Unteres Inntal,31.12.1993,Bayern
+15230,Mannheim-Neuhermsheim,49.4683,8.5002,95,22,Nördliches Oberrheintiefland,2220,Nördliche Oberrheinniederung,,Baden-Württemberg
+15243,Dürnau,48.0618,9.5572,590,04,Donau-Iller-Lech-Platten,0400,Donau-Ablach-Platten,,Baden-Württemberg
+15250,Sibbesse (Ph),52.0539,9.9089,188,37,Weser-Leinebergland,3790,Innerstebergland,,Niedersachsen
+15251,Twist (Ph),52.6325,7.1119,21,58,Dümmer-Geestniederung,5800,Nordhorn-Bentheimer Sandniederung,,Niedersachsen
+15252,Hörselberg-Hainich-Behringen (Ph),51.0219,10.5158,290,48,Thüringer Becken und Randplatten Nrg 48,4830,"Ringgau, Hainich, Obereichsfeld und Dün-Hainleite",,Thüringen
+15253,Drewitz (Ph),52.2174,12.1634,80,85,Fläming,8500,Burg-Ziesarer Vorfläming,,Sachsen-Anhalt
+15447,Göschitz (Ph),50.6275,11.8692,410,41,Vogtland,4100,Ostthüringisch-Vogtländische Hochflächen,,Thüringen
+15450,Tauscha-Würschnitz (Ph),51.2361,13.7956,170,89,Oberlausitzer Heideland,8920,Königsbrück-Ruhlander Heiden,31.12.2013,Sachsen
+15451,Salzwedel (Ph),52.8567,11.1400,23,86,Altmark,8610,Jeetze-Dümme-Lehmplatte und Arendseer Platte,,Sachsen-Anhalt
+15460,Dachwig (Ph),51.0778,10.8618,170,48,Thüringer Becken und Randplatten Nrg 48,4870,Helme-Unstrut-Niederung,,Thüringen
+15463,Hemkenrode,52.2264,10.7085,170,51,Nördliches Harzvorland,5120,Ostbraunschweigisches Hügelland,,Niedersachsen
+15464,Leipzig-Engelsdorf,51.3390,12.4855,130,46,Sächsisches Hügelland (einschließlich Leipziger Land),4670,Leipziger Land,,Sachsen
+15473,Münsingen-Apfelstetten (Ph),48.3756,9.4963,790,09,Schwäbische Alb (Schwabenalb),0930,Hohe Schwabenalb,,Baden-Württemberg
+15474,Erbendorf (Ph),49.8397,12.0471,500,39,Thüringisch-Fränkisches Mittelgebirge,3960,Naab-Wondreb-Senke,,Bayern
+15480,Alsfeld-Eifa (Ph),50.7446,9.3450,300,35,Osthessisches Bergland,3550,Fulda-Haune-Tafelland,,Hessen
+15492,Westendorf-Kaltental,47.9097,10.7542,678,04,Donau-Iller-Lech-Platten,0460,Iller-Lech-Schotterplatten,,Bayern
+15493,Freiburg-Stadt (Ph),48.0049,7.8482,236,20,Südliches Oberrheintiefland,2020,Freiburger Bucht,31.12.2002,Baden-Württemberg
+15494,Biengen (Ph),47.9413,7.6884,210,02,Schwäbisch-Oberbayerische Voralpen,0200,Vorderer Bregenzer Wald,,Baden-Württemberg
+15495,Gemünden/Felda-Burggemünden (Ph),50.6827,9.0353,245,34,Westhessiches Bergland,3490,Vorderer Vogelsberg,31.12.2014,Hessen
+15497,Graustein (Ph),51.5718,14.4767,139,84,Lausitzer Becken- und Heideland,8420,Lausitzer Grenzwall,,Brandenburg
+15500,Meyenburg (Ph),53.3079,12.2940,98,77,Nordbrandenburgisches Platten- und Hügelland,7720,Parchim-Meyenburger Sandflächen,,Brandenburg
+15501,Ummanz-Lieschow (Ph),54.4401,13.1785,2,71,Mecklenburgisch-Vorpommersches Küstengebiet,7130,Nordmecklenburgisches Boddenland,,Mecklenburg-Vorpommern
+15509,Penkefitz (Ph),53.1411,11.1141,12,87,Elbtalniederung,8760,Untere Mittelelbe-Niederung,,Niedersachsen
+15516,Wuppertal-Düsselerhöhe,51.2648,7.0714,225,33,Bergisch-Sauerländisches Gebirge,3370,Bergisch-Sauerländisches Unterland,,Nordrhein-Westfalen
+15534,Blankenberg-Friedrichswalde,53.7662,11.7508,40,75,Mecklenburgische Seenplatte,7520,Sternberg-Krakower Seen- und Sandergebiet,,Mecklenburg-Vorpommern
+15538,Hückelhoven-Rurich,51.0150,6.2716,60,57,Niederrheinisches Tiefland,5700,Selfkant,,Nordrhein-Westfalen
+15548,Wegberg,51.1197,6.2518,80,57,Niederrheinisches Tiefland,5710,Schwalm-Nette-Platten,,Nordrhein-Westfalen
+15549,Wiehl-Drabenderhöhe,50.9441,7.4530,320,33,Bergisch-Sauerländisches Gebirge,3390,Bergland der oberen Agger und Wiehl,,Nordrhein-Westfalen
+15554,"Oldendorf, Stade",53.5615,9.2798,15,63,Stader Geest,6340,Zevener Geest,,Niedersachsen
+15814,Kleinberghofen,48.3571,11.2805,500,06,Unterbayerisches Hügelland,0620,Donau-Isar-Hügelland,,Bayern
+15815,Tarmstedt-Vorwerk,53.1901,9.1522,25,63,Stader Geest,6340,Zevener Geest,31.12.2018,Niedersachsen
+15817,Hartenstein,50.6641,12.6643,380,45,Erzgebirgsvorland,4510,Erzgebirgisches Becken,,Sachsen
+15920,Glashütte (Ph),50.8499,13.7629,368,42,Erzgebirge,4240,Unteres Osterzgebirge,31.12.2012,Sachsen
+15921,Ehingen am Ries (Ph),48.9656,10.5746,430,10,Schwäbisches Keuper-Lias-Land,1030,Ries,,Bayern
+15935,Westermarkelsdorf (Ph),54.5284,11.0605,3,70,Schleswig-Holsteinisches Hügelland,7030,Nordoldenburg und Fehmarn,31.12.2017,Schleswig-Holstein
+15940,Grönebach,51.2319,8.5596,610,33,Bergisch-Sauerländisches Gebirge,3330,Hochsauerland (Rothaargebirge),,Nordrhein-Westfalen
+15968,Großenstein (Ph),50.9034,12.2015,270,41,Vogtland,4100,Ostthüringisch-Vogtländische Hochflächen,,Thüringen
+15975,Ebermergen,48.7539,10.7115,420,08,Fränkische Alb (Frankenalb),0820,Südliche Frankenalb,,Bayern
+15983,Dietersheim/Mittelfr.,49.5528,10.5394,330,11,Fränkisches Keuper-Lias-Land,1140,Frankenhöhe,,Bayern
+15993,Essingen,48.8044,10.0279,500,10,Schwäbisches Keuper-Lias-Land,1020,Vorland der östlichen Schwäbischen Alb,,Baden-Württemberg
+16076,"Lippspringe, Bad (Ph)",51.7855,8.8388,157,54,Westfälische Tieflandsbucht,5400,Ostmünsterland,,Nordrhein-Westfalen
+19085,Harrislee,54.8042,9.3869,50,69,Schleswig-Holsteinische Geest,6970,Schleswiger Vorgeest,,Schleswig-Holstein
+19122,Tülau-Fahrenhorst (Ph),52.5780,10.8830,75,64,Lüneburger Heide,6420,Ostheide,,Niedersachsen
+19181,Oberstenfeld-Gronau,49.0328,9.3390,300,12,Gäuplatten im Neckar- und Tauberland,1230,Neckarbecken,,Baden-Württemberg
+19191,Werder-Neu Benthen,53.5291,11.9916,70,75,Mecklenburgische Seenplatte,7530,Oberes Warnow-Elde-Gebiet,,Mecklenburg-Vorpommern
+19242,München-Untermenzing,48.1807,11.4804,510,05,Isar-Inn-Schotterplatten,0510,Münchener Ebene,,Bayern
+19249,Schneppenbaum,51.7597,6.1902,20,57,Niederrheinisches Tiefland,5770,Untere Rheinniederung,,Nordrhein-Westfalen
+19292,Mönkhagen,53.9010,10.5616,15,70,Schleswig-Holsteinisches Hügelland,7020,Ostholsteinisches Hügel- und Seenland,,Schleswig-Holstein
+19293,Bickelsberg (Ph),48.2912,8.6948,676,10,Schwäbisches Keuper-Lias-Land,1000,Vorland der westlichen Schwäbischen Alb,,Baden-Württemberg
+19296,Saal,54.3401,12.5493,2,71,Mecklenburgisch-Vorpommersches Küstengebiet,7130,Nordmecklenburgisches Boddenland,,Mecklenburg-Vorpommern

@@ -1,0 +1,5 @@
+pandas
+jupyterlab
+matplotlib
+python-dotenv
+jupyterlab-dash

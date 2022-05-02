@@ -1,0 +1,98 @@
+Objekt_ID,Objekt,Objekt_englisch,Objekt_latein
+25,Rüben,beet,Beta vulgaris
+101,Beifuß,common wormwood,Artemisia vulgaris
+102,Busch-Windröschen,wood anemone,Anemone nemorosa
+103,Eberesche,rowan,Sorbus aucuparia
+104,Esche,ash,Fraxinus excelsior
+105,Europäische Lärche,European larch,Larix decidua
+106,Falscher Jasmin,mock orange,Philadelphus coronarius
+107,Fichte,Norway spruce,Picea abies
+108,Flieder,lilac,Syringa vulgaris
+109,Forsythie,forsythia,Forsythia suspensa
+110,Goldregen,golden chain tree,Laburnum anagyroides
+111,Birke (alle Arten),birch (all species),Betula
+112,Hänge-Birke,silver birch,Betula alba
+113,Hasel,common hazel,Corylus avellana
+114,Heidekraut,common heather,Calluna vulgaris
+115,Herbstzeitlose,autumn crocus,Colchicum autumnale
+116,Huflattich,coltsfoot,Tussilago farfara
+117,Hunds-Rose,dog rose,Rosa canina
+118,Kiefer,Scots pine,Pinus sylvestris
+119,Kornelkirsche,cornelian cherry,Cornus mas
+120,Löwenzahn,dandelion,Taraxacum officinale
+121,Robinie,black locust,Robinia pseudoacacia
+122,Rosskastanie,horse chestnut,Aesculus hippocastanum
+123,Rotbuche,European beech,Fagus sylvatica
+124,Sal-Weide,goat willow,Salix caprea
+125,Schlehe,blackthorn,Prunus spinosa
+126,Schneebeere,snowberry,Symphoricarpos albus
+127,Schneeglöckchen,common snowdrop,Galanthus nivalis
+128,Schwarz-Erle,European alder,Alnus glutinosa
+129,Schwarzer Holunder,black elder,Sambucus nigra
+130,Sommer-Linde,large leaved lime,Tilia platyphyllos
+131,Spitz-Ahorn,Norway maple,Acer platanoides
+132,Stiel-Eiche,pedunculate oak,Quercus robur
+133,Tanne,white fir,Abies alba
+134,Traubenkirsche,hackberry,Prunus padus
+135,Wiesen-Fuchsschwanz,meadow foxtail,Alopecurus pratensis
+136,Wiesen-Knäuelgras,orchard grass,Dactylis glomerata
+137,Winter-Linde,small leafed lime,Tilia cordata
+138,Zweigriffliger Weißdorn,midland hawthorn,Crataegus laevigata
+139,Erle (alle Arten),alder (all species),Alnus
+201,Dauergrünland,meadows,----------
+202,Winterweizen,winter wheat,Triticum aestivum
+203,Winterroggen,winter rye,Secale cereale
+204,Wintergerste,winter barley,Hordeum vulgare
+205,Winterraps,winter oilseed rape,Brassica napus var. napus
+206,Sommerweizen,spring wheat,Triticum aestivum
+207,Sommergerste,spring barley,Hordeum vulgare
+208,Hafer,oat,Avena sativa
+209,Sonnenblume,sunflower,Helianthus annuus
+210,Mais (ohne Sortenangabe),maize (without variety specification),Zea mays
+215,Mais,maize,Zea mays
+231,Kartoffel,potato,Solanum tuberosum
+232,"Frühkartoffel, vorgekeimt",early potato (pregerminated),Solanum tuberosum
+233,"Frühkartoffel, nicht vorgekeimt",early potato (non pregerminated),Solanum tuberosum
+234,Spätkartoffel,late potato,Solanum tuberosum
+241,Grünpflück-Bohne,green bean,Phaseolus vulgaris
+242,Grünpflück-Erbse,green pea,Pisum sativa
+243,Tomate,tomato,Solanum lycopersicum
+244,Weißkohl,white cabbage,Brassica oleracea var. capitata f. alba
+245,Luzerne,alfalfa,Medicago sativa
+246,Rotklee,red clover,Trifolim pratense
+250,Sorte unbekannt (Rübe),beet,Beta vulgaris
+252,Futter-Rübe,fodder beet,Beta vulgaris var. crassa
+253,Zucker-Rübe,sugar beet,Beta vulgaris var. altissima
+310,Apfel,apple,Malus domestica
+311,"Apfel, frühe Reife",apple (early ripeness),Malus domestica
+312,"Apfel, mittlere Reife",apple (middle ripeness),Malus domestica
+313,"Apfel, späte Reife",apple (late ripeness),Malus domestica
+320,Birne,pear,Pyrus communis
+321,"Birne, frühe Reife",pear (early ripeness),Pyrus communis
+322,"Birne, späte Reife",pear (late ripeness),Pyrus communis
+330,Süßkirsche,cherry,Prunus avium
+331,"Süßkirsche, frühe Reife",cherry (early ripeness),Prunus avium
+332,"Süßkirsche, späte Reife",cherry (late ripeness),Prunus avium
+340,Sauerkirsche,morello,Prunus cerasus
+350,Stachelbeere,gooseberry,Ribes uva-crispa
+360,Rote Johannisbeere,red currant,Ribes rubrum
+361,"Johannisbeere, alle Sorten",currant (all varieties),Ribes sylvestris
+370,Pflaume,plum,Prunus domestica
+371,"Pflaume, frühe Reife",plum (early ripeness),Prunus domestica
+372,"Pflaume, späte Reife",plum (late ripeness),Prunus domestica
+380,Aprikose,apricot,Prunus armeniaca
+381,Pfirsich,peach,Prunus persica
+382,Himbeere,raspberry,Rubus idaeus
+383,Brombeere,blackberry,Rubus fructicosus
+384,Erdbeere,strawberry,Fragaria
+410,Weinrebe,vine,Vitis vinifera
+411,"Weinrebe, frühe Reife",vine (early ripeness),Vitis vinifera
+412,"Weinrebe, mittelspäte Reife (bevorzugt Silvaner/Weißburgunder)",vine (middle-late ripeness - Silvaner/Pinot Blanc preferred),Vitis vinifera
+413,"Weinrebe, späte Reife",vine (late ripeness),Vitis vinifera
+414,"Weinrebe, blaue Trauben (bevorzugt Portugieser/Spätburgunder)",vine (blue grapes - Portugieser/Pinot Noir preferred)),Vitis vinifera
+501,Feldarbeit,farming,----------
+601,Weidegang,cattle on the pastures,----------
+4111,Müller-Thurgau,vine (Müller-Thurgau),Vitis vinifera
+4112,Faber,vine (Faber),Vitis vinifera
+4131,Riesling,vine (Riesling),Vitis vinifera
+4132,Scheurebe,vine (Scheurebe),Vitis vinifera

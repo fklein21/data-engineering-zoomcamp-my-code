@@ -1,0 +1,50 @@
+Phase_ID,Phase,Phase_englisch
+1,Ergrünen Beginn,beginning of turning green
+2,Erstes Bluten,first bleeding of the vines
+3,Austrieb Beginn,sprouting of leaves
+4,Blattentfaltung Beginn,beginning of unfoalding of leaves
+5,Blüte Beginn,beginning of flowering
+6,Vollblüte,general flowering
+7,Blüte Ende,end of flowering
+8,Maitrieb,beginning of may sprouting
+9,Johannistrieb,St. John's sprout
+10,Bestellung Beginn,beginning of tilling sowing drilling
+11,Pflanzen Beginn,beginning of planting
+12,Auflaufen Beginn,beginning of emergence
+13,Bestand geschlossen,closed stand
+14,Rosettenbildung Beginn,beginning of rosette formation
+15,Schossen Beginn,beginning of shooting
+16,Blattbildung Beginn,beginning of formation of leaves
+17,Knospenbildung Beginn,beginning of bud formation
+18,Ährenschieben Beginn,beginning of heading
+19,Milchreife Beginn,beginning of mil ripeness
+20,Teigreife Beginn,beginning of wax-ripe stage
+21,Gelbreife Beginn,yellow ripeness
+22,Vollreife Beginn,beginning of full ripeness
+23,Ernte von Hand,hand harvest
+24,Ernte,harvest
+25,1. Heuschnitt,first cut for hay
+26,1. Silageschnitt,first cut for silage
+27,2. Heuschnitt,second cut for hay
+28,2. Silageschnitt,second cut for silage
+29,Pflückreife Beginn,fruit ripe for picking
+30,Lese,grape harvest
+31,herbstliche Blattverfärbung,autumn colouring of leaves
+32,herbstlicher Blattfall,autumn leave fall
+33,Beginn,beginning
+34,Ende,ending
+35,1. Heu- oder (!) Silageschnitt,first cut for hay or silage
+36,2. Heu- oder (!) Silageschnitt,second cut for hay or silage
+37,Narbenfädenschieben Beginn,beginning of silk emergence
+38,Körner-Ernte Beginn,grain harvest
+39,Silo-Ernte Beginn,silage harvest
+40,Lesereife,grapes ripe for picking
+41,Blüte Ende im Beobachtungsgebiet,end of flowering in the observation area
+42,Reife Beginn Weinrebe,beginning of ripeness of grapes
+61,Nadelentfaltung Beginn,beginning of unfoalding of needles
+62,erste reife Früchte,first ripe fruit
+63,herbstliche Nadelverfärbung,autumn colouring of needles
+64,herbstlicher Nadelfall,autumn needle fall
+65,Fahnenschieben Beginn,tip of tassel visible
+66,Rispenschieben Beginn,beginning tassel emergence
+67,Längenwachstum Beginn,beginning of growth in height
